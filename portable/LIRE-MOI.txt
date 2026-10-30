@@ -1,0 +1,51 @@
+MINUIT — ÉDITION 02 — PREMIER LANCEMENT
+
+1. Installez Node.js LTS depuis https://nodejs.org (une seule fois).
+2. Extrayez entièrement le fichier ZIP. Ne lancez pas les fichiers depuis le ZIP.
+3. Windows : double-cliquez sur « Lancer Minuit.bat ».
+   Mac : ouvrez un Terminal dans le dossier puis tapez :
+     sh "Lancer Minuit.command"
+   Linux : ouvrez un terminal dans le dossier puis tapez :
+     sh "Lancer Minuit.sh"
+4. Le navigateur s'ouvre. Sinon, saisissez http://127.0.0.1:4317
+5. Gardez la fenêtre du lanceur ouverte. Pour arrêter : Ctrl+C.
+
+Le dossier « web » doit rester à côté de demarrer.mjs.
+Aucun npm install, compte ou clé API n'est nécessaire.
+Le programme serveur nécessite Node.js 18 ou plus récent. Privilégiez Node.js LTS.
+
+POUR ESSAYER
+
+- Ouvrez « Joueurs & équipes » et ajoutez une équipe, puis des joueurs.
+- Cliquez sur « Ouvrir la projection ». Autorisez la nouvelle fenêtre si besoin.
+- Déplacez cette fenêtre sur le projecteur, en bureau étendu, puis « Plein écran ».
+- Gardez la régie sur votre écran de contrôle et cliquez sur « Démarrer ».
+- Le thème apparaît seul. Cliquez sur « Afficher la question » lorsque les équipes sont prêtes.
+- Affichez ensuite les indices, attribuez les points, révélez la réponse et les sources.
+
+50 nouvelles questions sourcées sont incluses. Les images de films ne sont pas encore incluses.
+
+SAUVEGARDES
+
+Utilisez « Exporter » pour garder un fichier de sauvegarde.
+Les parties sont conservées dans ce navigateur et sur cette adresse exacte.
+Gardez le même navigateur, le même profil et http://127.0.0.1:4317.
+Pour récupérer une partie commencée ailleurs, exportez-la puis importez-la ici.
+Une mise à jour de ce dossier ne supprime pas le stockage de votre navigateur.
+
+CONNEXION
+
+Le quiz et ses polices fonctionnent sans Internet. Une connexion est nécessaire
+pour ouvrir les références documentaires ou charger d'éventuelles images externes.
+Les deux fenêtres doivent être ouvertes dans le même navigateur sur cet ordinateur.
+Ce programme ne rend pas le quiz accessible depuis un autre appareil.
+
+MISE À JOUR DEPUIS L’ÉDITION 01
+
+Arrêtez l’ancien lanceur (Ctrl+C ou fermeture de sa fenêtre), puis extrayez ce
+nouveau ZIP dans un nouveau dossier. Lancez le fichier du nouveau dossier,
+puis actualisez votre navigateur (Ctrl+F5 si l’ancienne interface persiste).
+Gardez la même adresse http://127.0.0.1:4317 et le même navigateur.
+Les équipes et joueurs sont conservés. Les scores sont remis à zéro.
+L’ancienne partie reste disponible via « Exporter l’ancienne partie ».
+La répartition est : 25 films/séries, 13 tueurs en série, 12 faits divers français.

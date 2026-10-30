@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "q1",
+    "category": "cinema",
+    "title": "Un masque dans la nuit",
+    "prompt": "Dans quel film de 1978 Michael Myers revient-il à Haddonfield ?",
+    "answer": "Halloween : La Nuit des masques",
+    "clues": [
+      "Le film est réalisé par John Carpenter.",
+      "Laurie Strode y est interprétée par Jamie Lee Curtis."
+    ],
+    "explanation": "Accepter « Halloween » ou « La Nuit des masques ». Il s’agit du film de John Carpenter sorti en 1978.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Halloween : La Nuit des masques — version 240048236",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240048236",
+        "evidence": "Introduction : « est un film d'horreur américain réalisé par John Carpenter , sorti en 1978 . » […] « Michael Myers ( Nick Castle et Tony Moran ) » […] « retourne dans sa ville, Haddonfield. » […] « croisant notamment sur sa route la baby-sitter Laurie Strode ( Jamie Lee Curtis ). »",
+        "quotes": [
+          "est un film d'horreur américain réalisé par John Carpenter , sorti en 1978 .",
+          "Michael Myers ( Nick Castle et Tony Moran )",
+          "retourne dans sa ville, Haddonfield.",
+          "croisant notamment sur sa route la baby-sitter Laurie Strode ( Jamie Lee Curtis )."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240048236",
+        "documentId": "q1",
+        "retrievedSha256": "307fee79cad82cc8133f82d94d48eec05066cc9c4249bd689c2321dd8c5c7b0a"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q2",
+    "category": "cinema",
+    "title": "À la source du vampire",
+    "prompt": "Quel écrivain a publié le roman Dracula en 1897 ?",
+    "answer": "Bram Stoker",
+    "clues": [
+      "C’est un écrivain irlandais.",
+      "Son prénom est Bram."
+    ],
+    "explanation": "Bram Stoker publie Dracula en 1897. Le roman adopte une forme épistolaire.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Dracula — version 240645928",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240645928",
+        "evidence": "Introduction : « Dracula est un roman épistolaire de l'écrivain irlandais Bram Stoker publié en 1897. »",
+        "quotes": [
+          "Dracula est un roman épistolaire de l'écrivain irlandais Bram Stoker publié en 1897."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240645928",
+        "documentId": "q2",
+        "retrievedSha256": "b39d463cd780408390c0f4d9459a7d75b08d1a94b12cccdf83b69058f9118169"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q3",
+    "category": "cinema",
+    "title": "Un hôtel pour l’hiver",
+    "prompt": "Comment s’appelle l’hôtel dont Jack Torrance devient le gardien dans Shining ?",
+    "answer": "L’Overlook",
+    "clues": [
+      "Cet hôtel isolé se trouve dans le Colorado.",
+      "Son nom commence par « Over… »."
+    ],
+    "explanation": "Accepter « Overlook » ou « Hôtel Overlook ». Jack Torrance est engagé pour y assurer le gardiennage pendant l’hiver.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Shining (film) — version 240708748",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240708748",
+        "evidence": "Introduction : « Le film met en scène Jack Torrance, un écrivain ex-alcoolique et en panne d'inspiration, engagé pendant tout l'hiver comme gardien d'un grand hôtel isolé du Colorado , l'Hôtel Overlook, où il espère surmonter enfin son manque d'inspiration littéraire. »",
+        "quotes": [
+          "Le film met en scène Jack Torrance, un écrivain ex-alcoolique et en panne d'inspiration, engagé pendant tout l'hiver comme gardien d'un grand hôtel isolé du Colorado , l'Hôtel Overlook, où il espère surmonter enfin son manque d'inspiration littéraire."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240708748",
+        "documentId": "q3",
+        "retrievedSha256": "c6c711aca5b26903aac6cf79c59edc8e93d17e1214f0265c4a9fd33063003804"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q4",
+    "category": "cinema",
+    "title": "Qui se cache derrière la caméra ?",
+    "prompt": "Quel réalisateur signe le premier Scream, sorti en 1996 ?",
+    "answer": "Wes Craven",
+    "clues": [
+      "Il a aussi écrit et réalisé Les Griffes de la nuit, sorti en 1984.",
+      "Son prénom est Wes."
+    ],
+    "explanation": "Wes Craven réalise Scream ; Kevin Williamson en écrit le scénario.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Scream (film, 1996) — version 240769484",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240769484",
+        "evidence": "Introduction : « est un film d'horreur américain réalisé par Wes Craven , écrit par Kevin Williamson , sorti en 1996 . »",
+        "quotes": [
+          "est un film d'horreur américain réalisé par Wes Craven , écrit par Kevin Williamson , sorti en 1996 ."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240769484",
+        "documentId": "q4",
+        "retrievedSha256": "3379b82a65f1b3bfaee4288bd60545dbec5488a66e4059570fb0e7e0db677ef8"
+      },
+      {
+        "title": "Wikipédia, contributeurs — Les Griffes de la nuit — version 240214723",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240214723",
+        "evidence": "Introduction : « Les Griffes de la nuit ( A Nightmare on Elm Street ) est un film d'horreur américain , écrit et réalisé par Wes Craven , et sorti en 1984 . »",
+        "quotes": [
+          "Les Griffes de la nuit ( A Nightmare on Elm Street ) est un film d'horreur américain , écrit et réalisé par Wes Craven , et sorti en 1984 ."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240214723",
+        "documentId": "q11",
+        "retrievedSha256": "56ad90fa0a6cc1f5c95524e0ed46dff71de2fd0b0ab7ea992245ed6ac5c67b55"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q5",
+    "category": "cinema",
+    "title": "Vacances sous tension",
+    "prompt": "Sur quelle île fictive se déroule l’intrigue des Dents de la mer ?",
+    "answer": "Amity",
+    "clues": [
+      "Steven Spielberg réalise ce film sorti en 1975.",
+      "Le nom de l’île commence par « Ami… »."
+    ],
+    "explanation": "Le requin menace les baigneurs d’une station balnéaire située sur l’île fictive d’Amity.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Les Dents de la mer — version 238363505",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=238363505",
+        "evidence": "Introduction : « Les Dents de la mer ( Jaws , litt. « Les Mâchoires ») est un film américain réalisé par Steven Spielberg et sorti en 1975 , » […] « Le film met en scène un grand requin blanc mangeur d'hommes qui attaque les baigneurs d'une station balnéaire de la côte est des États-Unis située sur l'île fictive d'Amity . »",
+        "quotes": [
+          "Les Dents de la mer ( Jaws , litt. « Les Mâchoires ») est un film américain réalisé par Steven Spielberg et sorti en 1975 ,",
+          "Le film met en scène un grand requin blanc mangeur d'hommes qui attaque les baigneurs d'une station balnéaire de la côte est des États-Unis située sur l'île fictive d'Amity ."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "238363505",
+        "documentId": "q5",
+        "retrievedSha256": "cfe06fbc100f84c61f796d65ac5ba7b2e91f8dbdbbb27169d6a1d3844fb68a0b"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q6",
+    "category": "cinema",
+    "title": "Une ville à l’envers",
+    "prompt": "Dans quelle ville fictive se déroule Stranger Things ?",
+    "answer": "Hawkins",
+    "clues": [
+      "La ville se situe dans l’Indiana.",
+      "L’histoire y commence avec la disparition de Will Byers."
+    ],
+    "explanation": "Hawkins est la petite ville fictive de l’Indiana où surviennent les événements surnaturels de la série.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Stranger Things — version 239026872",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239026872",
+        "evidence": "Introduction : « La série se déroule de 1983 à 1989 et raconte l’histoire des habitants de la petite ville fictive d’Hawkins, dans l’Indiana, devenu le théâtre d’événements surnaturels après la disparition de Will Byers, un garçon de douze ans, »",
+        "quotes": [
+          "La série se déroule de 1983 à 1989 et raconte l’histoire des habitants de la petite ville fictive d’Hawkins, dans l’Indiana, devenu le théâtre d’événements surnaturels après la disparition de Will Byers, un garçon de douze ans,"
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "239026872",
+        "documentId": "q6",
+        "retrievedSha256": "e868eaeff0b0093baaf3cf1afa442290f801e3800814ace2004ea92207e090c7"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q7",
+    "category": "cinema",
+    "title": "Un prénom à exorciser",
+    "prompt": "Comment s’appelle la jeune fille possédée dans L’Exorciste, sorti en 1973 ?",
+    "answer": "Regan MacNeil",
+    "clues": [
+      "Elle est interprétée par Linda Blair.",
+      "Son prénom commence par « Re… »."
+    ],
+    "explanation": "Accepter « Regan ». La distribution donne le nom complet Regan Theresa MacNeil.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — L'Exorciste (film) — version 240583268",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240583268",
+        "evidence": "Introduction et Distribution : « L’Exorciste ( The Exorcist ) est un film d'horreur américain réalisé par William Friedkin et sorti en 1973 . » […] « Il raconte l'histoire d'une petite fille, Regan MacNeil , possédée par un démon, » […] « Linda Blair (VF : Séverine Morisot / Noémie Orphelin ; VQ : Élisabeth Lenormand) : Regan Theresa MacNeil »",
+        "quotes": [
+          "L’Exorciste ( The Exorcist ) est un film d'horreur américain réalisé par William Friedkin et sorti en 1973 .",
+          "Il raconte l'histoire d'une petite fille, Regan MacNeil , possédée par un démon,",
+          "Linda Blair (VF : Séverine Morisot / Noémie Orphelin ; VQ : Élisabeth Lenormand) : Regan Theresa MacNeil"
+        ],
+        "section": "Introduction et Distribution",
+        "consultedAt": "2026-10-30",
+        "revision": "240583268",
+        "documentId": "q7",
+        "retrievedSha256": "f20214bb8abf0253a122661f505cb04790e5ab027957565eea8c90b3cff91708"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q8",
+    "category": "cinema",
+    "title": "Mercredi, avant la série",
+    "prompt": "Quelle actrice interprète Mercredi dans le film La Famille Addams de 1991 ?",
+    "answer": "Christina Ricci",
+    "clues": [
+      "Le prénom de l’actrice est Christina.",
+      "Son nom de famille commence par « Ric… »."
+    ],
+    "explanation": "Christina Ricci interprète Mercredi Addams dans ce film réalisé par Barry Sonnenfeld.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — La Famille Addams (film, 1991) — version 240547298",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240547298",
+        "evidence": "Introduction et Distribution : « La Famille Addams ( The Addams Family ) est un film américain réalisé par Barry Sonnenfeld et sorti en 1991 . » […] « Christina Ricci (VF : Sauvane Delanoe ) : Mercredi Addams, la fille de la famille ( Wednesday en VO ) »",
+        "quotes": [
+          "La Famille Addams ( The Addams Family ) est un film américain réalisé par Barry Sonnenfeld et sorti en 1991 .",
+          "Christina Ricci (VF : Sauvane Delanoe ) : Mercredi Addams, la fille de la famille ( Wednesday en VO )"
+        ],
+        "section": "Introduction et Distribution",
+        "consultedAt": "2026-10-30",
+        "revision": "240547298",
+        "documentId": "q8",
+        "retrievedSha256": "288c473c7550c530f295f298c9d95780b22071d8854074ff577d8cb4dc5f79df"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q9",
+    "category": "cinema",
+    "title": "Chambre avec mauvaise surprise",
+    "prompt": "Comment s’appelle le propriétaire du motel dans Psychose ?",
+    "answer": "Norman Bates",
+    "clues": [
+      "Il est interprété par Anthony Perkins.",
+      "Son prénom est Norman."
+    ],
+    "explanation": "Norman Bates est le personnage incarné par Anthony Perkins dans le film d’Alfred Hitchcock sorti en 1960.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Psychose (film) — version 240698299",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240698299",
+        "evidence": "Introduction : « Psychose ( Psycho ) est un thriller horrifique américain en noir et blanc réalisé par Alfred Hitchcock , sorti en 1960 . » […] « élève Anthony Perkins au rang de célébrité du cinéma. L'acteur y interprète Norman Bates , un jeune homme perturbé, propriétaire d'une vieille demeure surplombant le motel dont il est également propriétaire, »",
+        "quotes": [
+          "Psychose ( Psycho ) est un thriller horrifique américain en noir et blanc réalisé par Alfred Hitchcock , sorti en 1960 .",
+          "élève Anthony Perkins au rang de célébrité du cinéma. L'acteur y interprète Norman Bates , un jeune homme perturbé, propriétaire d'une vieille demeure surplombant le motel dont il est également propriétaire,"
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240698299",
+        "documentId": "q9",
+        "retrievedSha256": "9dd911cf5c729d9c1b8989716eed7a2968bd64a73e625e05231c66be243baead"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q10",
+    "category": "cinema",
+    "title": "Un clown dans le caniveau",
+    "prompt": "Dans quel film de 2017 apparaît le clown Grippe-Sou ?",
+    "answer": "Ça",
+    "clues": [
+      "Le film adapte un roman de Stephen King.",
+      "Son titre original est It."
+    ],
+    "explanation": "Accepter « Ça », « Ça : Chapitre 1 » ou « It ». Il s’agit de l’adaptation réalisée par Andrés Muschietti.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Ça (film, 2017) — version 240632426",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240632426",
+        "evidence": "Introduction et Synopsis : « Ça (intitulé à l'écran Ça : Chapitre 1 ; stylisé ÇA au Québec ; It en version originale) est un film d'horreur américain réalisé par Andrés Muschietti , sorti en 2017 . » […] « Il s'agit d'une adaptation cinématographique du roman Ça de Stephen King , » […] « un clown répondant au nom de Grippe-Sou ( Bill Skarsgård ) »",
+        "quotes": [
+          "Ça (intitulé à l'écran Ça : Chapitre 1 ; stylisé ÇA au Québec ; It en version originale) est un film d'horreur américain réalisé par Andrés Muschietti , sorti en 2017 .",
+          "Il s'agit d'une adaptation cinématographique du roman Ça de Stephen King ,",
+          "un clown répondant au nom de Grippe-Sou ( Bill Skarsgård )"
+        ],
+        "section": "Introduction et Synopsis",
+        "consultedAt": "2026-10-30",
+        "revision": "240632426",
+        "documentId": "q10",
+        "retrievedSha256": "bb5665e2c0ab04e55b72b8d1943b67d205fdc518fe1ba945be2f8b64728c03fb"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q11",
+    "category": "cinema",
+    "title": "Ne vous endormez pas",
+    "prompt": "Dans quel film de Wes Craven sorti en 1984 apparaît Freddy Krueger ?",
+    "answer": "Les Griffes de la nuit",
+    "clues": [
+      "Le titre original est A Nightmare on Elm Street.",
+      "Le titre français contient le mot « Griffes »."
+    ],
+    "explanation": "Les Griffes de la nuit met en scène Freddy Krueger, qui visite les rêves de Nancy.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Les Griffes de la nuit — version 240214723",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240214723",
+        "evidence": "Introduction : « Les Griffes de la nuit ( A Nightmare on Elm Street ) est un film d'horreur américain , écrit et réalisé par Wes Craven , et sorti en 1984 . » […] « Dans sa quête de vérité, elle découvrira que ses rêves sont visités par la réincarnation de Freddy Krueger , »",
+        "quotes": [
+          "Les Griffes de la nuit ( A Nightmare on Elm Street ) est un film d'horreur américain , écrit et réalisé par Wes Craven , et sorti en 1984 .",
+          "Dans sa quête de vérité, elle découvrira que ses rêves sont visités par la réincarnation de Freddy Krueger ,"
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240214723",
+        "documentId": "q11",
+        "retrievedSha256": "56ad90fa0a6cc1f5c95524e0ed46dff71de2fd0b0ab7ea992245ed6ac5c67b55"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q12",
+    "category": "cinema",
+    "title": "Attention au faux ami",
+    "prompt": "Qui a réalisé L’Étrange Noël de monsieur Jack, sorti en 1993 ?",
+    "answer": "Henry Selick",
+    "clues": [
+      "Tim Burton a imaginé l’histoire, mais n’a pas réalisé le film.",
+      "Le nom de famille du réalisateur est Selick."
+    ],
+    "explanation": "Henry Selick signe la réalisation. Tim Burton a imaginé l’histoire.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — L'Étrange Noël de monsieur Jack — version 240850274",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240850274",
+        "evidence": "Introduction : « L'Étrange Noël de monsieur Jack ( The Nightmare Before Christmas ) est un film de Noël d'animation américain réalisé par Henry Selick , sorti en 1993 . » […] « Imaginé par Tim Burton , scénarisé par Caroline Thompson » […] « Le film devait être initialement réalisé par Tim Burton, qui a laissé sa place à Henry Selick afin d'achever le tournage de Batman : Le Défi . »",
+        "quotes": [
+          "L'Étrange Noël de monsieur Jack ( The Nightmare Before Christmas ) est un film de Noël d'animation américain réalisé par Henry Selick , sorti en 1993 .",
+          "Imaginé par Tim Burton , scénarisé par Caroline Thompson",
+          "Le film devait être initialement réalisé par Tim Burton, qui a laissé sa place à Henry Selick afin d'achever le tournage de Batman : Le Défi ."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240850274",
+        "documentId": "q12",
+        "retrievedSha256": "13a98010c7deedf5ac5ab8663897acd9c819cde84f7965565ccc519bb9112012"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q13",
+    "category": "crime",
+    "title": "Londres, 1888",
+    "prompt": "À quel quartier londonien associe-t-on les crimes attribués à Jack l’Éventreur en 1888 ?",
+    "answer": "Whitechapel",
+    "clues": [
+      "Le quartier se trouve dans l’East End.",
+      "Son nom commence par « White… »."
+    ],
+    "explanation": "Whitechapel, dans l’East End de Londres. La question ne suppose aucune identité établie de l’auteur.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Jack the Ripper | Identity, Facts, Victims, and Suspects",
+        "url": "https://www.britannica.com/biography/Jack-the-Ripper",
+        "evidence": "Top Questions — Who was Jack the Ripper? : « Between August and November 1888, he murdered at least five women—all prostitutes—in or near the Whitechapel district of London’s East End. » […] « Jack the Ripper was never identified or arrested. »",
+        "quotes": [
+          "Between August and November 1888, he murdered at least five women—all prostitutes—in or near the Whitechapel district of London’s East End.",
+          "Jack the Ripper was never identified or arrested."
+        ],
+        "section": "Top Questions — Who was Jack the Ripper?",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q13",
+        "retrievedSha256": "23103d95a6ced7f21cec5456538cd57fc2ec81caa22581395a931ec5cbc9274f"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q14",
+    "category": "crime",
+    "title": "Des lettres qui défient l’enquête",
+    "prompt": "Quel tueur non identifié envoyait des messages chiffrés aux journaux de Californie à la fin des années 1960 ?",
+    "answer": "Le Zodiac",
+    "clues": [
+      "Il adressait notamment des lettres aux journaux de la baie de San Francisco.",
+      "Ses lettres commençaient souvent par « this is the Zodiac speaking »."
+    ],
+    "explanation": "Le Zodiac. Britannica le présente comme non identifié ; les hypothèses sur son identité ne sont pas des faits établis.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Zodiac killer | Name, Never Caught, Letters, Suspects, & Facts",
+        "url": "https://www.britannica.com/biography/Zodiac-killer",
+        "evidence": "Top Questions et Murders and letters : « The Zodiac killer was an unidentified American serial killer believed to have murdered at least five people in northern California between 1968 and 1969. » […] « typically began with the phrase, “this is the Zodiac speaking.” » […] « Included among the letters were four ciphers or cryptograms, the first of which was sent in three parts to three Bay Area newspapers in July 1969. »",
+        "quotes": [
+          "The Zodiac killer was an unidentified American serial killer believed to have murdered at least five people in northern California between 1968 and 1969.",
+          "typically began with the phrase, “this is the Zodiac speaking.”",
+          "Included among the letters were four ciphers or cryptograms, the first of which was sent in three parts to three Bay Area newspapers in July 1969."
+        ],
+        "section": "Top Questions et Murders and letters",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q14",
+        "retrievedSha256": "1b97910ff307e4290a39fa9a7452d5d79c81bd20da587d86d1ce90b3bab16061"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q15",
+    "category": "crime",
+    "title": "Deux évasions, une même année",
+    "prompt": "Quel tueur s’évade à deux reprises alors qu’il est détenu au Colorado en 1977 ?",
+    "answer": "Ted Bundy",
+    "clues": [
+      "Il sera ensuite condamné pour trois meurtres en Floride.",
+      "Son prénom usuel est Ted."
+    ],
+    "explanation": "Ted Bundy s’évade du palais de justice d’Aspen à l’été 1977, puis de sa cellule le 31 décembre 1977.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Ted Bundy | Biography, Last Meal, Crimes, Death, & Facts",
+        "url": "https://www.britannica.com/biography/Ted-Bundy",
+        "evidence": "Arrest and escape ; Top Questions : « In 1977 Bundy was transferred to a county jail in Aspen , Colorado , while he awaited trial for the murder of a nurse. He escaped that summer, jumping from a second-floor window at the local courthouse. Bundy was arrested several days later in Aspen. He went back to jail, but on December 31, 1977, he staged another escape, this time using a hole in his cell’s ceiling. » […] « In 1979–80 he was convicted of three murders in Florida: »",
+        "quotes": [
+          "In 1977 Bundy was transferred to a county jail in Aspen , Colorado , while he awaited trial for the murder of a nurse. He escaped that summer, jumping from a second-floor window at the local courthouse. Bundy was arrested several days later in Aspen. He went back to jail, but on December 31, 1977, he staged another escape, this time using a hole in his cell’s ceiling.",
+          "In 1979–80 he was convicted of three murders in Florida:"
+        ],
+        "section": "Arrest and escape ; Top Questions",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q15",
+        "retrievedSha256": "ba9ecc07be51086a95bf070e9ec9d9bc5f8287f3dcd209489242cb7ee9447b84"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q16",
+    "category": "crime",
+    "title": "Une ville du Wisconsin",
+    "prompt": "Dans quelle ville du Wisconsin Jeffrey Dahmer a-t-il commis la plupart de ses meurtres ?",
+    "answer": "Milwaukee",
+    "clues": [
+      "Il est également né dans cette ville en 1960.",
+      "La ville figure dans son surnom anglais « The Milwaukee Monster »."
+    ],
+    "explanation": "La plupart de ses meurtres ont été commis à Milwaukee. Il ne faut pas en déduire qu’ils y ont tous eu lieu.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Jeffrey Dahmer | Biography, Crimes, Death, & Facts",
+        "url": "https://www.britannica.com/biography/Jeffrey-Dahmer",
+        "evidence": "Quick Facts et corps de la notice : « Also called: “The Milwaukee Cannibal” and “The Milwaukee Monster” » […] « born May 21, 1960, Milwaukee , Wisconsin , U.S. » […] « during the next five years he killed—mostly in Milwaukee, Wisconsin—another 15 boys and young men, »",
+        "quotes": [
+          "Also called: “The Milwaukee Cannibal” and “The Milwaukee Monster”",
+          "born May 21, 1960, Milwaukee , Wisconsin , U.S.",
+          "during the next five years he killed—mostly in Milwaukee, Wisconsin—another 15 boys and young men,"
+        ],
+        "section": "Quick Facts et corps de la notice",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q16",
+        "retrievedSha256": "719da5ec620c356bc5b384c88880dda950b278e0216dfbb8fc59651be46036f9"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q17",
+    "category": "crime",
+    "title": "Un personnage de clown",
+    "prompt": "Quel tueur américain se produisait notamment sous le nom de « Pogo the Clown » ?",
+    "answer": "John Wayne Gacy",
+    "clues": [
+      "Il est arrêté en décembre 1978.",
+      "Ses deux premiers prénoms sont John Wayne."
+    ],
+    "explanation": "John Wayne Gacy apparaissait en clown sous les noms de Pogo ou Patches lors de divers événements.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — John Wayne Gacy | Biography, Murders, Execution, Paintings, & Facts",
+        "url": "https://www.britannica.com/biography/John-Wayne-Gacy",
+        "evidence": "Top Questions — How was John Wayne Gacy caught? ; Early life and first crimes : « John Wayne Gacy was caught in December 1978 » […] « He later appeared as a clown (“Pogo the Clown” or “Patches the Clown”) at various events. »",
+        "quotes": [
+          "John Wayne Gacy was caught in December 1978",
+          "He later appeared as a clown (“Pogo the Clown” or “Patches the Clown”) at various events."
+        ],
+        "section": "Top Questions — How was John Wayne Gacy caught? ; Early life and first crimes",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q17",
+        "retrievedSha256": "14133b16ad18ac2e44678a71da6a36c349867904eac3fc897fcf51925aa5a6d4"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q18",
+    "category": "crime",
+    "title": "Une profession de confiance",
+    "prompt": "Quel métier exerçait Harold Shipman ?",
+    "answer": "Médecin généraliste",
+    "clues": [
+      "Il obtient un diplôme de médecine à l’université de Leeds en 1970.",
+      "Son travail consistait à recevoir et soigner des patients."
+    ],
+    "explanation": "Accepter « médecin » ou « généraliste ». Britannica précise qu’il exerce comme general practitioner.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Harold Shipman | Doctor Death, Wife, Cause of Death, & Facts",
+        "url": "https://www.britannica.com/biography/Harold-Shipman",
+        "evidence": "Life and crimes : « In 1970 Shipman received a medical degree from Leeds University, and a few years later he became a general practitioner in Todmorden in Lancashire. » […] « Harold Shipman was a British doctor »",
+        "quotes": [
+          "In 1970 Shipman received a medical degree from Leeds University, and a few years later he became a general practitioner in Todmorden in Lancashire.",
+          "Harold Shipman was a British doctor"
+        ],
+        "section": "Life and crimes",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q18",
+        "retrievedSha256": "7a96d024245e22155ed2a53161f72298da596a2356ee6c921981aa60f52027f5"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q19",
+    "category": "crime",
+    "title": "L’indice était numérique",
+    "prompt": "Quel support informatique envoyé à la police aide à identifier Dennis Rader, dit BTK, en 2005 ?",
+    "answer": "Une disquette",
+    "clues": [
+      "Rader avait demandé à la police si ce support pouvait être retracé jusqu’à lui.",
+      "Son nom anglais est « floppy disk »."
+    ],
+    "explanation": "Une disquette. Les policiers ont pu la relier à son église, ce qui a aidé à l’identifier.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Dennis Rader | BTK, Floppy Disk, Murders, & Facts",
+        "url": "https://www.britannica.com/biography/Dennis-Rader",
+        "evidence": "Top Questions — How was Dennis Rader caught? : « In January 2005 police received a break after recovering a cereal box that included a note in which Rader asked police whether they would be able to trace a floppy disk he wanted to send them. » […] « He then sent them a disk, which the police quickly traced to his church, where he served as president of the congregation. »",
+        "quotes": [
+          "In January 2005 police received a break after recovering a cereal box that included a note in which Rader asked police whether they would be able to trace a floppy disk he wanted to send them.",
+          "He then sent them a disk, which the police quickly traced to his church, where he served as president of the congregation."
+        ],
+        "section": "Top Questions — How was Dennis Rader caught?",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q19",
+        "retrievedSha256": "35c232045091f5b82f5de3ea1e8c05c6638205c16cfce3caab9ecda6cd5b0c5e"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q20",
+    "category": "crime",
+    "title": "Un surnom dans la presse",
+    "prompt": "Sous quel surnom anglais Richard Ramirez était-il connu ?",
+    "answer": "Night Stalker",
+    "clues": [
+      "Ses crimes en Californie en 1984–1985 ont provoqué une forte inquiétude.",
+      "Les initiales du surnom sont N. S."
+    ],
+    "explanation": "Le surnom est « Night Stalker ». Le nom propre en anglais est la réponse attendue.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Richard Ramirez | Night Stalker, Death, TV Series, Childhood, & Facts",
+        "url": "https://www.britannica.com/biography/Richard-Ramirez",
+        "evidence": "Top Questions — Who was Richard Ramirez? : « In 1984–85 he murdered at least 13 people in California. » […] « Dubbed the “Night Stalker,” he triggered widespread panic. »",
+        "quotes": [
+          "In 1984–85 he murdered at least 13 people in California.",
+          "Dubbed the “Night Stalker,” he triggered widespread panic."
+        ],
+        "section": "Top Questions — Who was Richard Ramirez?",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q20",
+        "retrievedSha256": "e5731b37a3651f09c51e34d74a3831e65dffd2832c291bc900a84c34c92ad445"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q21",
+    "category": "crime",
+    "title": "De l’enquête à la minisérie",
+    "prompt": "Quel criminel français a inspiré la minisérie The Serpent de 2021 ?",
+    "answer": "Charles Sobhraj",
+    "clues": [
+      "Ses crimes sont associés à la route des voyageurs en Asie dans les années 1970.",
+      "Son prénom est Charles."
+    ],
+    "explanation": "Charles Sobhraj, surnommé « le Serpent ». La minisérie citée est une production BBC–Netflix.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Charles Sobhraj | The Serpent, The Bikini Killer, Early Life, Crimes, Arrests, Escapes, & Legacy",
+        "url": "https://www.britannica.com/biography/Charles-Sobhraj",
+        "evidence": "Top Questions et introduction : « Charles Sobhraj, also known as the Serpent or the Bikini Killer, is a French serial killer, smuggler, con artist, and thief known for his crimes along the Asian hippie trail in the 1970s. » […] « his story is recounted in books, documentaries, and dramatizations, including the BBC - Netflix miniseries The Serpent (2021). »",
+        "quotes": [
+          "Charles Sobhraj, also known as the Serpent or the Bikini Killer, is a French serial killer, smuggler, con artist, and thief known for his crimes along the Asian hippie trail in the 1970s.",
+          "his story is recounted in books, documentaries, and dramatizations, including the BBC - Netflix miniseries The Serpent (2021)."
+        ],
+        "section": "Top Questions et introduction",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q21",
+        "retrievedSha256": "7e008a5db09dcde905ededd5988f3d5750baba2bd04d7556e370199ad11f0dd4"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q22",
+    "category": "france",
+    "title": "Le Barbe-Bleue de Gambais",
+    "prompt": "Quel criminel français a été surnommé « le Barbe-Bleue de Gambais » ?",
+    "answer": "Henri Désiré Landru",
+    "clues": [
+      "Il est né à Paris en 1869.",
+      "Ses deux prénoms sont Henri et Désiré."
+    ],
+    "explanation": "Accepter « Landru » ou « Henri Désiré Landru ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Henri Désiré Landru — version 240673121",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240673121",
+        "evidence": "Introduction : « Henri Désiré Landru , né le 12 avril 1869 à Paris ( 19 arrondissement ) » […] « Il fut surnommé « le Barbe-Bleue de Gambais ». »",
+        "quotes": [
+          "Henri Désiré Landru , né le 12 avril 1869 à Paris ( 19 arrondissement )",
+          "Il fut surnommé « le Barbe-Bleue de Gambais »."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240673121",
+        "documentId": "q22",
+        "retrievedSha256": "4c42fb54cd49b21ef8c04600aee454395df4e8f2feb29eb1d7437adf65d1e226"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q23",
+    "category": "france",
+    "title": "Une adresse dans l’affaire Petiot",
+    "prompt": "Dans quelle rue parisienne se trouvait l’hôtel particulier au cœur de l’affaire Marcel Petiot ?",
+    "answer": "Rue Le Sueur",
+    "clues": [
+      "L’adresse portait le numéro 21.",
+      "Le nom de la rue commence par « Le S… »."
+    ],
+    "explanation": "L’hôtel particulier était situé au 21, rue Le Sueur, à Paris.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Marcel Petiot — version 239941829",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239941829",
+        "evidence": "L’affaire Petiot — Le cabinet macabre : « Le 11 août 1941 , il acquiert — ou loue — un hôtel particulier , à Paris, au 21, rue Le Sueur , »",
+        "quotes": [
+          "Le 11 août 1941 , il acquiert — ou loue — un hôtel particulier , à Paris, au 21, rue Le Sueur ,"
+        ],
+        "section": "L’affaire Petiot — Le cabinet macabre",
+        "consultedAt": "2026-10-30",
+        "revision": "239941829",
+        "documentId": "q23",
+        "retrievedSha256": "17a601b7f01296ef122897d14cc2e4b8618ab189e865acf0f63682403ebc1f86"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q24",
+    "category": "france",
+    "title": "Une page d’histoire judiciaire",
+    "prompt": "Quel homme est le dernier condamné à avoir été exécuté publiquement en France, en 1939 ?",
+    "answer": "Eugène Weidmann",
+    "clues": [
+      "L’exécution a lieu à Versailles le 17 juin 1939.",
+      "Son prénom est Eugène."
+    ],
+    "explanation": "Eugène Weidmann. Il s’agit de la dernière exécution publique, et non de la dernière exécution en France.",
+    "sources": [
+      {
+        "title": "INA — 1939, l’exécution d’Eugène Weidmann — 13 juin 2019, actualisé le 4 août 2020",
+        "url": "https://www.ina.fr/ina-eclaire-actu/1939-l-execution-d-eugene-weidmann",
+        "evidence": "Chapeau de l’article : « Le 17 juin 1939, le tueur en série Eugène Weidmann était exécuté à Versailles. » […] « il est le dernier condamné à mort exécuté en place publique en France. »",
+        "quotes": [
+          "Le 17 juin 1939, le tueur en série Eugène Weidmann était exécuté à Versailles.",
+          "il est le dernier condamné à mort exécuté en place publique en France."
+        ],
+        "section": "Chapeau de l’article",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "ina-weidmann",
+        "retrievedSha256": "732981f55799d107207161ffca64397a266a45752985af72d0a8b95f1b1da29a"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q25",
+    "category": "france",
+    "title": "Une reine éclaboussée par un scandale",
+    "prompt": "Quelle reine de France voit sa réputation atteinte par l’affaire du collier, bien qu’elle n’ait pas participé à l’escroquerie ?",
+    "answer": "Marie-Antoinette",
+    "clues": [
+      "Le scandale éclate en 1785.",
+      "Son prénom composé commence par « Marie »."
+    ],
+    "explanation": "Marie-Antoinette. La question porte sur sa réputation : la source précise qu’elle n’était pas coupable dans cette affaire.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire du collier de la reine — version 240441409",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240441409",
+        "evidence": "Introduction : « L'achat n'ayant pas été payé et le collier ayant disparu, le scandale éclate le 15 août 1785 . »",
+        "quotes": [
+          "L'achat n'ayant pas été payé et le collier ayant disparu, le scandale éclate le 15 août 1785 ."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240441409",
+        "documentId": "q25",
+        "retrievedSha256": "43cf016664d25cd04e5a5842bc9c401cbf7ba63947d31f8c2636e4ab0b98beee"
+      },
+      {
+        "title": "Encyclopædia Britannica — Affair of the Diamond Necklace | Summary & Facts",
+        "url": "https://www.britannica.com/event/Affair-of-the-Diamond-Necklace",
+        "evidence": "Conclusion de la notice : « Though Marie-Antoinette was guiltless, the scandal confirmed the belief of contemporaries in her moral laxness and frivolity. »",
+        "quotes": [
+          "Though Marie-Antoinette was guiltless, the scandal confirmed the belief of contemporaries in her moral laxness and frivolity."
+        ],
+        "section": "Conclusion de la notice",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "collier",
+        "retrievedSha256": "7fd1068c1d7cbc1bbdee1a2abbef2f7f8b22e16139bf7aa81736f3500aac9f3e"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q26",
+    "category": "france",
+    "title": "L’affaire des sœurs Papin",
+    "prompt": "Dans quelle ville a lieu le double meurtre commis par les sœurs Papin en 1933 ?",
+    "answer": "Le Mans",
+    "clues": [
+      "Christine et Léa Papin y travaillent comme employées de maison.",
+      "Le nom de la ville commence par « Le M… »."
+    ],
+    "explanation": "Le Mans. Le double meurtre a lieu le 2 février 1933.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Papin — version 240296316",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240296316",
+        "evidence": "Introduction : « Christine Papin ( 8 mars 1905 - 18 mai 1937 ) et Léa Papin ( 15 septembre 1911 - 24 juillet 2001 ), plus connues sous le nom des sœurs Papin , sont deux employées de maison ayant commis un double meurtre sur leurs patronnes le 2 février 1933 au Mans . »",
+        "quotes": [
+          "Christine Papin ( 8 mars 1905 - 18 mai 1937 ) et Léa Papin ( 15 septembre 1911 - 24 juillet 2001 ), plus connues sous le nom des sœurs Papin , sont deux employées de maison ayant commis un double meurtre sur leurs patronnes le 2 février 1933 au Mans ."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240296316",
+        "documentId": "q26",
+        "retrievedSha256": "bdcf37fc572ed378d691d5418b7c4dd483961386fc8a5457a09b6e21abe32f86"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q27",
+    "category": "france",
+    "title": "Un fait divers sur grand écran",
+    "prompt": "Qui réalise le film Violette Nozière, sorti au cinéma en 1978 ?",
+    "answer": "Claude Chabrol",
+    "clues": [
+      "Le rôle-titre est interprété par Isabelle Huppert.",
+      "Le prénom du réalisateur est Claude."
+    ],
+    "explanation": "Claude Chabrol réalise cette adaptation de l’affaire Nozière, avec Isabelle Huppert dans le rôle-titre.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Violette Nozière — version 239496038",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239496038",
+        "evidence": "Cinéma : « réalisé par Claude Chabrol en 1977 . Le rôle-titre est incarné par Isabelle Huppert . » […] « Le film sort au cinéma en France le 24 mai 1978 . »",
+        "quotes": [
+          "réalisé par Claude Chabrol en 1977 . Le rôle-titre est incarné par Isabelle Huppert .",
+          "Le film sort au cinéma en France le 24 mai 1978 ."
+        ],
+        "section": "Cinéma",
+        "consultedAt": "2026-10-30",
+        "revision": "239496038",
+        "documentId": "q27",
+        "retrievedSha256": "e2e785dbef1690625a9c6b4ae7674704555aa53dd97a75f446cc420772741d67"
+      },
+      {
+        "title": "INA — 1978, Chabrol et Huppert à propos de Violette Nozière — 21 juin 2019",
+        "url": "https://www.ina.fr/contenus-editoriaux/articles-editoriaux/1978-chabrol-et-huppert-a-propos-de-violette-noziere/",
+        "evidence": "Chapeau de l’article : « Le film Violette Nozière de Claude Chabrol est diffusé ce soir sur Arte. » […] « En 1978, Claude Chabrol et Isabelle Huppert étaient invités pour parler de cette femme »",
+        "quotes": [
+          "Le film Violette Nozière de Claude Chabrol est diffusé ce soir sur Arte.",
+          "En 1978, Claude Chabrol et Isabelle Huppert étaient invités pour parler de cette femme"
+        ],
+        "section": "Chapeau de l’article",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "ina-violette",
+        "retrievedSha256": "ad682feaa14012c98ce07ede0667be44cd0992228f0f4f1fccb7869c43bcc343"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q28",
+    "category": "france",
+    "title": "La rivière d’une affaire non résolue",
+    "prompt": "Dans quelle rivière Grégory Villemin est-il retrouvé le 16 octobre 1984 ?",
+    "answer": "La Vologne",
+    "clues": [
+      "L’affaire débute dans les Vosges.",
+      "Le nom de la rivière commence par « Vo… »."
+    ],
+    "explanation": "La Vologne. La référence présente l’affaire comme non résolue ; la question ne désigne aucun auteur.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Grégory — version 240029826",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240029826",
+        "evidence": "Introduction : « L' affaire Grégory Villemin débute le 16 octobre 1984 dans les Vosges . Grégory, âgé de quatre ans, est enlevé à son domicile de Lépanges-sur-Vologne et retrouvé mort le soir même dans la Vologne , à sept kilomètres de là. Le ou les assassins demeurent inconnus. »",
+        "quotes": [
+          "L' affaire Grégory Villemin débute le 16 octobre 1984 dans les Vosges . Grégory, âgé de quatre ans, est enlevé à son domicile de Lépanges-sur-Vologne et retrouvé mort le soir même dans la Vologne , à sept kilomètres de là. Le ou les assassins demeurent inconnus."
+        ],
+        "section": "Introduction",
+        "consultedAt": "2026-10-30",
+        "revision": "240029826",
+        "documentId": "q28",
+        "retrievedSha256": "977db1a0e73e8eeb7bf1429820e7415e0e12c1db014b4ede0e4d49497550f4f3"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q29",
+    "category": "france",
+    "title": "L’homme disparu de l’affaire Seznec",
+    "prompt": "Quel homme politique disparaît en 1923 lors du voyage à l’origine de l’affaire Seznec ?",
+    "answer": "Pierre Quéméneur",
+    "clues": [
+      "Il est conseiller général du Finistère.",
+      "Son prénom est Pierre."
+    ],
+    "explanation": "Pierre Quéméneur. La question porte sur la personne disparue, sans trancher les controverses entourant l’affaire.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Seznec — version 240545549",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240545549",
+        "evidence": "Introduction et L’affaire : « du meurtre de Pierre Quéméneur, conseiller général du Finistère , » […] « L'homme d'affaires et homme politique Pierre Quéméneur disparaît en 1923, pendant un voyage d'affaires qu'il effectuait en automobile avec Guillaume Seznec entre la Bretagne et Paris . »",
+        "quotes": [
+          "du meurtre de Pierre Quéméneur, conseiller général du Finistère ,",
+          "L'homme d'affaires et homme politique Pierre Quéméneur disparaît en 1923, pendant un voyage d'affaires qu'il effectuait en automobile avec Guillaume Seznec entre la Bretagne et Paris ."
+        ],
+        "section": "Introduction et L’affaire",
+        "consultedAt": "2026-10-30",
+        "revision": "240545549",
+        "documentId": "q29",
+        "retrievedSha256": "b2710f08da817f1b7834f85b76adca83bb06303acfb3eb45244d01415991862e"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  },
+  {
+    "id": "q30",
+    "category": "france",
+    "title": "Poisons à la cour",
+    "prompt": "Sous le règne de quel roi se déroule l’affaire des Poisons ?",
+    "answer": "Louis XIV",
+    "clues": [
+      "Une juridiction spéciale appelée « chambre ardente » est créée en 1679.",
+      "Madame de Montespan est la maîtresse de ce roi."
+    ],
+    "explanation": "Louis XIV. Les accusations rapportées dans cette affaire ne doivent pas être confondues avec des faits prouvés.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Affair of the Poisons | Poison Plot, Louis XIV, Witchcraft",
+        "url": "https://www.britannica.com/event/Affair-of-the-Poisons",
+        "evidence": "Corps de la notice : « A special tribunal for the trial of the accused, known as the chambre ardente , was created in April 1679. » […] « Among the many members of French society who were implicated was Madame de Montespan, the mistress of King Louis XIV . »",
+        "quotes": [
+          "A special tribunal for the trial of the accused, known as the chambre ardente , was created in April 1679.",
+          "Among the many members of French society who were implicated was Madame de Montespan, the mistress of King Louis XIV ."
+        ],
+        "section": "Corps de la notice",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "documentId": "q30",
+        "retrievedSha256": "98ae56805e67c1d1523d708e98bce7eef7ddb319ec72c3f89cd28c331e500574"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 1
+  }
+]

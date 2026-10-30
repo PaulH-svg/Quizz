@@ -1,0 +1,1614 @@
+[
+  {
+    "category": "cinema",
+    "title": "Un signal dans l’espace",
+    "prompt": "Quel film de 1979 suit un équipage de cargo spatial confronté à une créature extraterrestre ?",
+    "answer": "Alien, le huitième passager",
+    "clues": [
+      "Le vaisseau s’appelle le Nostromo.",
+      "Sigourney Weaver y joue Ellen Ripley."
+    ],
+    "explanation": "Accepter « Alien ». Ridley Scott réalise le premier film de la saga.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Alien (film) — version 240310749",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240310749",
+        "section": "Introduction et Distribution",
+        "quotes": [
+          "est un film de science-fiction horrifique de monstre américano - britannique imaginé et créé par le plasticien, graphiste, illustrateur, sculpteur et designer suisse, Hans Ruedi Giger et réalisé par Ridley Scott , sorti en 1979 . Écrit par Dan O'Bannon , il fait partie de la saga Alien , dont il constitue l'opus inaugural. Le film se déroule durant le voyage-retour",
+          "Le film se déroule durant le voyage-retour du cargo spatial Nostromo entre Thedus et la Terre après une mission commerciale de routine. Les sept membres",
+          "Sigourney Weaver (VF : Tania Torrens ) : le lieutenant Ellen Louise Ripley Yaphet Kotto (VF : Georges Aminel ) : le"
+        ],
+        "evidence": "Introduction et Distribution : « est un film de science-fiction horrifique de monstre américano - britannique imaginé et créé par le plasticien, graphiste, illustrateur, sculpteur et designer suisse, Hans Ruedi Giger et réalisé par Ridley Scott , sorti en 1979 . Écrit par Dan O'Bannon , il fait partie de la saga Alien , dont il constitue l'opus inaugural. Le film se déroule durant le voyage-retour » […] « Le film se déroule durant le voyage-retour du cargo spatial Nostromo entre Thedus et la Terre après une mission commerciale de routine. Les sept membres » […] « Sigourney Weaver (VF : Tania Torrens ) : le lieutenant Ellen Louise Ripley Yaphet Kotto (VF : Georges Aminel ) : le »",
+        "consultedAt": "2026-10-30",
+        "revision": "240310749",
+        "retrievedSha256": "a352aae93553a4b1eaef0d626984080070dcaaf5699c4b0b8f5ffed51416d461"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-001"
+  },
+  {
+    "category": "crime",
+    "title": "Une signature dans les lettres",
+    "prompt": "Sous quel surnom David Berkowitz signait-il ses lettres aux journaux new-yorkais ?",
+    "answer": "Son of Sam / le Fils de Sam",
+    "clues": [
+      "Il a raconté une histoire de démon lié au chien de son voisin, avant de se rétracter.",
+      "Le surnom fait référence à Sam Carr, le voisin de Berkowitz."
+    ],
+    "explanation": "Accepter « Son of Sam » ou « le Fils de Sam ». Les récits de possession démoniaque de Berkowitz ont été rétractés ; ils ne sont pas présentés comme vrais.",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — David Berkowitz | Prison, Crimes, Son of Sam, & Facts",
+        "url": "https://www.britannica.com/biography/David-Berkowitz",
+        "section": "Top Questions et corps de la notice",
+        "quotes": [
+          "David Berkowitz (born June 1, 1953, Brooklyn, New York , U.S.) is an American serial killer who murdered six people in New York City in 1976–77. His crimes plunged the city into a panic and unleashed one of the largest manhunts in",
+          "During his killing spree, David Berkowitz sent letters to New York newspapers, signing them “Son of Sam.” The name was a reference to a demon he said lived inside the black Labrador retriever owned by his neighbor Sam Carr. Berkowitz claimed the demon ordered him to kill. However, he later admitted that his claims about demonic possession were made up. David Berkowitz",
+          "However, he later admitted that his claims about demonic possession were made up. David Berkowitz (born"
+        ],
+        "evidence": "Top Questions et corps de la notice : « David Berkowitz (born June 1, 1953, Brooklyn, New York , U.S.) is an American serial killer who murdered six people in New York City in 1976–77. His crimes plunged the city into a panic and unleashed one of the largest manhunts in » […] « During his killing spree, David Berkowitz sent letters to New York newspapers, signing them “Son of Sam.” The name was a reference to a demon he said lived inside the black Labrador retriever owned by his neighbor Sam Carr. Berkowitz claimed the demon ordered him to kill. However, he later admitted that his claims about demonic possession were made up. David Berkowitz » […] Passages complémentaires : « However, he later admitted that his claims about demonic possession were made up. David Berkowitz (born »",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "retrievedSha256": "75354ce2764c6ed650bbe3636f6d1e3e0549f6b11e714fedefc5ba4a1c093d79"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-002"
+  },
+  {
+    "category": "cinema",
+    "title": "La route ramène toujours au même endroit",
+    "prompt": "Quelle série débutée en 2022 enferme des voyageurs dans une petite ville dont ils ne peuvent plus sortir ?",
+    "answer": "From",
+    "clues": [
+      "Harold Perrineau incarne Boyd Stevens, le shérif de la ville.",
+      "Chaque nuit, des créatures sortent de la forêt pour attaquer les habitants."
+    ],
+    "explanation": "Accepter « From ». La question porte sur la série créée par John Griffin.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — From — version 240834936",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240834936",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "From ( litt. « Provenances » ) est une série télévisée américaine , créée par John Griffin et diffusée depuis le 20 février 2022 sur le réseau Epix (renommée pour MGM+ ). En France , elle est diffusée à la même date sur Paramount+",
+          "La série se déroule dans une petite ville au milieu d'une forêt des États-Unis qui semble être un lieu prisonnier du temps et de l’espace. Les personnes qui s’y retrouvent sont coincées, sans possibilité d’en sortir. Les résidents de la ville doivent survivre chaque nuit aux créatures cauchemardesques qui sortent de la forêt pour tenter de les attaquer. Les résidents tentent aussi de trouver des indices dissimulés dans la ville et dans la forêt dans l'espoir de trouver un moyen de s'échapper. L'intrigue se concentre sur Boyd Stevens, le",
+          "Harold Perrineau ( VF : Daniel Njo Lobé ) : Boyd Stevens Catalina Sandino Moreno ( VF : Laëtitia"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « From ( litt. « Provenances » ) est une série télévisée américaine , créée par John Griffin et diffusée depuis le 20 février 2022 sur le réseau Epix (renommée pour MGM+ ). En France , elle est diffusée à la même date sur Paramount+ » […] « La série se déroule dans une petite ville au milieu d'une forêt des États-Unis qui semble être un lieu prisonnier du temps et de l’espace. Les personnes qui s’y retrouvent sont coincées, sans possibilité d’en sortir. Les résidents de la ville doivent survivre chaque nuit aux créatures cauchemardesques qui sortent de la forêt pour tenter de les attaquer. Les résidents tentent aussi de trouver des indices dissimulés dans la ville et dans la forêt dans l'espoir de trouver un moyen de s'échapper. L'intrigue se concentre sur Boyd Stevens, le » […] « Harold Perrineau ( VF : Daniel Njo Lobé ) : Boyd Stevens Catalina Sandino Moreno ( VF : Laëtitia »",
+        "consultedAt": "2026-10-30",
+        "revision": "240834936",
+        "retrievedSha256": "87d9928ba13ec446a180667eec4c20cea8e25663de1e5921cc94ea05904725a2"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-003"
+  },
+  {
+    "category": "france",
+    "title": "Une famille disparue en 2011",
+    "prompt": "Quel père de famille est recherché après la découverte des corps de son épouse et de ses quatre enfants à Nantes en avril 2011 ?",
+    "answer": "Xavier Dupont de Ligonnès",
+    "clues": [
+      "Il est vu pour la dernière fois à Roquebrune-sur-Argens, dans le Var.",
+      "Son prénom est Xavier ; ses enfants se prénomment Arthur, Thomas, Anne et Benoît."
+    ],
+    "explanation": "Accepter « Xavier Dupont de Ligonnès » ou « Dupont de Ligonnès ». Il est décrit comme suspect recherché, sans condamnation ni certitude sur son sort.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Dupont de Ligonnès — version 240640346",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240640346",
+        "section": "Introduction",
+        "quotes": [
+          "L' affaire Xavier Dupont de Ligonnès est un quintuple meurtre non élucidé survenu à Nantes ( Loire-Atlantique ) en France . Cinq membres de la famille Dupont de Ligonnès — la mère, Agnès, et ses quatre enfants Arthur, Thomas, Anne et Benoît — sont assassinés début avril 2011 ; leurs corps sont retrouvés le 21 avril 2011, sous la terrasse de leur maison nantaise. Le père de famille et principal suspect des assassinats, Xavier Dupont de Ligonnès, est vu pour la dernière fois le 15 avril 2011 à Roquebrune-sur-Argens ,",
+          "Le père de famille et principal suspect des assassinats, Xavier Dupont de Ligonnès, est vu pour la dernière fois le 15 avril 2011 à Roquebrune-sur-Argens , dans le Var , et reste introuvable depuis cette date. Les circonstances des meurtres et de la disparition du père de famille, qui ont fait l'objet de toutes sortes d'hypothèses,"
+        ],
+        "evidence": "Introduction : « L' affaire Xavier Dupont de Ligonnès est un quintuple meurtre non élucidé survenu à Nantes ( Loire-Atlantique ) en France . Cinq membres de la famille Dupont de Ligonnès — la mère, Agnès, et ses quatre enfants Arthur, Thomas, Anne et Benoît — sont assassinés début avril 2011 ; leurs corps sont retrouvés le 21 avril 2011, sous la terrasse de leur maison nantaise. Le père de famille et principal suspect des assassinats, Xavier Dupont de Ligonnès, est vu pour la dernière fois le 15 avril 2011 à Roquebrune-sur-Argens , » […] « Le père de famille et principal suspect des assassinats, Xavier Dupont de Ligonnès, est vu pour la dernière fois le 15 avril 2011 à Roquebrune-sur-Argens , dans le Var , et reste introuvable depuis cette date. Les circonstances des meurtres et de la disparition du père de famille, qui ont fait l'objet de toutes sortes d'hypothèses, »",
+        "consultedAt": "2026-10-30",
+        "revision": "240640346",
+        "retrievedSha256": "2565afd8bd2c46d753bb9e7a4a175610492daaeadb810a3bd83dd91cb9f4e3d7"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-004"
+  },
+  {
+    "category": "cinema",
+    "title": "Un week-end chez les beaux-parents",
+    "prompt": "Quel film suit un jeune photographe noir qui découvre l’inquiétant secret de la famille de sa petite amie blanche ?",
+    "answer": "Get Out",
+    "clues": [
+      "C’est le premier long-métrage réalisé par Jordan Peele, sorti en 2017.",
+      "Daniel Kaluuya joue Chris Washington ; Allison Williams joue Rose Armitage."
+    ],
+    "explanation": "Le film mêle horreur psychologique et critique du racisme.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Get Out (film) — version 240622966",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240622966",
+        "section": "Introduction",
+        "quotes": [
+          "Get Out est un film d'horreur psychologique américain écrit, coproduit et réalisé par Jordan Peele et sorti en 2017 . Il s'agit du premier film réalisé par Jordan Peele, alors surtout",
+          "Il s'agit du premier film réalisé par Jordan Peele, alors surtout connu pour avoir joué dans la série humoristique Key & Peele avec Keegan-Michael Key . Get Out traite du racisme .",
+          "Get Out traite du racisme . Daniel Kaluuya interprète Chris Washington, un jeune photographe afro-américain qui partage depuis cinq mois sa vie avec une femme blanche, Rose Armitage, jouée par Allison Williams . Il fait connaissance avec sa belle-famille au cours d'un week end dans leur grande propriété ; Catherine Keener et Bradley Whitford incarnent les parents de Rose. L'atmosphère devient de plus en plus étrange et inquiétante. Le film reçoit une majorité de critiques positives dans la presse. C'est également un énorme succès commercial"
+        ],
+        "evidence": "Introduction : « Get Out est un film d'horreur psychologique américain écrit, coproduit et réalisé par Jordan Peele et sorti en 2017 . Il s'agit du premier film réalisé par Jordan Peele, alors surtout » […] « Il s'agit du premier film réalisé par Jordan Peele, alors surtout connu pour avoir joué dans la série humoristique Key & Peele avec Keegan-Michael Key . Get Out traite du racisme . » […] « Get Out traite du racisme . Daniel Kaluuya interprète Chris Washington, un jeune photographe afro-américain qui partage depuis cinq mois sa vie avec une femme blanche, Rose Armitage, jouée par Allison Williams . Il fait connaissance avec sa belle-famille au cours d'un week end dans leur grande propriété ; Catherine Keener et Bradley Whitford incarnent les parents de Rose. L'atmosphère devient de plus en plus étrange et inquiétante. Le film reçoit une majorité de critiques positives dans la presse. C'est également un énorme succès commercial »",
+        "consultedAt": "2026-10-30",
+        "revision": "240622966",
+        "retrievedSha256": "27e59d116fe7ed787da2c1382bfd3f1235c72de0162de9e44e91f3f0a5f857ee"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-005"
+  },
+  {
+    "category": "crime",
+    "title": "Du dossier criminel au cinéma",
+    "prompt": "Quelle tueuse en série Charlize Theron incarne-t-elle dans le film Monster de 2003 ?",
+    "answer": "Aileen Wuornos",
+    "clues": [
+      "Les crimes de cette femme sont associés à la Floride.",
+      "Son prénom est Aileen ; le film raconte aussi sa relation avec Tyria Moore."
+    ],
+    "explanation": "Accepter « Aileen Wuornos » ou « Wuornos ».",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Aileen Wuornos | Monster, Murders, Girlfriend, Movie, & Facts",
+        "url": "https://www.britannica.com/biography/Aileen-Wuornos",
+        "section": "Vie en Floride et adaptations",
+        "quotes": [
+          "By the early 1980s Wuornos was living a transient life in Florida, where she continued to commit various crimes. She met Tyria Moore",
+          "She met Tyria Moore in 1986, and the two women began a romantic relationship, with Wuornos supporting them through sex work. In 1989",
+          "including Monster (2003), starring Charlize Theron in an Oscar-winning performance, and Aileen Wuornos: American Boogeywoman (2021), which centers on her marriage to Lewis"
+        ],
+        "evidence": "Vie en Floride et adaptations : « By the early 1980s Wuornos was living a transient life in Florida, where she continued to commit various crimes. She met Tyria Moore » […] « She met Tyria Moore in 1986, and the two women began a romantic relationship, with Wuornos supporting them through sex work. In 1989 » […] « including Monster (2003), starring Charlize Theron in an Oscar-winning performance, and Aileen Wuornos: American Boogeywoman (2021), which centers on her marriage to Lewis »",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "retrievedSha256": "5b5cff0cbdd2cbe6222854a54f909fec10f63623d8c68a4c11c846898315cf82"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-006"
+  },
+  {
+    "category": "cinema",
+    "title": "La maison doit rester dans l’obscurité",
+    "prompt": "Quel film de 2001 suit Grace Stewart et ses deux enfants dans une grande demeure ?",
+    "answer": "Les Autres",
+    "clues": [
+      "Nicole Kidman joue Grace ; Alejandro Amenábar réalise le film.",
+      "Les deux enfants souffrent d’une maladie qui les rend extrêmement sensibles à la lumière."
+    ],
+    "explanation": "Accepter « Les Autres » ou « The Others ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Les Autres (film, 2001) — version 240040100",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240040100",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Les Autres est un film fantastique hispano - franco - italo - américain réalisé par Alejandro Amenábar avec Nicole Kidman , sorti en 2001 . Le film a rencontré des critiques très positives lors",
+          "Il s’agit de Grace Stewart, mère de deux enfants, Anne et Nicolas Stewart, atteints d’une maladie rare et incurable : la protoporphyrie érythropoïétique . Une maladie qui les rend extrêmement sensibles à la lumière du jour . Mme Stewart s'impatiente toujours de recevoir des nouvelles de son mari, parti au front en 1939. Cette dernière qui a justement besoin de domestiques et d’une",
+          "Nicole Kidman (V. F. : Danièle Douet , V. Q. : Anne Bédard ) : Grace Stewart Fionnula Flanagan (V. F. : Paule Emanuele"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Les Autres est un film fantastique hispano - franco - italo - américain réalisé par Alejandro Amenábar avec Nicole Kidman , sorti en 2001 . Le film a rencontré des critiques très positives lors » […] « Il s’agit de Grace Stewart, mère de deux enfants, Anne et Nicolas Stewart, atteints d’une maladie rare et incurable : la protoporphyrie érythropoïétique . Une maladie qui les rend extrêmement sensibles à la lumière du jour . Mme Stewart s'impatiente toujours de recevoir des nouvelles de son mari, parti au front en 1939. Cette dernière qui a justement besoin de domestiques et d’une » […] Passages complémentaires : « Nicole Kidman (V. F. : Danièle Douet , V. Q. : Anne Bédard ) : Grace Stewart Fionnula Flanagan (V. F. : Paule Emanuele »",
+        "consultedAt": "2026-10-30",
+        "revision": "240040100",
+        "retrievedSha256": "0f925523a72cbe3ffdc12c9ae9235b1eb190d7539781728d683139db88c29b28"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-007"
+  },
+  {
+    "category": "france",
+    "title": "Le dossier SK1",
+    "prompt": "Quel tueur français, condamné en 2001, est connu comme « le tueur de l’Est parisien » ?",
+    "answer": "Guy Georges",
+    "clues": [
+      "Il a aussi été surnommé « le tueur de la Bastille » et désigné comme SK1.",
+      "Le film L’Affaire SK1 de Frédéric Tellier retrace cette enquête."
+    ],
+    "explanation": "Accepter « Guy Georges ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Guy Georges — version 240094970",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240094970",
+        "section": "Infobox et Introduction",
+        "quotes": [
+          "Surnom Le tueur de l'Est parisien Le tueur de la Bastille Joe the Killer G le maudit La bête de la Bastille SK1 (Serial Killer number 1) Condamnation 5 avril 2001 Sentence Réclusion criminelle à perpétuité Actions criminelles",
+          "Guy Georges , de son nom de naissance Guy Rampillon , né le 15 octobre 1962 à Vitry-le-François ( Marne ), est un tueur en série et un violeur en série français actif pendant les années 1980 et les années 1990 en France. Il est condamné le 5 avril 2001 , pour sept meurtres, à la réclusion criminelle à perpétuité assortie d'une période de sûreté de vingt-deux ans. Biographie [ modifier | modifier le code ] Enfance [ modifier",
+          "L'Affaire SK1 , de Frédéric Tellier , 2014 : rôle interprété par Adama Niane Les femmes et l'assassin , documentaire"
+        ],
+        "evidence": "Infobox et Introduction : « Surnom Le tueur de l'Est parisien Le tueur de la Bastille Joe the Killer G le maudit La bête de la Bastille SK1 (Serial Killer number 1) Condamnation 5 avril 2001 Sentence Réclusion criminelle à perpétuité Actions criminelles » […] « Guy Georges , de son nom de naissance Guy Rampillon , né le 15 octobre 1962 à Vitry-le-François ( Marne ), est un tueur en série et un violeur en série français actif pendant les années 1980 et les années 1990 en France. Il est condamné le 5 avril 2001 , pour sept meurtres, à la réclusion criminelle à perpétuité assortie d'une période de sûreté de vingt-deux ans. Biographie [ modifier | modifier le code ] Enfance [ modifier » […] « L'Affaire SK1 , de Frédéric Tellier , 2014 : rôle interprété par Adama Niane Les femmes et l'assassin , documentaire »",
+        "consultedAt": "2026-10-30",
+        "revision": "240094970",
+        "retrievedSha256": "023abf356cefc87451a9998f5d852f1b65bc78e91e3fdf9e07af038592ce213c"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-008"
+  },
+  {
+    "category": "cinema",
+    "title": "Une meilleure version de soi",
+    "prompt": "Quel film de 2024 suit une présentatrice d’aérobic vieillissante tentée par un produit qui promet de la rajeunir ?",
+    "answer": "The Substance",
+    "clues": [
+      "Coralie Fargeat réalise ce film, avec Demi Moore et Margaret Qualley.",
+      "Demi Moore joue Elisabeth Sparkle ; son double plus jeune s’appelle Sue."
+    ],
+    "explanation": "Accepter « The Substance » ou « La Substance ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — The Substance — version 240784823",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240784823",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "The Substance , ou La Substance au Québec , est un drame de body horror franco - américano - britannique coproduit, écrit et réalisé par Coralie Fargeat , sorti en 2024 . Le film met en scène Elisabeth Sparkle,",
+          "Le film met en scène Elisabeth Sparkle, actrice et présentatrice vedette d’une émission d’ aérobic , licenciée par son patron le jour de ses cinquante ans à cause de son âge . Le moral au plus bas, elle reçoit une proposition inattendue, celle d'un mystérieux laboratoire lui proposant une « substance » miraculeuse : si elle se l’injecte, elle deviendra « la meilleure version » d’elle-même, « plus jeune, plus belle, plus parfaite » grâce à une modification de son ADN . Le film est présenté en compétition officielle au Festival de Cannes 2024 où il remporte le prix du scénario . Synopsis [ modifier | modifier",
+          "Demi Moore ( VF : Juliette Degenne ; VQ : Élise Bertrand ) : Elisabeth Sparkle Margaret Qualley ( VF : Zina Khakhoulia ; VQ : Célia Gouin-Arsenault) : Sue Dennis Quaid ( VF : Bernard Lanneau ; VQ : Louis-Philippe",
+          "L'autre-soi, qui se baptise Sue, est rapidement engagée par Harvey, l'ancien patron d'Elisabeth. Elle devient alors rapidement célèbre"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « The Substance , ou La Substance au Québec , est un drame de body horror franco - américano - britannique coproduit, écrit et réalisé par Coralie Fargeat , sorti en 2024 . Le film met en scène Elisabeth Sparkle, » […] « Le film met en scène Elisabeth Sparkle, actrice et présentatrice vedette d’une émission d’ aérobic , licenciée par son patron le jour de ses cinquante ans à cause de son âge . Le moral au plus bas, elle reçoit une proposition inattendue, celle d'un mystérieux laboratoire lui proposant une « substance » miraculeuse : si elle se l’injecte, elle deviendra « la meilleure version » d’elle-même, « plus jeune, plus belle, plus parfaite » grâce à une modification de son ADN . Le film est présenté en compétition officielle au Festival de Cannes 2024 où il remporte le prix du scénario . Synopsis [ modifier | modifier » […] « Demi Moore ( VF : Juliette Degenne ; VQ : Élise Bertrand ) : Elisabeth Sparkle Margaret Qualley ( VF : Zina Khakhoulia ; VQ : Célia Gouin-Arsenault) : Sue Dennis Quaid ( VF : Bernard Lanneau ; VQ : Louis-Philippe » […] Passages complémentaires : « L'autre-soi, qui se baptise Sue, est rapidement engagée par Harvey, l'ancien patron d'Elisabeth. Elle devient alors rapidement célèbre »",
+        "consultedAt": "2026-10-30",
+        "revision": "240784823",
+        "retrievedSha256": "509f086e31d1e00a989ec647fbe3d8f52a0cbe171291ff376f732051374208b4"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-009"
+  },
+  {
+    "category": "crime",
+    "title": "L’ADN met fin à l’enquête",
+    "prompt": "Quel tueur de l’État de Washington est identifié en 2001 après une longue enquête autour de la Green River ?",
+    "answer": "Gary Ridgway",
+    "clues": [
+      "Il travaillait comme peintre de camions dans la région de Seattle.",
+      "Son surnom est « Green River Killer » et son prénom est Gary."
+    ],
+    "explanation": "Accepter « Gary Ridgway » ou « Ridgway ».",
+    "sources": [
+      {
+        "title": "Encyclopædia Britannica — Gary Ridgway | Biography, Mother, Childhood, & Murders",
+        "url": "https://www.britannica.com/biography/Gary-Ridgway",
+        "section": "Introduction et corps de la notice",
+        "quotes": [
+          "Gary Ridgway (born February 18, 1949) is an American serial killer, and the deadliest in the country, who confessed to 48 murders in Washington during the 1980s and 1990s, though he claimed to have killed as many as 80 women.",
+          "where he worked as a truck painter. Over the next 30 years, he married",
+          "The advent of advanced DNA testing eventually led to his capture in 2001, highlighting the evolving role of forensic science in solving cold cases. Ridgway's case"
+        ],
+        "evidence": "Introduction et corps de la notice : « Gary Ridgway (born February 18, 1949) is an American serial killer, and the deadliest in the country, who confessed to 48 murders in Washington during the 1980s and 1990s, though he claimed to have killed as many as 80 women. » […] « where he worked as a truck painter. Over the next 30 years, he married » […] « The advent of advanced DNA testing eventually led to his capture in 2001, highlighting the evolving role of forensic science in solving cold cases. Ridgway's case »",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "retrievedSha256": "d9a609eae8715b333bc4b4f4468d87d2434204e852624c5d05673b0016e0da97"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-010"
+  },
+  {
+    "category": "cinema",
+    "title": "Un documentaire qui disparaît dans les bois",
+    "prompt": "Quel film de 1999 présente les images tournées par trois étudiants partis enquêter dans une forêt du Maryland ?",
+    "answer": "Le Projet Blair Witch",
+    "clues": [
+      "Les étudiants s’appellent Heather, Mike et Josh, et se rendent à Burkittsville.",
+      "Ils cherchent à réaliser un documentaire sur la légende de la sorcière de Blair."
+    ],
+    "explanation": "Accepter « The Blair Witch Project » ou « Le Projet Blair ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Le Projet Blair Witch — version 240354431",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240354431",
+        "section": "Introduction et Synopsis",
+        "quotes": [
+          "Le Projet Blair Witch ( The Blair Witch Project ), ou Le Projet Blair au Québec , est un film d'horreur indépendant américain de genre « found footage » écrit et réalisé par Daniel Myrick et Eduardo Sánchez , sorti en 1999 . Jouant sur la tension psychologique et l'imagination",
+          "En octobre 1994 , trois étudiants en cinéma, Heather, Mike et Josh réalisent un documentaire sur la légende de la sorcière de Blair. Ils se rendent à Burkittsville dans le Maryland , et interrogent les habitants. Ceux-ci évoquent Rustin Parr, un ermite qui vivait dans les"
+        ],
+        "evidence": "Introduction et Synopsis : « Le Projet Blair Witch ( The Blair Witch Project ), ou Le Projet Blair au Québec , est un film d'horreur indépendant américain de genre « found footage » écrit et réalisé par Daniel Myrick et Eduardo Sánchez , sorti en 1999 . Jouant sur la tension psychologique et l'imagination » […] « En octobre 1994 , trois étudiants en cinéma, Heather, Mike et Josh réalisent un documentaire sur la légende de la sorcière de Blair. Ils se rendent à Burkittsville dans le Maryland , et interrogent les habitants. Ceux-ci évoquent Rustin Parr, un ermite qui vivait dans les »",
+        "consultedAt": "2026-10-30",
+        "revision": "240354431",
+        "retrievedSha256": "4a74a2c3d8fc0ac3717c266fec97ca26eb51140d0eae4554b7184faae812e81c"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-011"
+  },
+  {
+    "category": "france",
+    "title": "L’employeur imaginaire",
+    "prompt": "Pour quelle organisation internationale Jean-Claude Romand prétendait-il travailler à Genève ?",
+    "answer": "L’Organisation mondiale de la santé / OMS",
+    "clues": [
+      "Il affirmait travailler dans le domaine de la médecine et de la recherche.",
+      "Le nom de cette organisation comporte les mots « mondiale » et « santé »."
+    ],
+    "explanation": "Accepter « OMS » ou « Organisation mondiale de la santé ». Il n’y travaillait pas réellement.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Romand — version 240638930",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240638930",
+        "section": "Le mensonge professionnel",
+        "quotes": [
+          "a menti à ses proches pendant dix-huit ans en se prétendant médecin et chercheur , alors qu'il n'avait aucune activité, avant de les assassiner. Le 9 janvier 1993 , alors qu'il est à court",
+          "famille et ses amis durant des années en se disant médecin et chercheur à l' INSERM puis à l' Organisation mondiale de la santé (OMS), à Genève . Exemple paroxystique de mythomanie , il parvient à donner le"
+        ],
+        "evidence": "Le mensonge professionnel : « a menti à ses proches pendant dix-huit ans en se prétendant médecin et chercheur , alors qu'il n'avait aucune activité, avant de les assassiner. Le 9 janvier 1993 , alors qu'il est à court » […] « famille et ses amis durant des années en se disant médecin et chercheur à l' INSERM puis à l' Organisation mondiale de la santé (OMS), à Genève . Exemple paroxystique de mythomanie , il parvient à donner le »",
+        "consultedAt": "2026-10-30",
+        "revision": "240638930",
+        "retrievedSha256": "66f5c1e8a2b3767c68b11d221d00ab835c795a06e729aad3b3c076320abe3267"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-012"
+  },
+  {
+    "category": "cinema",
+    "title": "Une nouvelle peur à chaque saison",
+    "prompt": "Quelle série d’anthologie horrifique diffusée depuis 2011 change d’histoire et de personnages à chaque saison ?",
+    "answer": "American Horror Story",
+    "clues": [
+      "Ses créateurs sont Ryan Murphy et Brad Falchuk.",
+      "Plusieurs saisons portent les noms Murder House, Asylum ou Coven."
+    ],
+    "explanation": "Accepter « American Horror Story » ou « AHS ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — American Horror Story — version 240852986",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240852986",
+        "section": "Introduction et sections Saisons",
+        "quotes": [
+          "American Horror Story (souvent abrégée AHS ; Histoire d'horreur au Québec) est une série télévisée d' anthologie horrifique américaine créée et produite par Ryan Murphy et Brad Falchuk pour la chaîne FX . Diffusée depuis le 5 octobre 2011 aux États-Unis , elle constitue le premier volet de la franchise American Story . La série se caractérise par un fonctionnement particulier : chaque saison raconte une histoire complète qui lui est propre, avec une intrigue, un cadre, une époque et des personnages principalement différents, tout en s'inscrivant progressivement dans un même univers de fiction. Les épisodes sont disponibles dès le lendemain de leur diffusion sur la plateforme Hulu aux États-Unis. Au Canada , la série",
+          "Murder House et Coven . La série s'inspire de nombreuses sources, parmi lesquelles les faits divers , les personnages historiques, les légendes urbaines , les croyances",
+          "Asylum Zachary Quinto ( VF : Adrien Antoine ) : D Oliver Thredson Joseph Fiennes ( VF : Éric Herson-Macarel ) : M Timothy",
+          "Coven . La série s'inspire de nombreuses sources, parmi lesquelles les faits divers , les personnages historiques, les légendes"
+        ],
+        "evidence": "Introduction et sections Saisons : « American Horror Story (souvent abrégée AHS ; Histoire d'horreur au Québec) est une série télévisée d' anthologie horrifique américaine créée et produite par Ryan Murphy et Brad Falchuk pour la chaîne FX . Diffusée depuis le 5 octobre 2011 aux États-Unis , elle constitue le premier volet de la franchise American Story . La série se caractérise par un fonctionnement particulier : chaque saison raconte une histoire complète qui lui est propre, avec une intrigue, un cadre, une époque et des personnages principalement différents, tout en s'inscrivant progressivement dans un même univers de fiction. Les épisodes sont disponibles dès le lendemain de leur diffusion sur la plateforme Hulu aux États-Unis. Au Canada , la série » […] « Murder House et Coven . La série s'inspire de nombreuses sources, parmi lesquelles les faits divers , les personnages historiques, les légendes urbaines , les croyances » […] « Asylum Zachary Quinto ( VF : Adrien Antoine ) : D Oliver Thredson Joseph Fiennes ( VF : Éric Herson-Macarel ) : M Timothy » […] « Coven . La série s'inspire de nombreuses sources, parmi lesquelles les faits divers , les personnages historiques, les légendes »",
+        "consultedAt": "2026-10-30",
+        "revision": "240852986",
+        "retrievedSha256": "4ac0a821f227417d0ade15cb6f314b8bab5055f3e31f3d3665a496ee8a8b0ed6"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-013"
+  },
+  {
+    "category": "crime",
+    "title": "L’appel à la police",
+    "prompt": "Quel tueur connu comme « l’Ogre de Santa Cruz » appelle lui-même la police pour avouer ses crimes en avril 1973 ?",
+    "answer": "Edmund Kemper",
+    "clues": [
+      "Il mesure environ 2,06 mètres et a également été surnommé « Big Ed ».",
+      "Dans Mindhunter, Cameron Britton incarne ce tueur, également appelé Big Ed."
+    ],
+    "explanation": "Accepter « Edmund Kemper » ou « Ed Kemper ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Edmund Kemper — version 240850677",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240850677",
+        "section": "Infobox, Introduction et aveux",
+        "quotes": [
+          "Surnom L'Ogre de Santa Cruz, Le tueur d'étudiante, Co ed Killer, Big Ed. Condamnation 8 novembre 1973 Sentence Prison à perpétuité",
+          "Personnage impressionnant par sa taille ( 2,06 m ), son poids ( 136 kg ) et son QI de 143, il a commencé sa série de meurtres avec celui de ses grands-parents à l'âge de quinze ans et demi. Biographie [ modifier | modifier le code",
+          "du même nom (2023) . Documentaires télévisés [ modifier | modifier le code ] Mindhunter , l'acteur Cameron Britton incarne Edmund Kemper, enfermé dans la Prison d'État de Vacaville ( Californie ). « Edmund Kemper",
+          "1973) Information Nom de naissance Edmund Emil Kemper III Naissance 18 décembre 1948 (77 ans) Burbank , Californie ( États-Unis ) Surnom L'Ogre de Santa Cruz, Le"
+        ],
+        "evidence": "Infobox, Introduction et aveux : « Surnom L'Ogre de Santa Cruz, Le tueur d'étudiante, Co ed Killer, Big Ed. Condamnation 8 novembre 1973 Sentence Prison à perpétuité » […] « Personnage impressionnant par sa taille ( 2,06 m ), son poids ( 136 kg ) et son QI de 143, il a commencé sa série de meurtres avec celui de ses grands-parents à l'âge de quinze ans et demi. Biographie [ modifier | modifier le code » […] « du même nom (2023) . Documentaires télévisés [ modifier | modifier le code ] Mindhunter , l'acteur Cameron Britton incarne Edmund Kemper, enfermé dans la Prison d'État de Vacaville ( Californie ). « Edmund Kemper » […] « 1973) Information Nom de naissance Edmund Emil Kemper III Naissance 18 décembre 1948 (77 ans) Burbank , Californie ( États-Unis ) Surnom L'Ogre de Santa Cruz, Le »",
+        "consultedAt": "2026-10-30",
+        "revision": "240850677",
+        "retrievedSha256": "452c995d82ed8eb851ebc20f87467ae0cb1cfa90dfc9005ef28f1335cabc9b84"
+      },
+      {
+        "title": "Encyclopædia Britannica — Edmund Kemper | Serial Killer, Mindhunter, Height, Crimes, & Facts",
+        "url": "https://www.britannica.com/biography/Edmund-Kemper",
+        "section": "Confession et procès",
+        "quotes": [
+          "On April 24, 1973, he called the Santa Cruz police from a phone booth in Pueblo, Colorado, and confessed to his crimes. Later that year the 24-year-old Kemper went on trial, pleading not guilty by reason"
+        ],
+        "evidence": "Confession et procès : « On April 24, 1973, he called the Santa Cruz police from a phone booth in Pueblo, Colorado, and confessed to his crimes. Later that year the 24-year-old Kemper went on trial, pleading not guilty by reason »",
+        "consultedAt": "2026-10-30",
+        "revision": null,
+        "retrievedSha256": "b2a371445d7606e9278d8533c000d1055ad2a887cf08c9c14880b3f38706c372"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-014"
+  },
+  {
+    "category": "cinema",
+    "title": "L’enregistrement à ne pas regarder",
+    "prompt": "Quel film américain de 2002 suit une journaliste enquêtant sur une vidéo maudite ?",
+    "answer": "Le Cercle / The Ring",
+    "clues": [
+      "Naomi Watts interprète la journaliste Rachel Keller.",
+      "Après le visionnage de la cassette, les victimes n’ont plus que sept jours à vivre."
+    ],
+    "explanation": "Accepter « Le Cercle » ou « The Ring ». Il s’agit du remake de Ring réalisé par Gore Verbinski.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Le Cercle (film, 2002) — version 239822272",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239822272",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Le Cercle ( The Ring ) est un film d'horreur américano - japonais réalisé par Gore Verbinski , sorti en 2002 . Il s'agit d'un remake du film japonais Ring ( 1998 ) de Hideo Nakata , lui-même inspiré du roman de Kōji Suzuki . Deux suites ont vu le jour",
+          "Une mystérieuse cassette vidéo serait porteuse d'une étrange malédiction : quiconque la visionne est condamné à mourir sept jours plus tard par un coup de téléphone. Lorsque quatre adolescents meurent de façon inexpliquée une semaine, jour pour",
+          "Naomi Watts (VF : Hélène Bizot ) : Rachel Keller Brian Cox (VF"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Le Cercle ( The Ring ) est un film d'horreur américano - japonais réalisé par Gore Verbinski , sorti en 2002 . Il s'agit d'un remake du film japonais Ring ( 1998 ) de Hideo Nakata , lui-même inspiré du roman de Kōji Suzuki . Deux suites ont vu le jour » […] « Une mystérieuse cassette vidéo serait porteuse d'une étrange malédiction : quiconque la visionne est condamné à mourir sept jours plus tard par un coup de téléphone. Lorsque quatre adolescents meurent de façon inexpliquée une semaine, jour pour » […] « Naomi Watts (VF : Hélène Bizot ) : Rachel Keller Brian Cox (VF »",
+        "consultedAt": "2026-10-30",
+        "revision": "239822272",
+        "retrievedSha256": "b7723f93e186793f2b35c8060388706ad01b377f052c66ada236987b1753ae65"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-015"
+  },
+  {
+    "category": "france",
+    "title": "La soirée de disparition",
+    "prompt": "À quel type d’événement Maëlys de Araujo participait-elle lors de sa disparition en août 2017 ?",
+    "answer": "Un mariage",
+    "clues": [
+      "La réception se déroule dans la salle des fêtes de Pont-de-Beauvoisin, en Isère.",
+      "C’était une réception organisée pour célébrer l’union d’un couple."
+    ],
+    "explanation": "Accepter « un mariage », « une fête de mariage » ou « une réception de mariage ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Maëlys — version 240087156",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240087156",
+        "section": "Introduction",
+        "quotes": [
+          "L ' affaire Maëlys est une affaire criminelle française qui a pour point de départ la disparition inexpliquée d'une fillette de huit ans, Maëlys de Araujo , le dimanche 27 août 2017 vers trois heures du matin, lors d'une réception de mariage dans la salle des fêtes de la commune du Pont-de-Beauvoisin , en Isère . Un suspect, Nordahl Lelandais , ancien militaire âgé de 34 ans (à l'époque des faits), et résidant à Domessin (Savoie)"
+        ],
+        "evidence": "Introduction : « L ' affaire Maëlys est une affaire criminelle française qui a pour point de départ la disparition inexpliquée d'une fillette de huit ans, Maëlys de Araujo , le dimanche 27 août 2017 vers trois heures du matin, lors d'une réception de mariage dans la salle des fêtes de la commune du Pont-de-Beauvoisin , en Isère . Un suspect, Nordahl Lelandais , ancien militaire âgé de 34 ans (à l'époque des faits), et résidant à Domessin (Savoie) »",
+        "consultedAt": "2026-10-30",
+        "revision": "240087156",
+        "retrievedSha256": "2c3dc7c20f39d9c9080b5fd6cc3dc9d5724ff8fb4e04ec2bf574c37baf0b44b2"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-016"
+  },
+  {
+    "category": "cinema",
+    "title": "Une destination difficile à atteindre",
+    "prompt": "Quel film sud-coréen de 2016 suit un père et sa fille pris dans une épidémie pendant leur voyage ?",
+    "answer": "Dernier train pour Busan",
+    "clues": [
+      "Yeon Sang-ho réalise le film, avec Gong Yoo.",
+      "Le voyage se fait en train vers Busan ; des infectés attaquent les passagers."
+    ],
+    "explanation": "Accepter « Train to Busan » ou « Dernier train pour Busan ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Dernier train pour Busan — version 237926836",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=237926836",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Dernier train pour Busan ( hangeul : 부산행 ; hanja : 釜山行 ; RR : Busanhaeng ) est un film d'horreur sud-coréen réalisé par Yeon Sang-ho , sorti en 2016 . Quelques mois après la sortie du film, un préquel animé , Seoul Station , est conçu",
+          "Gong Yoo ( VF : Pascal Nowak) : Seok-woo, un gestionnaire de fonds accro au travail Jeong Yu-mi ( VF : Nina Broniszewski-Madre)",
+          "Le lendemain, ils embarquent dans le Korea Train Express (KTX), un train rapide qui doit les amener de Séoul à Busan . Juste avant le départ, une jeune fille qui semble malade réussit à monter dans le train ; et alors que le train quitte la gare, celle-ci est envahie par un groupe d'individus qui attaquent le chef de quai. Un KTX (Korea Train eXpress) . Sur les chaînes de télévision diffusées dans le train, des informations rapportent que des troubles",
+          "observe le plan qui présente une jeune fille infectée entrer dans le train, celle qui commence l’infection, on passe ensuite à un plan de deux inspecteurs qui cognent à la porte d’une toilette, où son utilisateur semble gémir."
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Dernier train pour Busan ( hangeul : 부산행 ; hanja : 釜山行 ; RR : Busanhaeng ) est un film d'horreur sud-coréen réalisé par Yeon Sang-ho , sorti en 2016 . Quelques mois après la sortie du film, un préquel animé , Seoul Station , est conçu » […] « Gong Yoo ( VF : Pascal Nowak) : Seok-woo, un gestionnaire de fonds accro au travail Jeong Yu-mi ( VF : Nina Broniszewski-Madre) » […] « Le lendemain, ils embarquent dans le Korea Train Express (KTX), un train rapide qui doit les amener de Séoul à Busan . Juste avant le départ, une jeune fille qui semble malade réussit à monter dans le train ; et alors que le train quitte la gare, celle-ci est envahie par un groupe d'individus qui attaquent le chef de quai. Un KTX (Korea Train eXpress) . Sur les chaînes de télévision diffusées dans le train, des informations rapportent que des troubles » […] « observe le plan qui présente une jeune fille infectée entrer dans le train, celle qui commence l’infection, on passe ensuite à un plan de deux inspecteurs qui cognent à la porte d’une toilette, où son utilisateur semble gémir. »",
+        "consultedAt": "2026-10-30",
+        "revision": "237926836",
+        "retrievedSha256": "4c90d088f9c07c202a0c21d1b8ff9c18a9121b81e11bd7d10d257669285b7fc1"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-017"
+  },
+  {
+    "category": "crime",
+    "title": "L’arbre généalogique de l’enquête",
+    "prompt": "Quelle méthode d’investigation a permis de remonter à Joseph DeAngelo, le Golden State Killer, en 2018 ?",
+    "answer": "La généalogie génétique / recherche ADN par parentèle",
+    "clues": [
+      "Les enquêteurs ont utilisé des profils génétiques déposés par des particuliers sur Internet.",
+      "À partir de correspondances avec des membres de sa famille, ils ont étudié les arbres généalogiques pour retrouver son identité."
+    ],
+    "explanation": "Accepter « généalogie génétique », « généalogie par ADN » ou « recherche ADN par parentèle ». Une réponse « ADN » seule peut être précisée oralement par l’équipe.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Golden State Killer — version 240218395",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240218395",
+        "section": "Introduction et identification",
+        "quotes": [
+          "confondu grâce à la recherche ADN par parentèle . Accusé d'être l'auteur de treize",
+          "profil génétique du tueur, puis entrent ce profil dans une base de données généalogiques en ligne, GEDmatch . Ils examinent ensuite les arbres généalogiques afin de trouver des correspondances avec ce profil . Si le tueur n'a pas transmis son ADN sur Internet, au moins un membre de sa famille l'a fait . Le 18 avril 2018 , les recherches se concentrent sur un ancien policier californien, Joseph James DeAngelo, 72 ans . Selon le Los Angeles Times , les enquêtes"
+        ],
+        "evidence": "Introduction et identification : « confondu grâce à la recherche ADN par parentèle . Accusé d'être l'auteur de treize » […] « profil génétique du tueur, puis entrent ce profil dans une base de données généalogiques en ligne, GEDmatch . Ils examinent ensuite les arbres généalogiques afin de trouver des correspondances avec ce profil . Si le tueur n'a pas transmis son ADN sur Internet, au moins un membre de sa famille l'a fait . Le 18 avril 2018 , les recherches se concentrent sur un ancien policier californien, Joseph James DeAngelo, 72 ans . Selon le Los Angeles Times , les enquêtes »",
+        "consultedAt": "2026-10-30",
+        "revision": "240218395",
+        "retrievedSha256": "c5c70486f5cf56e78ccadef9c4242a040b10b5cc534b4e3a6691565753531783"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-018"
+  },
+  {
+    "category": "cinema",
+    "title": "Les souvenirs des Crain",
+    "prompt": "Quelle série d’horreur retrouve les cinq enfants Crain, devenus adultes, face au passé de leur famille ?",
+    "answer": "The Haunting of Hill House",
+    "clues": [
+      "Mike Flanagan la réalise pour Netflix ; la diffusion commence en 2018.",
+      "La famille avait emménagé dans le manoir Hill House, où Nell voyait la « femme au cou tordu »."
+    ],
+    "explanation": "Accepter « The Haunting of Hill House » ou « Hill House ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Saison 1 de The Haunting — version 229756651",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=229756651",
+        "section": "Synopsis et épisode 1",
+        "quotes": [
+          "Diff. originale 12 octobre 2018 – 12 octobre 2018 Nb. d'épisodes 10 Chronologie Saison 2 : The Haunting",
+          "Lors de l'été 1992, Hugh et Olivia Crain s'installent temporairement dans un ancien manoir, Hill House , avec leurs cinq enfants : Shirley, Steven, Theodora, Luke et Eleanor. Mais d'étranges événements commencent à se dérouler au sein du manoir et affectent principalement Olivia dont le comportement devient de plus en plus étrange. Un soir, Hugh et les enfants quittent la maison à cause de circonstances encore",
+          "Première diffusion : 12 octobre 2018 sur Netflix Réalisation Mike Flanagan Scénario Mike Flanagan Résumé détaillé On découvre la famille Crain, Hugh et Olivia parents de cinq enfants rénovent un manoir pour pouvoir le revendre. Steven le grand frère prend son rôle à cœur, Shirley parle dans son sommeil, Theodora est introvertie, Nell est terrorisée par celle qu'elle appelle la femme au cou tordu, et Luke son frère jumeau semble aussi voir des choses",
+          "En 2018, soit 26 ans après leur départ d' Hill House , les enfants et leur père, dont la relation a été fortement affectée depuis, se retrouvent après une nouvelle tragédie, les forçant à affronter leurs démons intérieurs mais également à ouvrir les yeux sur ce"
+        ],
+        "evidence": "Synopsis et épisode 1 : « Diff. originale 12 octobre 2018 – 12 octobre 2018 Nb. d'épisodes 10 Chronologie Saison 2 : The Haunting » […] « Lors de l'été 1992, Hugh et Olivia Crain s'installent temporairement dans un ancien manoir, Hill House , avec leurs cinq enfants : Shirley, Steven, Theodora, Luke et Eleanor. Mais d'étranges événements commencent à se dérouler au sein du manoir et affectent principalement Olivia dont le comportement devient de plus en plus étrange. Un soir, Hugh et les enfants quittent la maison à cause de circonstances encore » […] « Première diffusion : 12 octobre 2018 sur Netflix Réalisation Mike Flanagan Scénario Mike Flanagan Résumé détaillé On découvre la famille Crain, Hugh et Olivia parents de cinq enfants rénovent un manoir pour pouvoir le revendre. Steven le grand frère prend son rôle à cœur, Shirley parle dans son sommeil, Theodora est introvertie, Nell est terrorisée par celle qu'elle appelle la femme au cou tordu, et Luke son frère jumeau semble aussi voir des choses » […] Passages complémentaires : « En 2018, soit 26 ans après leur départ d' Hill House , les enfants et leur père, dont la relation a été fortement affectée depuis, se retrouvent après une nouvelle tragédie, les forçant à affronter leurs démons intérieurs mais également à ouvrir les yeux sur ce »",
+        "consultedAt": "2026-10-30",
+        "revision": "229756651",
+        "retrievedSha256": "f5747bd6a525d64106b15322c91df002656132e90a68cae137eaed3e6ab90b83"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-019"
+  },
+  {
+    "category": "france",
+    "title": "Le mari sur les images de la marche",
+    "prompt": "Quel homme est condamné en 2020 pour le meurtre de son épouse Alexia, dans une affaire très médiatisée ?",
+    "answer": "Jonathann Daval",
+    "clues": [
+      "Avant ses aveux, il avait participé avec ses beaux-parents à une marche silencieuse en mémoire d’Alexia.",
+      "Son prénom est Jonathann ; le procès aboutit à une peine de vingt-cinq ans de réclusion."
+    ],
+    "explanation": "Accepter « Jonathann Daval » ou « Jonathan Daval ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Daval — version 239388591",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239388591",
+        "section": "Introduction et procès",
+        "quotes": [
+          "L’ affaire Daval , également appelée affaire Alexia Daval , ou plus rarement affaire Jonathann Daval est une affaire criminelle française concernant le meurtre d'Alexia Fouillot, épouse Daval, domiciliée à Gray-la-Ville en Haute-Saône . Le corps partiellement calciné de la victime est retrouvé dans les environs le 30 octobre 2017 , deux jours après le signalement",
+          "Après avoir pleuré publiquement la mort de son épouse aux côtés de ses beaux-parents lors d'une marche silencieuse, Jonathann Daval est rapidement interpellé et placé en garde à vue . Il avoue avoir tué sa femme « accidentellement » avant de se rétracter et d'accuser son",
+          "par la condamnation de Jonathann Daval à vingt-cinq ans de réclusion criminelle , sans période de sûreté supplémentaire. L'affaire Daval est devenue"
+        ],
+        "evidence": "Introduction et procès : « L’ affaire Daval , également appelée affaire Alexia Daval , ou plus rarement affaire Jonathann Daval est une affaire criminelle française concernant le meurtre d'Alexia Fouillot, épouse Daval, domiciliée à Gray-la-Ville en Haute-Saône . Le corps partiellement calciné de la victime est retrouvé dans les environs le 30 octobre 2017 , deux jours après le signalement » […] « Après avoir pleuré publiquement la mort de son épouse aux côtés de ses beaux-parents lors d'une marche silencieuse, Jonathann Daval est rapidement interpellé et placé en garde à vue . Il avoue avoir tué sa femme « accidentellement » avant de se rétracter et d'accuser son » […] « par la condamnation de Jonathann Daval à vingt-cinq ans de réclusion criminelle , sans période de sûreté supplémentaire. L'affaire Daval est devenue »",
+        "consultedAt": "2026-10-30",
+        "revision": "239388591",
+        "retrievedSha256": "6f9124eb7930d65cee2a42655d820fda6b7ab31bc996c0b6b01b8c23ac9ca7ef"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-020"
+  },
+  {
+    "category": "cinema",
+    "title": "Deux inconnus dans une salle de bains",
+    "prompt": "Quel film de 2004 réunit Adam et le docteur Gordon, enchaînés dans une salle de bains désaffectée ?",
+    "answer": "Saw",
+    "clues": [
+      "Il est réalisé par James Wan et écrit par Leigh Whannell.",
+      "Les épreuves sont orchestrées par Jigsaw, incarné par Tobin Bell."
+    ],
+    "explanation": "Accepter « Saw » ou « Décadence ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Saw (film) — version 239694921",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239694921",
+        "section": "Introduction",
+        "quotes": [
+          "Saw (ou Décadence au Québec ) est un film d'horreur et thriller américano - australien réalisé par James Wan et écrit par Leigh Whannell , sorti en 2004 . Premier volet de la série de films Saw , il voit les débuts de réalisateur de James Wan, qui reprend le concept de son court-métrage du même nom qu'il a coécrit avec Whannell. Il s'inspire notamment",
+          "Le film, suivant une narration non linéaire , tourne autour d'un mystérieux tueur en série du nom de Jigsaw , incarné par Tobin Bell , qui place ses victimes dans des jeux mortels où ils doivent s'infliger une grande douleur physique potentiellement mortelle pour survivre. Deux de ses victimes, Lawrence Gordon et Adam, incarnés respectivement par Cary Elwes et Leigh Whannell , se réveillent enchaînés dans une salle de bains désaffectée. Le premier doit tuer le deuxième qui doit lui, s'échapper par tous les moyens. Tourné avec un budget de 1,2 million de dollars en seulement 18 jours , il en rapporte plus de 100 millions , devenant"
+        ],
+        "evidence": "Introduction : « Saw (ou Décadence au Québec ) est un film d'horreur et thriller américano - australien réalisé par James Wan et écrit par Leigh Whannell , sorti en 2004 . Premier volet de la série de films Saw , il voit les débuts de réalisateur de James Wan, qui reprend le concept de son court-métrage du même nom qu'il a coécrit avec Whannell. Il s'inspire notamment » […] « Le film, suivant une narration non linéaire , tourne autour d'un mystérieux tueur en série du nom de Jigsaw , incarné par Tobin Bell , qui place ses victimes dans des jeux mortels où ils doivent s'infliger une grande douleur physique potentiellement mortelle pour survivre. Deux de ses victimes, Lawrence Gordon et Adam, incarnés respectivement par Cary Elwes et Leigh Whannell , se réveillent enchaînés dans une salle de bains désaffectée. Le premier doit tuer le deuxième qui doit lui, s'échapper par tous les moyens. Tourné avec un budget de 1,2 million de dollars en seulement 18 jours , il en rapporte plus de 100 millions , devenant »",
+        "consultedAt": "2026-10-30",
+        "revision": "239694921",
+        "retrievedSha256": "8e912c5c60a4782219f6a43ee477ce7c4f1d34e4e1d43f4bea100361f85ed752"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-021"
+  },
+  {
+    "category": "crime",
+    "title": "Un surnom anglais",
+    "prompt": "Quel est le surnom de Peter Sutcliffe, par référence à une région du nord de l’Angleterre ?",
+    "answer": "L’Éventreur du Yorkshire / Yorkshire Ripper",
+    "clues": [
+      "Le surnom fait référence à Jack l’Éventreur, appelé Jack the Ripper en anglais.",
+      "Le nom de la région qui figure dans son surnom est le Yorkshire."
+    ],
+    "explanation": "Accepter « l’Éventreur du Yorkshire » ou « Yorkshire Ripper ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Peter Sutcliffe — version 239104515",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239104515",
+        "section": "Introduction",
+        "quotes": [
+          "Peter William Sutcliffe , né le 2 juin 1946 à Bingley et mort le 13 novembre 2020 à Durham ( Angleterre ), est un tueur en série britannique . Également connu sous le nom de Peter William Coonan, aussi",
+          "aussi surnommé Yorkshire Ripper (allusion à Jack l'Éventreur , en anglais « Jack the Ripper ») par la presse. Biographie [ modifier | modifier"
+        ],
+        "evidence": "Introduction : « Peter William Sutcliffe , né le 2 juin 1946 à Bingley et mort le 13 novembre 2020 à Durham ( Angleterre ), est un tueur en série britannique . Également connu sous le nom de Peter William Coonan, aussi » […] « aussi surnommé Yorkshire Ripper (allusion à Jack l'Éventreur , en anglais « Jack the Ripper ») par la presse. Biographie [ modifier | modifier »",
+        "consultedAt": "2026-10-30",
+        "revision": "239104515",
+        "retrievedSha256": "1028a6e16f2abf585b8e90920d90f6c59a14eda8d11b8f6786c8ba72efb76243"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-022"
+  },
+  {
+    "category": "cinema",
+    "title": "Le deuil des Graham",
+    "prompt": "Quel film d’horreur de 2018 suit la famille Graham après la mort de la grand-mère Ellen ?",
+    "answer": "Hérédité / Hereditary",
+    "clues": [
+      "C’est le premier long-métrage d’Ari Aster.",
+      "Toni Collette joue Annie Graham, une artiste qui fabrique des maquettes."
+    ],
+    "explanation": "Accepter « Hérédité », « Hereditary » ou « Héréditaire ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Hérédité (film, 2018) — version 240273889",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240273889",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Hérédité ( Hereditary ), ou Héréditaire au Québec , est un drame d'horreur psychologique écrit et réalisé par Ari Aster , sorti en 2018 . Premier long-métrage du réalisateur, le film",
+          "Premier long-métrage du réalisateur, le film est présenté en avant-première au Festival du film de Sundance le 21 janvier 2018 . Synopsis [ modifier |",
+          "Annie Graham, artiste maquettiste , vit avec son mari Steve, psychiatre , et leurs deux enfants, Peter, âgé de 16 ans, et Charlie, âgée de 13 ans. La famille se rend aux funérailles d'Ellen, la mère d'Annie, au cours desquelles celle-ci est étonnée du nombre de personnes présentes. Annie prend part à",
+          "Toni Collette ( VF : Marjorie Frantz ; VQ : Hélène Mondoux ) : Annie Graham Gabriel Byrne ( VF : Gabriel"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Hérédité ( Hereditary ), ou Héréditaire au Québec , est un drame d'horreur psychologique écrit et réalisé par Ari Aster , sorti en 2018 . Premier long-métrage du réalisateur, le film » […] « Premier long-métrage du réalisateur, le film est présenté en avant-première au Festival du film de Sundance le 21 janvier 2018 . Synopsis [ modifier | » […] « Annie Graham, artiste maquettiste , vit avec son mari Steve, psychiatre , et leurs deux enfants, Peter, âgé de 16 ans, et Charlie, âgée de 13 ans. La famille se rend aux funérailles d'Ellen, la mère d'Annie, au cours desquelles celle-ci est étonnée du nombre de personnes présentes. Annie prend part à » […] « Toni Collette ( VF : Marjorie Frantz ; VQ : Hélène Mondoux ) : Annie Graham Gabriel Byrne ( VF : Gabriel »",
+        "consultedAt": "2026-10-30",
+        "revision": "240273889",
+        "retrievedSha256": "144dc4ddb1550c16a0afbea77f238baa93daace84c50f0912503ae8414d07ea1"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-023"
+  },
+  {
+    "category": "france",
+    "title": "Une profession dans l’affaire Raddad",
+    "prompt": "Quel métier exerçait Omar Raddad pour Ghislaine Marchal ?",
+    "answer": "Jardinier",
+    "clues": [
+      "Il travaillait pour elle dans sa villa de Mougins, appelée La Chamade.",
+      "Son activité concernait l’entretien du jardin et des espaces verts."
+    ],
+    "explanation": "Accepter « jardinier ». La question porte sur son métier et ne tranche pas la contestation de sa condamnation.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Omar Raddad — version 240158041",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240158041",
+        "section": "Introduction",
+        "quotes": [
+          "L' affaire Omar Raddad a commencé avec le meurtre de Ghislaine Marchal, tuée en 1991 dans sa villa La Chamade, sur les hauteurs de Mougins ( Alpes-Maritimes ). Deux inscriptions en lettres de sang trouvées sur la scène du crime, indiquant « OMAR M'A TUER » [ sic ] l’une et « OMAR M’A T » l’autre, ont conduit la justice à inculper Omar Raddad, le jardinier de la victime, malgré ses protestations d'innocence. Défendu par M Jacques Vergès , il a été condamné en 1994 à 18 ans de réclusion criminelle , avant de bénéficier, en 1996 , d'une grâce partielle accordée par le président Jacques Chirac . Depuis sa remise"
+        ],
+        "evidence": "Introduction : « L' affaire Omar Raddad a commencé avec le meurtre de Ghislaine Marchal, tuée en 1991 dans sa villa La Chamade, sur les hauteurs de Mougins ( Alpes-Maritimes ). Deux inscriptions en lettres de sang trouvées sur la scène du crime, indiquant « OMAR M'A TUER » [ sic ] l’une et « OMAR M’A T » l’autre, ont conduit la justice à inculper Omar Raddad, le jardinier de la victime, malgré ses protestations d'innocence. Défendu par M Jacques Vergès , il a été condamné en 1994 à 18 ans de réclusion criminelle , avant de bénéficier, en 1996 , d'une grâce partielle accordée par le président Jacques Chirac . Depuis sa remise »",
+        "consultedAt": "2026-10-30",
+        "revision": "240158041",
+        "retrievedSha256": "5dd4c0b36971afa1963b5bb86159efbc44e949e748694725b5a6f95dadbea499"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-024"
+  },
+  {
+    "category": "cinema",
+    "title": "L’excursion de trop",
+    "prompt": "Quel film britannique de 2005 met en scène six amies parties pratiquer la spéléologie ?",
+    "answer": "The Descent",
+    "clues": [
+      "Neil Marshall réalise ce film situé dans un réseau de grottes des Appalaches.",
+      "Après un éboulement, les femmes découvrent qu’elles sont pourchassées par des créatures souterraines."
+    ],
+    "explanation": "Accepter « The Descent » ou « La Descente ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — The Descent — version 225078043",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=225078043",
+        "section": "Introduction et Synopsis",
+        "quotes": [
+          "The Descent , ou La Descente au Québec , est un film d'horreur britannique écrit et réalisé par Neil Marshall , sorti en 2005 . Il raconte l'histoire de six femmes",
+          "Il raconte l'histoire de six femmes qui, en faisant de la spéléologie , se retrouvent piégées à cause d'un éboulement dans un système de grottes non cartographié dans les Appalaches . En essayant de trouver une sortie, elles se rendent compte qu'elles ne sont pas seules dans les grottes et, très vite, sont pourchassées par des créatures humanoïdes carnivores qui se sont adaptées à leur environnement souterrain. Le film a reçu un très bon accueil à la fois de la part du public et des critiques et est régulièrement considéré"
+        ],
+        "evidence": "Introduction et Synopsis : « The Descent , ou La Descente au Québec , est un film d'horreur britannique écrit et réalisé par Neil Marshall , sorti en 2005 . Il raconte l'histoire de six femmes » […] « Il raconte l'histoire de six femmes qui, en faisant de la spéléologie , se retrouvent piégées à cause d'un éboulement dans un système de grottes non cartographié dans les Appalaches . En essayant de trouver une sortie, elles se rendent compte qu'elles ne sont pas seules dans les grottes et, très vite, sont pourchassées par des créatures humanoïdes carnivores qui se sont adaptées à leur environnement souterrain. Le film a reçu un très bon accueil à la fois de la part du public et des critiques et est régulièrement considéré »",
+        "consultedAt": "2026-10-30",
+        "revision": "225078043",
+        "retrievedSha256": "495a9c429d9bb1bf237279b73fbc0206446a9140dd9cc9bb4ebf957ae1b2c8a0"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-025"
+  },
+  {
+    "category": "crime",
+    "title": "L’exploitation près de Vancouver",
+    "prompt": "Dans quel pays se trouvait l’élevage de porcs associé à Robert Pickton ?",
+    "answer": "Le Canada",
+    "clues": [
+      "L’affaire est liée à Vancouver et à Port Coquitlam.",
+      "Il a purgé sa peine au Québec, dans la prison de Port-Cartier."
+    ],
+    "explanation": "Accepter « Canada ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Robert Pickton — version 240057630",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240057630",
+        "section": "Introduction et arrestation",
+        "quotes": [
+          "Robert William Pickton , né le 24 octobre 1949 à Port Coquitlam ( Colombie-Britannique ) et mort le 31 mai 2024 à Québec ( Québec ) , est un éleveur de porcs et tueur en série canadien . Il est soupçonné d'avoir été l'un des tueurs en série les plus prolifiques de l'histoire canadienne. Le 9 décembre 2007 , il est reconnu coupable",
+          "Vancouver , le Downtown Eastside . Il est alors condamné à un emprisonnement à perpétuité sans possibilité",
+          "le code ] Né le 24 octobre 1949 à Port Coquitlam , Robert Pickton est élevé dans une ferme familiale près de Port Coquitlam en banlieue de Vancouver , où ses parents Leonard Francis Pickton (1896-1978) et Helene Louise Arnal (1912-1979) sont éleveurs de porcs. Il a une sœur aînée, Linda Louise Wright, et",
+          "Robert Pickton purge sa peine d'incarcération au Québec, plus précisément sur la Côte-Nord à l' établissement pénitentiaire à sécurité maximale de Port-Cartier . Le 19"
+        ],
+        "evidence": "Introduction et arrestation : « Robert William Pickton , né le 24 octobre 1949 à Port Coquitlam ( Colombie-Britannique ) et mort le 31 mai 2024 à Québec ( Québec ) , est un éleveur de porcs et tueur en série canadien . Il est soupçonné d'avoir été l'un des tueurs en série les plus prolifiques de l'histoire canadienne. Le 9 décembre 2007 , il est reconnu coupable » […] « Vancouver , le Downtown Eastside . Il est alors condamné à un emprisonnement à perpétuité sans possibilité » […] « le code ] Né le 24 octobre 1949 à Port Coquitlam , Robert Pickton est élevé dans une ferme familiale près de Port Coquitlam en banlieue de Vancouver , où ses parents Leonard Francis Pickton (1896-1978) et Helene Louise Arnal (1912-1979) sont éleveurs de porcs. Il a une sœur aînée, Linda Louise Wright, et » […] « Robert Pickton purge sa peine d'incarcération au Québec, plus précisément sur la Côte-Nord à l' établissement pénitentiaire à sécurité maximale de Port-Cartier . Le 19 »",
+        "consultedAt": "2026-10-30",
+        "revision": "240057630",
+        "retrievedSha256": "917216e39a834697a64f005a462333195836a3cce2070dac8364e31aba540f21"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-026"
+  },
+  {
+    "category": "cinema",
+    "title": "La ferme des Perron",
+    "prompt": "Quel film de 2013 raconte l’enquête menée dans la maison hantée de la famille Perron ?",
+    "answer": "Conjuring : Les Dossiers Warren",
+    "clues": [
+      "Le film est réalisé par James Wan, avec Patrick Wilson et Vera Farmiga.",
+      "Ces deux acteurs incarnent les enquêteurs Ed et Lorraine Warren."
+    ],
+    "explanation": "Accepter « Conjuring » ou « The Conjuring ». La question porte sur l’intrigue du film, pas sur la réalité des phénomènes surnaturels.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Conjuring : Les Dossiers Warren — version 237806910",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=237806910",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Conjuring : Les Dossiers Warren ou La Conjuration au Québec ( The Conjuring ) est un film d'horreur américain réalisé par James Wan , sorti en 2013 . Il s'agit du premier film de l' univers cinématographique Conjuring . Il est inspiré de deux affaires traitées",
+          "En janvier 1971 , la famille Perron : Roger, Carolyn, et leurs cinq filles, Andréa, Nancy, Christine, Cindy et April, âgées de douze à cinq ans, emménagent dans une ferme isolée à Harrisville (en) , Rhode Island . Bizarrement, la chienne refuse d'entrer dans la",
+          "Vera Farmiga (VF : Ivana Coppola ; VQ : Camille Cyr-Desmarais ) : Lorraine Warren Patrick Wilson (VF : Alexis Victor ; VQ : Frédéric Paquet) : Edward « Ed » Warren Ron Livingston (VF : Guillaume Lebon ; VQ : François Godin ) : Roger Perron,"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Conjuring : Les Dossiers Warren ou La Conjuration au Québec ( The Conjuring ) est un film d'horreur américain réalisé par James Wan , sorti en 2013 . Il s'agit du premier film de l' univers cinématographique Conjuring . Il est inspiré de deux affaires traitées » […] « En janvier 1971 , la famille Perron : Roger, Carolyn, et leurs cinq filles, Andréa, Nancy, Christine, Cindy et April, âgées de douze à cinq ans, emménagent dans une ferme isolée à Harrisville (en) , Rhode Island . Bizarrement, la chienne refuse d'entrer dans la » […] « Vera Farmiga (VF : Ivana Coppola ; VQ : Camille Cyr-Desmarais ) : Lorraine Warren Patrick Wilson (VF : Alexis Victor ; VQ : Frédéric Paquet) : Edward « Ed » Warren Ron Livingston (VF : Guillaume Lebon ; VQ : François Godin ) : Roger Perron, »",
+        "consultedAt": "2026-10-30",
+        "revision": "237806910",
+        "retrievedSha256": "26cdc4772b595706cfd2bdf0a7ea7e1028a5a5c8be2b187677e9251d9dc0b4bb"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-027"
+  },
+  {
+    "category": "france",
+    "title": "L’autre nom de l’affaire Fourniret",
+    "prompt": "Quelle femme, épouse de Michel Fourniret, a été condamnée pour sa complicité dans ses crimes ?",
+    "answer": "Monique Olivier",
+    "clues": [
+      "Elle est jugée en même temps que lui et condamnée à la perpétuité.",
+      "Elle est notamment connue du public sous son prénom, Monique."
+    ],
+    "explanation": "Accepter « Monique Olivier ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Michel Fourniret — version 240836661",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240836661",
+        "section": "Introduction",
+        "quotes": [
+          "Son épouse, Monique Olivier , née le 31 octobre 1948 , est accusée de complicité de meurtre et de non-dénonciation de meurtre, dont elle avait connaissance. Elle est jugée en même temps que lui et condamnée à la réclusion criminelle à perpétuité assortie d'une période de sûreté de 28 ans. Biographie [ modifier | modifier le code ] Enfance et adolescence [ modifier | modifier le code ] Michel Fourniret est né"
+        ],
+        "evidence": "Introduction : « Son épouse, Monique Olivier , née le 31 octobre 1948 , est accusée de complicité de meurtre et de non-dénonciation de meurtre, dont elle avait connaissance. Elle est jugée en même temps que lui et condamnée à la réclusion criminelle à perpétuité assortie d'une période de sûreté de 28 ans. Biographie [ modifier | modifier le code ] Enfance et adolescence [ modifier | modifier le code ] Michel Fourniret est né »",
+        "consultedAt": "2026-10-30",
+        "revision": "240836661",
+        "retrievedSha256": "d10aec706cedc56da7772b4807883536eb7b65e6d194446f5793f2eb8acfb532"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-028"
+  },
+  {
+    "category": "cinema",
+    "title": "Une adolescente à protéger",
+    "prompt": "Quelle série de 2023 suit Joel et Ellie dans un monde ravagé par une infection ?",
+    "answer": "The Last of Us",
+    "clues": [
+      "Pedro Pascal et Bella Ramsey jouent les deux personnages principaux.",
+      "L’infection est provoquée par un champignon, le Cordyceps ; la série adapte le jeu vidéo du même nom."
+    ],
+    "explanation": "Accepter « The Last of Us ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — The Last of Us (série télévisée) — version 238822580",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=238822580",
+        "section": "Introduction et Synopsis",
+        "quotes": [
+          "The Last of Us est une série télévisée post-apocalyptique américaine créée par Neil Druckmann et Craig Mazin , diffusée depuis le 15 janvier 2023 sur la chaîne américaine HBO . Au Québec , elle est diffusée sur Super Écran",
+          "le 20 février 2023 sur la RTS . La première saison est une adaptation télévisée du jeu vidéo homonyme , développé par Naughty Dog et sorti initialement en 2013 sur PlayStation 3 . La deuxième saison adapte en partie le jeu The Last of Us Part",
+          "champignon parasite , le Cordyceps . Vingt ans après le début de cette pandémie , Joel ( Pedro Pascal ), Ellie ( Bella Ramsey ) et Tess ( Anna Torv ), un trio lié par la dureté du monde dans lequel ils vivent, se lancent dans un périple à travers de ce qu'il reste des États-Unis . Au cours de leur voyage, ils devront faire face aussi bien aux infectés qu'à des survivants hostiles. Distribution [ modifier | modifier le code ] Sauf indication contraire, les informations mentionnées dans cette section peuvent être confirmées"
+        ],
+        "evidence": "Introduction et Synopsis : « The Last of Us est une série télévisée post-apocalyptique américaine créée par Neil Druckmann et Craig Mazin , diffusée depuis le 15 janvier 2023 sur la chaîne américaine HBO . Au Québec , elle est diffusée sur Super Écran » […] « le 20 février 2023 sur la RTS . La première saison est une adaptation télévisée du jeu vidéo homonyme , développé par Naughty Dog et sorti initialement en 2013 sur PlayStation 3 . La deuxième saison adapte en partie le jeu The Last of Us Part » […] « champignon parasite , le Cordyceps . Vingt ans après le début de cette pandémie , Joel ( Pedro Pascal ), Ellie ( Bella Ramsey ) et Tess ( Anna Torv ), un trio lié par la dureté du monde dans lequel ils vivent, se lancent dans un périple à travers de ce qu'il reste des États-Unis . Au cours de leur voyage, ils devront faire face aussi bien aux infectés qu'à des survivants hostiles. Distribution [ modifier | modifier le code ] Sauf indication contraire, les informations mentionnées dans cette section peuvent être confirmées »",
+        "consultedAt": "2026-10-30",
+        "revision": "238822580",
+        "retrievedSha256": "34168222e339ecc5bc57f2e776f7f6445279ec5b048d17a7f853217b5cd9bd69"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-029"
+  },
+  {
+    "category": "crime",
+    "title": "Un surnom lié à une ville",
+    "prompt": "Quel tueur soviétique a été surnommé « le Monstre de Rostov » ?",
+    "answer": "Andreï Tchikatilo",
+    "clues": [
+      "Il est arrêté en novembre 1990.",
+      "L’enquête sur ses crimes inspire le téléfilm Citizen X, sorti en 1995."
+    ],
+    "explanation": "Accepter « Andreï Tchikatilo », « Tchikatilo » ou « Andrei Chikatilo ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Andreï Tchikatilo — version 235652978",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=235652978",
+        "section": "Infobox et Introduction",
+        "quotes": [
+          "Surnom Le Monstre de Rostov L'Ogre de Rostov Le Boucher de la forêt Citoyen X L’Éventreur russe Condamnation 15 octobre 1992 Sentence",
+          "Arrestation 20 novembre 1990 modifier Andreï Romanovitch Tchikatilo",
+          "est un tueur en série soviétique . Surnommé entre autres « le monstre de",
+          "En 1995, un téléfilm américain intitulé Citizen X , réalisé par Chris Gerolmo, tente sous la forme d'une fiction de retracer le parcours du tueur en série ainsi que l'enquête qui a conduit à son arrestation. En 2004 sort le film italien Evilenko , librement"
+        ],
+        "evidence": "Infobox et Introduction : « Surnom Le Monstre de Rostov L'Ogre de Rostov Le Boucher de la forêt Citoyen X L’Éventreur russe Condamnation 15 octobre 1992 Sentence » […] « Arrestation 20 novembre 1990 modifier Andreï Romanovitch Tchikatilo » […] « est un tueur en série soviétique . Surnommé entre autres « le monstre de » […] « En 1995, un téléfilm américain intitulé Citizen X , réalisé par Chris Gerolmo, tente sous la forme d'une fiction de retracer le parcours du tueur en série ainsi que l'enquête qui a conduit à son arrestation. En 2004 sort le film italien Evilenko , librement »",
+        "consultedAt": "2026-10-30",
+        "revision": "235652978",
+        "retrievedSha256": "2bf109bea306098556579904831c4f1541661589b9b56dbaa2956f6152444f0a"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-030"
+  },
+  {
+    "category": "cinema",
+    "title": "Une découverte dans le grenier",
+    "prompt": "Quel film de 2012 suit un écrivain de récits criminels installé avec sa famille dans une maison au passé meurtrier ?",
+    "answer": "Sinister",
+    "clues": [
+      "Ethan Hawke interprète l’écrivain.",
+      "Il découvre un projecteur et des bobines Super 8 montrant plusieurs crimes."
+    ],
+    "explanation": "Accepter « Sinister » ou « Sinistre ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Sinister — version 240282347",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240282347",
+        "section": "Introduction et Synopsis",
+        "quotes": [
+          "Sinister ou Sinistre au Québec est un film d'horreur américano - canado - britannique réalisé par Scott Derrickson , sorti en 2012 . Le film met en scène un écrivain passionné de récits criminels",
+          "Le film met en scène un écrivain passionné de récits criminels ( Ethan Hawke ), en mal d'inspiration pour trouver son prochain sujet, qui emménage avec sa famille dans une maison où a eu lieu l’épouvantable assassinat d’une famille entière. Il découvre dans le grenier de la maison une boîte contenant un projecteur et des bobines de pellicule Super 8 sur lesquelles ce meurtre, ainsi que plusieurs autres, ont été filmés. Il poursuit son enquête et découvre une entité qui pourrait bien mettre sa propre famille en danger. Le film connaît une suite, Sinister 2 , sortie en 2015 . Synopsis [ modifier | modifier le code ] Le film s'ouvre sur l'assassinat"
+        ],
+        "evidence": "Introduction et Synopsis : « Sinister ou Sinistre au Québec est un film d'horreur américano - canado - britannique réalisé par Scott Derrickson , sorti en 2012 . Le film met en scène un écrivain passionné de récits criminels » […] « Le film met en scène un écrivain passionné de récits criminels ( Ethan Hawke ), en mal d'inspiration pour trouver son prochain sujet, qui emménage avec sa famille dans une maison où a eu lieu l’épouvantable assassinat d’une famille entière. Il découvre dans le grenier de la maison une boîte contenant un projecteur et des bobines de pellicule Super 8 sur lesquelles ce meurtre, ainsi que plusieurs autres, ont été filmés. Il poursuit son enquête et découvre une entité qui pourrait bien mettre sa propre famille en danger. Le film connaît une suite, Sinister 2 , sortie en 2015 . Synopsis [ modifier | modifier le code ] Le film s'ouvre sur l'assassinat »",
+        "consultedAt": "2026-10-30",
+        "revision": "240282347",
+        "retrievedSha256": "69568ad47d6315544739ba0a08b7526d2a0918b3ddb5f99f65a17620b30d0ea9"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-031"
+  },
+  {
+    "category": "france",
+    "title": "Le nom d’un désastre judiciaire",
+    "prompt": "Quelle affaire judiciaire française aboutit à treize acquittements sur dix-sept accusés, après deux grands procès en 2004 et 2005 ?",
+    "answer": "L’affaire d’Outreau",
+    "clues": [
+      "Le premier procès a lieu à Saint-Omer ; le procès en appel se tient à Paris.",
+      "L’affaire porte le nom d’une commune du Pas-de-Calais, près de Boulogne-sur-Mer."
+    ],
+    "explanation": "Accepter « Outreau » ou « affaire d’Outreau ». Ne pas confondre les acquittements avec l’absence de victimes ou de toute condamnation dans cette affaire.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire d'Outreau — version 240127267",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240127267",
+        "section": "Introduction et origine de l’affaire",
+        "quotes": [
+          "Un procès en première instance a lieu devant la cour d'assises du Pas-de-Calais ( Saint-Omer ), du 4 mai au 2 juillet 2004 , puis un procès en appel auprès de la cour d'appel de Paris en novembre 2005 . Enfin, un procès devant la cour d'assises pour mineurs d' Ille-et-Vilaine ( Rennes ) a lieu en 2015. L'affaire débouche sur quatre condamnations définitives et l' acquittement",
+          "L'affaire débouche sur quatre condamnations définitives et l' acquittement de treize des dix-sept accusés, dont plusieurs avaient été maintenus en prison pendant plusieurs années. Douze enfants sont reconnus,",
+          "Renard à Outreau , en banlieue sud de la ville portuaire de Boulogne-sur-Mer ( Pas-de-Calais ), où habitent les Delay-Badaoui, ainsi qu'avec des personnes"
+        ],
+        "evidence": "Introduction et origine de l’affaire : « Un procès en première instance a lieu devant la cour d'assises du Pas-de-Calais ( Saint-Omer ), du 4 mai au 2 juillet 2004 , puis un procès en appel auprès de la cour d'appel de Paris en novembre 2005 . Enfin, un procès devant la cour d'assises pour mineurs d' Ille-et-Vilaine ( Rennes ) a lieu en 2015. L'affaire débouche sur quatre condamnations définitives et l' acquittement » […] « L'affaire débouche sur quatre condamnations définitives et l' acquittement de treize des dix-sept accusés, dont plusieurs avaient été maintenus en prison pendant plusieurs années. Douze enfants sont reconnus, » […] « Renard à Outreau , en banlieue sud de la ville portuaire de Boulogne-sur-Mer ( Pas-de-Calais ), où habitent les Delay-Badaoui, ainsi qu'avec des personnes »",
+        "consultedAt": "2026-10-30",
+        "revision": "240127267",
+        "retrievedSha256": "c92179811798d8b61621c2029e64d2fbc123809ebbc2d1e6e47aa50f8e838a03"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-032"
+  },
+  {
+    "category": "cinema",
+    "title": "Un vampire du cinéma muet",
+    "prompt": "Quel film allemand de 1922 est une adaptation non autorisée du roman Dracula ?",
+    "answer": "Nosferatu le vampire",
+    "clues": [
+      "Le film est réalisé par Friedrich Wilhelm Murnau.",
+      "Le vampire y porte le nom de comte Orlock."
+    ],
+    "explanation": "Accepter « Nosferatu ». La question vise le film muet de 1922.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Nosferatu le vampire — version 240576905",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240576905",
+        "section": "Introduction",
+        "quotes": [
+          "Nosferatu le vampire ( Nosferatu, eine Symphonie des Grauens ) est un film muet allemand réalisé par Friedrich Wilhelm Murnau sorti en 1922 , adapté du roman Dracula , bien qu'il ne fût pas autorisé par les détenteurs des droits d’auteur . Pour cette raison, certains noms et détails ont été changés par rapport au roman. Le comte Dracula devient",
+          "Le comte Dracula devient ainsi le comte Orlock . Le film fit l'objet d'un procès intenté par la veuve"
+        ],
+        "evidence": "Introduction : « Nosferatu le vampire ( Nosferatu, eine Symphonie des Grauens ) est un film muet allemand réalisé par Friedrich Wilhelm Murnau sorti en 1922 , adapté du roman Dracula , bien qu'il ne fût pas autorisé par les détenteurs des droits d’auteur . Pour cette raison, certains noms et détails ont été changés par rapport au roman. Le comte Dracula devient » […] « Le comte Dracula devient ainsi le comte Orlock . Le film fit l'objet d'un procès intenté par la veuve »",
+        "consultedAt": "2026-10-30",
+        "revision": "240576905",
+        "retrievedSha256": "f96a0d571ce8a2be87357d826d5a13ae1a15fb942b09db2376cad9749c1aa557"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-033"
+  },
+  {
+    "category": "crime",
+    "title": "Des portraits pour retrouver des noms",
+    "prompt": "Quel tueur américain a dessiné des portraits de ses victimes, ensuite diffusés par le FBI pour les identifier ?",
+    "answer": "Samuel Little",
+    "clues": [
+      "Il a été condamné à la perpétuité en 2014, avant de multiplier les aveux.",
+      "Son prénom est Samuel ; le FBI a publié ses dessins pour permettre aux proches de reconnaître les femmes représentées."
+    ],
+    "explanation": "Accepter « Samuel Little ». Les portraits sont destinés à rendre leur identité aux victimes.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Samuel Little — version 238390900",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=238390900",
+        "section": "Introduction et aveux",
+        "quotes": [
+          "Samuel Little est un tueur en série américain né le 7 juin 1940 à Reynolds ( Géorgie ) et mort le 30 décembre 2020 à Lancaster dans le comté de Los Angeles ( Californie ). En 2012 , il est accusé du meurtre",
+          "Reconnu coupable, il est condamné, en 2014 , à l' emprisonnement à perpétuité . Après cette condamnation, les autorités californiennes déclarent qu'il aurait pu",
+          "Lors de ses interrogatoires, Little dessine également les portraits de nombreuses femmes qu'il avoue avoir tuées. Ces portraits sont publiés par le FBI, dans l'espoir que quelqu'un identifie les femmes. L'un d'eux a permis de résoudre une affaire à Akron . En novembre"
+        ],
+        "evidence": "Introduction et aveux : « Samuel Little est un tueur en série américain né le 7 juin 1940 à Reynolds ( Géorgie ) et mort le 30 décembre 2020 à Lancaster dans le comté de Los Angeles ( Californie ). En 2012 , il est accusé du meurtre » […] « Reconnu coupable, il est condamné, en 2014 , à l' emprisonnement à perpétuité . Après cette condamnation, les autorités californiennes déclarent qu'il aurait pu » […] « Lors de ses interrogatoires, Little dessine également les portraits de nombreuses femmes qu'il avoue avoir tuées. Ces portraits sont publiés par le FBI, dans l'espoir que quelqu'un identifie les femmes. L'un d'eux a permis de résoudre une affaire à Akron . En novembre »",
+        "consultedAt": "2026-10-30",
+        "revision": "238390900",
+        "retrievedSha256": "6211e452e1dab387695d6244c1c357fcb175f5b53a3a07e72d6ec01ccc646a17"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-034"
+  },
+  {
+    "category": "cinema",
+    "title": "Des inconnus très familiers",
+    "prompt": "Quel film de 2019 voit les vacances de la famille Wilson tourner au cauchemar face à des intrus ?",
+    "answer": "Us",
+    "clues": [
+      "Jordan Peele réalise ce film, avec Lupita Nyong’o.",
+      "Les agresseurs sont les doubles de chacun des membres de la famille."
+    ],
+    "explanation": "Accepter « Us » ou « Nous ». Les doubles constituent le cœur de l’intrigue.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Us (film, 2019) — version 240379734",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240379734",
+        "section": "Introduction et Distribution",
+        "quotes": [
+          "Acteurs principaux Lupita Nyong'o Winston Duke Elisabeth Moss Tim Heidecker",
+          "Us , ou Nous au Québec , est un film d'horreur américain écrit, produit et réalisé par Jordan Peele et sorti en 2019 . Le film suit Gabe et Adelaide Wilson qui se rendent",
+          "Le film suit Gabe et Adelaide Wilson qui se rendent avec leurs deux enfants dans leur maison de vacances pour passer du temps avec leurs amis, les Tyler. Mais leur séjour tranquille devient cauchemardesque quand ils sont terrorisés par une bande d'inconnus qui ne sont autres que leurs doppelgängers . Synopsis [ modifier | modifier le code ] La Santa Cruz Beach Boardwalk"
+        ],
+        "evidence": "Introduction et Distribution : « Acteurs principaux Lupita Nyong'o Winston Duke Elisabeth Moss Tim Heidecker » […] « Us , ou Nous au Québec , est un film d'horreur américain écrit, produit et réalisé par Jordan Peele et sorti en 2019 . Le film suit Gabe et Adelaide Wilson qui se rendent » […] « Le film suit Gabe et Adelaide Wilson qui se rendent avec leurs deux enfants dans leur maison de vacances pour passer du temps avec leurs amis, les Tyler. Mais leur séjour tranquille devient cauchemardesque quand ils sont terrorisés par une bande d'inconnus qui ne sont autres que leurs doppelgängers . Synopsis [ modifier | modifier le code ] La Santa Cruz Beach Boardwalk »",
+        "consultedAt": "2026-10-30",
+        "revision": "240379734",
+        "retrievedSha256": "afcad94b72cb56bf8d366c6afff648a756eff109cf030a583b5cd4dd979f1904"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-035"
+  },
+  {
+    "category": "france",
+    "title": "L’héritière du casino",
+    "prompt": "Dans quelle ville française Agnès Le Roux, héritière d’une part du casino du Palais de la Méditerranée, disparaît-elle en 1977 ?",
+    "answer": "Nice",
+    "clues": [
+      "L’affaire se déroule dans les Alpes-Maritimes, sur la Côte d’Azur.",
+      "La ville est notamment connue pour sa promenade des Anglais."
+    ],
+    "explanation": "Accepter « Nice ». La question vise la ville de l’affaire, pas une hypothèse sur le lieu de sa mort.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Agnès Le Roux — version 240181805",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240181805",
+        "section": "Introduction et disparition",
+        "quotes": [
+          "L' affaire Agnès Le Roux , également appelée affaire Le Roux , affaire Agnelet , ou affaire Le Roux-Agnelet est une affaire criminelle survenue à Nice ( Alpes-Maritimes ) en France en 1977, conclue le 11 avril 2014 par la condamnation pour assassinat du principal suspect, Maurice Agnelet, ex-amant de la disparue. À ce jour, le corps d'Agnès Le Roux demeure introuvable.",
+          "héritière d'une part du casino niçois le palais de la Méditerranée , disparaît subitement. Un mot troublant non daté est retrouvé dans son appartement niçois : «",
+          "d'avoir des liens avec la pègre de la Côte d'azur et la mafia italienne, et rêve avec Jacques Médecin, député-maire de"
+        ],
+        "evidence": "Introduction et disparition : « L' affaire Agnès Le Roux , également appelée affaire Le Roux , affaire Agnelet , ou affaire Le Roux-Agnelet est une affaire criminelle survenue à Nice ( Alpes-Maritimes ) en France en 1977, conclue le 11 avril 2014 par la condamnation pour assassinat du principal suspect, Maurice Agnelet, ex-amant de la disparue. À ce jour, le corps d'Agnès Le Roux demeure introuvable. » […] « héritière d'une part du casino niçois le palais de la Méditerranée , disparaît subitement. Un mot troublant non daté est retrouvé dans son appartement niçois : « » […] « d'avoir des liens avec la pègre de la Côte d'azur et la mafia italienne, et rêve avec Jacques Médecin, député-maire de »",
+        "consultedAt": "2026-10-30",
+        "revision": "240181805",
+        "retrievedSha256": "bf7ea2cfd02b36a64d59beda9da8dbdff91ac46f1e062d473ffcb4e4bccd0014"
+      },
+      {
+        "title": "Wikipédia, contributeurs — Nice — version 240782377",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240782377",
+        "section": "Introduction et promenade des Anglais",
+        "quotes": [
+          "Nice ( Nissa ou Niça [ ˈ n i s a ] en occitan niçois ) est une commune du Sud-Est de la France , la préfecture du département des Alpes-Maritimes et la deuxième ville la plus peuplée de la région Provence-Alpes-Côte d'Azur derrière Marseille . Située à une trentaine de kilomètres de la frontière franco-italienne , elle est établie sur les bords de la mer Méditerranée , le long de la baie",
+          "à gauche, l'agglomération à droite avec la promenade des Anglais, et, en fond de tableau, le Mercantour enneigé. Nice vue par le satellite Spot : de gauche à droite : l'aéroport, la promenade des Anglais, le mont Boron , la rade de Villefranche-sur-Mer , le Cap-Ferrat , la baie des Fourmis."
+        ],
+        "evidence": "Introduction et promenade des Anglais : « Nice ( Nissa ou Niça [ ˈ n i s a ] en occitan niçois ) est une commune du Sud-Est de la France , la préfecture du département des Alpes-Maritimes et la deuxième ville la plus peuplée de la région Provence-Alpes-Côte d'Azur derrière Marseille . Située à une trentaine de kilomètres de la frontière franco-italienne , elle est établie sur les bords de la mer Méditerranée , le long de la baie » […] « à gauche, l'agglomération à droite avec la promenade des Anglais, et, en fond de tableau, le Mercantour enneigé. Nice vue par le satellite Spot : de gauche à droite : l'aéroport, la promenade des Anglais, le mont Boron , la rade de Villefranche-sur-Mer , le Cap-Ferrat , la baie des Fourmis. »",
+        "consultedAt": "2026-10-30",
+        "revision": "240782377",
+        "retrievedSha256": "a1fb4986a3bfececc55f5e9c43caf1461953023512ce0a4d35ab05f113656351"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-036"
+  },
+  {
+    "category": "cinema",
+    "title": "Des visages trop heureux",
+    "prompt": "Quel film de 2022 suit la thérapeute Rose Cotter après une rencontre traumatisante avec une patiente ?",
+    "answer": "Smile",
+    "clues": [
+      "Sosie Bacon joue Rose Cotter dans ce film de Parker Finn.",
+      "L’entité qui poursuit les victimes prend l’apparence de personnes souriantes."
+    ],
+    "explanation": "Accepter « Smile » ou « Sourire ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Smile (film, 2022) — version 240808358",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240808358",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Smile ou Sourire au Québec est un film d'horreur américain réalisé par Parker Finn et sorti en 2022 . Il s'agit de l' adaptation du court métrage Laura Hasn't Slept",
+          "Sosie Bacon ( VF : Victoire Charval ; VQ : Kim Jalabert ) : D Rose Cotter , une thérapeute Kyle Gallner ( VF : Jim Redler ; VQ : Frédéric Millaire-Zouvi) : Joel,",
+          "une entité qui prend l'apparence de personnes souriantes et qui lui ont dit qu'elle n'a plus que 7 jours avant de mourir. Laura se met soudain à crier et à paniquer et Rose appelle"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Smile ou Sourire au Québec est un film d'horreur américain réalisé par Parker Finn et sorti en 2022 . Il s'agit de l' adaptation du court métrage Laura Hasn't Slept » […] « Sosie Bacon ( VF : Victoire Charval ; VQ : Kim Jalabert ) : D Rose Cotter , une thérapeute Kyle Gallner ( VF : Jim Redler ; VQ : Frédéric Millaire-Zouvi) : Joel, » […] « une entité qui prend l'apparence de personnes souriantes et qui lui ont dit qu'elle n'a plus que 7 jours avant de mourir. Laura se met soudain à crier et à paniquer et Rose appelle »",
+        "consultedAt": "2026-10-30",
+        "revision": "240808358",
+        "retrievedSha256": "0cc59e850f420dbc14f88d85babf53856da508f9c4e30173e1d8e8568251264d"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-037"
+  },
+  {
+    "category": "crime",
+    "title": "Un sinistre comptage",
+    "prompt": "À quel jeu Alexandre Pitchouchkine joue-t-il régulièrement, notamment dans le parc de la Bitsa ?",
+    "answer": "Les échecs",
+    "clues": [
+      "Son grand-père lui a fait découvrir ce jeu dans son enfance.",
+      "Il se joue sur un plateau de 64 cases, à l’origine du surnom de ce tueur."
+    ],
+    "explanation": "Accepter « échecs » ou « jeu d’échecs ». Le chiffre évoqué décrit son projet, pas un bilan de victimes établi.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Alexandre Pitchouchkine — version 231739672",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=231739672",
+        "section": "Jeunesse et premiers crimes",
+        "quotes": [
+          "demi-sœur, Pitchouchkine part vivre chez son grand-père, qui participe à son éducation et lui fait découvrir le jeu d'échecs. Pitchouchkine prend part à des tournois publics au parc de la Bitsa , près de chez lui. Après l'internat, Pitchouchkine entre dans une école professionnelle technique et se spécialise en menuiserie.",
+          "dans la Forêt de Bitsevski afin d'élaborer avec lui un plan pour tuer 64 personnes : le nombre de cases que comporte un échiquier. Mais, arrivé sur les lieux des crimes prévus, Odïtchouk"
+        ],
+        "evidence": "Jeunesse et premiers crimes : « demi-sœur, Pitchouchkine part vivre chez son grand-père, qui participe à son éducation et lui fait découvrir le jeu d'échecs. Pitchouchkine prend part à des tournois publics au parc de la Bitsa , près de chez lui. Après l'internat, Pitchouchkine entre dans une école professionnelle technique et se spécialise en menuiserie. » […] « dans la Forêt de Bitsevski afin d'élaborer avec lui un plan pour tuer 64 personnes : le nombre de cases que comporte un échiquier. Mais, arrivé sur les lieux des crimes prévus, Odïtchouk »",
+        "consultedAt": "2026-10-30",
+        "revision": "231739672",
+        "retrievedSha256": "fa1d0c04961cfab40dfaa6a41661e9ea5555e486145f1c72046ddc4548beb80c"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-038"
+  },
+  {
+    "category": "cinema",
+    "title": "Les miracles de l’île",
+    "prompt": "Quelle minisérie de 2021 montre une communauté insulaire bouleversée par l’arrivée d’un nouveau prêtre ?",
+    "answer": "Sermons de minuit / Midnight Mass",
+    "clues": [
+      "Mike Flanagan crée cette minisérie située sur Crockett Island.",
+      "Le titre original évoque une messe célébrée à minuit."
+    ],
+    "explanation": "Accepter « Sermons de minuit » ou « Midnight Mass ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Sermons de minuit — version 240617945",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240617945",
+        "section": "Introduction et Synopsis",
+        "quotes": [
+          "Sermons de minuit ( Midnight Mass , littéralement « Messe de minuit ») est une mini-série d' horreur américaine en sept épisodes d'environ 65 minutes , créée par Mike Flanagan et mise en ligne le 24 septembre 2021 sur Netflix . Synopsis [ modifier | modifier le code ] Après avoir passé quatre ans en prison pour conduite en état d' ivresse , ce qui a coûté la vie à une",
+          "Riley Flynn ( Zach Gilford ) retourne à la maison familiale dans son île de Crockett Island. Sa mère, Annie Flynn ( Kristin Lehman ) qui est très pieuse et qui lui a pardonné, l'attend",
+          "Il se présente comme le père Paul Hill, remplaçant temporaire de John Pruitt qui serait malade et bloqué sur le continent jusqu'à son rétablissement. Distribution [ modifier | modifier le code ] Acteurs principaux"
+        ],
+        "evidence": "Introduction et Synopsis : « Sermons de minuit ( Midnight Mass , littéralement « Messe de minuit ») est une mini-série d' horreur américaine en sept épisodes d'environ 65 minutes , créée par Mike Flanagan et mise en ligne le 24 septembre 2021 sur Netflix . Synopsis [ modifier | modifier le code ] Après avoir passé quatre ans en prison pour conduite en état d' ivresse , ce qui a coûté la vie à une » […] « Riley Flynn ( Zach Gilford ) retourne à la maison familiale dans son île de Crockett Island. Sa mère, Annie Flynn ( Kristin Lehman ) qui est très pieuse et qui lui a pardonné, l'attend » […] « Il se présente comme le père Paul Hill, remplaçant temporaire de John Pruitt qui serait malade et bloqué sur le continent jusqu'à son rétablissement. Distribution [ modifier | modifier le code ] Acteurs principaux »",
+        "consultedAt": "2026-10-30",
+        "revision": "240617945",
+        "retrievedSha256": "b46d766c0a623a21f0f6780a244b835f8d4cd084bbbf935702b140e1e65414fc"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-039"
+  },
+  {
+    "category": "france",
+    "title": "Cinq disparitions dans un chalet",
+    "prompt": "Quelle affaire criminelle de 2003 concerne une famille de cinq personnes disparue dans une station de Haute-Savoie ?",
+    "answer": "L’affaire Flactif",
+    "clues": [
+      "L’affaire est aussi appelée « tuerie du Grand-Bornand ».",
+      "Le père de famille se nomme Xavier Flactif."
+    ],
+    "explanation": "Accepter « affaire Flactif » ou « tuerie du Grand-Bornand ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Flactif — version 240552648",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240552648",
+        "section": "Introduction",
+        "quotes": [
+          "L' affaire Flactif ou tuerie du Grand-Bornand est une affaire criminelle française qui a défrayé la chronique en 2003 , à la suite de la disparition d'un promoteur immobilier nommé Xavier Flactif, 41 ans, de sa femme Graziella Ortolano, 36 ans, et de leurs trois enfants Grégory, 7 ans, Lætitia, 9 ans et Sarah, 10 ans, au Grand-Bornand en Haute-Savoie . David Hotyat, locataire d'un chalet appartenant aux Flactif, est arrêté quelques mois plus tard. Il avoue le meurtre de la famille et avoir brûlé leurs corps en forêt. Il est condamné en 2006 par la Cour d'assises"
+        ],
+        "evidence": "Introduction : « L' affaire Flactif ou tuerie du Grand-Bornand est une affaire criminelle française qui a défrayé la chronique en 2003 , à la suite de la disparition d'un promoteur immobilier nommé Xavier Flactif, 41 ans, de sa femme Graziella Ortolano, 36 ans, et de leurs trois enfants Grégory, 7 ans, Lætitia, 9 ans et Sarah, 10 ans, au Grand-Bornand en Haute-Savoie . David Hotyat, locataire d'un chalet appartenant aux Flactif, est arrêté quelques mois plus tard. Il avoue le meurtre de la famille et avoir brûlé leurs corps en forêt. Il est condamné en 2006 par la Cour d'assises »",
+        "consultedAt": "2026-10-30",
+        "revision": "240552648",
+        "retrievedSha256": "1119947703ec6f345984f828fde04c53f49670358c5de3df25ad4b99e739b619"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-040"
+  },
+  {
+    "category": "cinema",
+    "title": "On ne peut plus faire confiance à personne",
+    "prompt": "Quel film de 1982 montre une équipe de chercheurs confrontée à une créature capable d’imiter d’autres organismes ?",
+    "answer": "The Thing",
+    "clues": [
+      "Les chercheurs sont isolés en Antarctique.",
+      "John Carpenter réalise le film ; Kurt Russell y joue MacReady."
+    ],
+    "explanation": "Accepter également « L’Effroyable Chose ». La créature assimile puis imite les organismes.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — The Thing (film, 1982) — version 240541256",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240541256",
+        "section": "Introduction",
+        "quotes": [
+          "The Thing [ ð ə θ ɪ ŋ ] , ou L'Effroyable Chose au Québec , est un film de science-fiction horrifique américain réalisé par John Carpenter et sorti en 1982 . Écrit par Bill Lancaster",
+          "Le film met en scène un groupe de chercheurs américains en Antarctique en proie à la Chose, une forme de vie parasite extraterrestre , qui assimile puis imite les autres organismes. La distribution comprend Kurt Russell dans le rôle principal, celui du pilote d'hélicoptère R.J. MacReady, et A. Wilford Brimley , T.K. Carter , David Clennon , Keith David , Richard A. Dysart , Charles Hallahan , Peter Maloney , Richard Masur , Donald Moffat , Joel Polis et Thomas G. Waites dans les rôles secondaires. La production débute"
+        ],
+        "evidence": "Introduction : « The Thing [ ð ə θ ɪ ŋ ] , ou L'Effroyable Chose au Québec , est un film de science-fiction horrifique américain réalisé par John Carpenter et sorti en 1982 . Écrit par Bill Lancaster » […] « Le film met en scène un groupe de chercheurs américains en Antarctique en proie à la Chose, une forme de vie parasite extraterrestre , qui assimile puis imite les autres organismes. La distribution comprend Kurt Russell dans le rôle principal, celui du pilote d'hélicoptère R.J. MacReady, et A. Wilford Brimley , T.K. Carter , David Clennon , Keith David , Richard A. Dysart , Charles Hallahan , Peter Maloney , Richard Masur , Donald Moffat , Joel Polis et Thomas G. Waites dans les rôles secondaires. La production débute »",
+        "consultedAt": "2026-10-30",
+        "revision": "240541256",
+        "retrievedSha256": "f021fd04ffbb362e50769d35dfa07432bcdff1417f3797acd9f6ef6a35f30ce8"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-041"
+  },
+  {
+    "category": "crime",
+    "title": "Une ville de l’Illinois",
+    "prompt": "Dans quelle ville américaine H. H. Holmes s’installe-t-il et développe-t-il ses activités dans les années 1880 ?",
+    "answer": "Chicago",
+    "clues": [
+      "La ville se situe dans l’Illinois.",
+      "Elle accueille l’Exposition universelle de 1893, événement associé aux récits sur Holmes."
+    ],
+    "explanation": "Accepter « Chicago ». Les détails légendaires sur son hôtel et les bilans fantaisistes de victimes ne font pas partie de la question.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — H. H. Holmes — version 239809571",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239809571",
+        "section": "Infobox et arrivée à Chicago",
+        "quotes": [
+          "Chicago ( Illinois ), Irvington ( Indiana ), Philadelphie ( Pennsylvanie ) Arrestation",
+          "(27 avoués) Période 1888 - 1894 Pays États-Unis , Canada États Chicago ( Illinois ), Irvington ( Indiana ), Philadelphie ( Pennsylvanie ) Arrestation 17 novembre 1894 modifier Herman Webster Mudgett ou H. H. Holmes ( 16 mai 1861 - 7 mai 1896 ), plus connu sous le pseudonyme de Docteur Henry Howard Holmes",
+          "City , qui juxtapose les évènements de l' Exposition universelle de 1893 avec l'histoire de Holmes. En 2004, le cinéaste John Borowski réalise le premier documentaire, centré sur la vie entière de « Docteur Torture » (son surnom), intitulé H. H. Holmes: America's First Serial Killer , et un livre, The Strange Case of D H.H. Holmes"
+        ],
+        "evidence": "Infobox et arrivée à Chicago : « Chicago ( Illinois ), Irvington ( Indiana ), Philadelphie ( Pennsylvanie ) Arrestation » […] « (27 avoués) Période 1888 - 1894 Pays États-Unis , Canada États Chicago ( Illinois ), Irvington ( Indiana ), Philadelphie ( Pennsylvanie ) Arrestation 17 novembre 1894 modifier Herman Webster Mudgett ou H. H. Holmes ( 16 mai 1861 - 7 mai 1896 ), plus connu sous le pseudonyme de Docteur Henry Howard Holmes » […] « City , qui juxtapose les évènements de l' Exposition universelle de 1893 avec l'histoire de Holmes. En 2004, le cinéaste John Borowski réalise le premier documentaire, centré sur la vie entière de « Docteur Torture » (son surnom), intitulé H. H. Holmes: America's First Serial Killer , et un livre, The Strange Case of D H.H. Holmes »",
+        "consultedAt": "2026-10-30",
+        "revision": "239809571",
+        "retrievedSha256": "909ee661106d70d4b742efd74813a0df70b7b03cc255df6cec8ef12e394765b4"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-042"
+  },
+  {
+    "category": "cinema",
+    "title": "Le reportage tourne mal",
+    "prompt": "Dans quel film espagnol de 2007 une équipe de télévision se retrouve-t-elle enfermée dans un immeuble pendant une intervention ?",
+    "answer": "REC",
+    "clues": [
+      "Paco Plaza et Jaume Balagueró réalisent ce film tourné comme un reportage.",
+      "La journaliste Angela Vidal et son caméraman Pablo suivent des pompiers de Barcelone."
+    ],
+    "explanation": "Accepter « REC », « Rec » ou « [REC] ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Rec (film) — version 240624742",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240624742",
+        "section": "Introduction et Synopsis",
+        "quotes": [
+          "Rec , également typographié [•REC] , est un film d'horreur espagnol co-réalisé par Paco Plaza et Jaume Balagueró , sorti en 2007 . Écrit par Jaume Balagueró, Paco Plaza et Luis A. Berdejo, il met en scène Manuela Velasco et Javier Botet . Le film a été récompensé",
+          "la jeune journaliste Angela Vidal et son caméraman Pablo passent la nuit dans une caserne de pompiers de Barcelone . Les premières heures sont très calmes, puis un appel survient : les habitants d'un immeuble ont entendu une voisine crier. L'équipe de nuit se rend sur les lieux, accompagnée des deux journalistes. Dans le hall de l'immeuble,",
+          "blessé, ils découvrent que les autorités les ont mystérieusement mis en quarantaine . Peu après, le pompier resté au troisième étage tombe dans la cage d'escalier et s'écrase lourdement dans le hall. Le policier valide remonte aussitôt"
+        ],
+        "evidence": "Introduction et Synopsis : « Rec , également typographié [•REC] , est un film d'horreur espagnol co-réalisé par Paco Plaza et Jaume Balagueró , sorti en 2007 . Écrit par Jaume Balagueró, Paco Plaza et Luis A. Berdejo, il met en scène Manuela Velasco et Javier Botet . Le film a été récompensé » […] « la jeune journaliste Angela Vidal et son caméraman Pablo passent la nuit dans une caserne de pompiers de Barcelone . Les premières heures sont très calmes, puis un appel survient : les habitants d'un immeuble ont entendu une voisine crier. L'équipe de nuit se rend sur les lieux, accompagnée des deux journalistes. Dans le hall de l'immeuble, » […] « blessé, ils découvrent que les autorités les ont mystérieusement mis en quarantaine . Peu après, le pompier resté au troisième étage tombe dans la cage d'escalier et s'écrase lourdement dans le hall. Le policier valide remonte aussitôt »",
+        "consultedAt": "2026-10-30",
+        "revision": "240624742",
+        "retrievedSha256": "8b842e5234166b30c8ab4406d2ba4011504d45883ef2b8d9179a0a198c499903"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-043"
+  },
+  {
+    "category": "france",
+    "title": "Une profession connue du public",
+    "prompt": "Quelle profession exerçait Delphine Jubillar avant sa disparition en décembre 2020 ?",
+    "answer": "Infirmière",
+    "clues": [
+      "Elle travaillait de nuit dans une clinique d’Albi.",
+      "Elle assurait des soins auprès des patients dans le secteur de la santé."
+    ],
+    "explanation": "Accepter « infirmière ». La question porte uniquement sur sa profession.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Affaire Jubillar — version 240759028",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240759028",
+        "section": "Portrait de Delphine Jubillar",
+        "quotes": [
+          "Delphine Jubillar, née Aussaguel , épouse Jubillar, est infirmière. Elle travaille de nuit dans une clinique d' Albi . Née le 15 novembre 1987 dans le Tarn , elle est âgée de 33 ans en décembre 2020 et est mariée depuis juillet 2013 à Cédric Jubillar, auto-entrepreneur exerçant"
+        ],
+        "evidence": "Portrait de Delphine Jubillar : « Delphine Jubillar, née Aussaguel , épouse Jubillar, est infirmière. Elle travaille de nuit dans une clinique d' Albi . Née le 15 novembre 1987 dans le Tarn , elle est âgée de 33 ans en décembre 2020 et est mariée depuis juillet 2013 à Cédric Jubillar, auto-entrepreneur exerçant »",
+        "consultedAt": "2026-10-30",
+        "revision": "240759028",
+        "retrievedSha256": "4acd0a8e0f86f3cf156ed7ccea2c05b7f7f38c94ef8aa628da67c0ee6b10d38b"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-044"
+  },
+  {
+    "category": "cinema",
+    "title": "Ce n’est pas seulement la maison",
+    "prompt": "Dans quel film le jeune Dalton sombre-t-il dans un coma inexpliqué après le déménagement de sa famille ?",
+    "answer": "Insidious",
+    "clues": [
+      "James Wan réalise le film, et Patrick Wilson joue le père, Josh Lambert.",
+      "Lin Shaye incarne Elise Rainier, appelée pour aider la famille face aux apparitions."
+    ],
+    "explanation": "Accepter « Insidious » ou le titre québécois « Insidieux ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Insidious — version 240405376",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240405376",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Insidious , ou Insidieux au Québec , est un film d'horreur américain réalisé par James Wan , sorti en 2010 . Une suite directe, Insidious : Chapitre 2 de James Wan , sort en 2013 ,",
+          "son fils ainé, Dalton, tombe d'une échelle alors qu'il se trouvait au grenier. Alors que Josh tente de le réveiller le lendemain matin, Dalton, plongé dans ce qui semble être un profond coma, reste sourd à ses appels et doit être hospitalisé…Devant l'incapacité des médecins à fournir un diagnostic certain, Josh et son épouse n'ont d'autres choix que de ramener leur fils chez eux et de l'installer dans une chambre",
+          "Patrick Wilson ( VF : Alexis Victor ; VQ : Patrice Dubois ) : Josh Lambert Rose Byrne ( VF : Chantal Macé",
+          "Lin Shaye ( VF : Anne Jolivet ; VQ : Madeleine Arsenault ) : Elise Rainier Leigh Whannell ( VF : Damien",
+          "Elise Rainier Leigh Whannell ( VF : Damien Witecka ; VQ : Philippe",
+          "L'expertise du médium — nommé Élise — leur révèle la nature du mal qui frappe Dalton : le jeune garçon maîtrisant un pouvoir connu sous le nom de voyage astral a été attiré par une créature mauvaise lors"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Insidious , ou Insidieux au Québec , est un film d'horreur américain réalisé par James Wan , sorti en 2010 . Une suite directe, Insidious : Chapitre 2 de James Wan , sort en 2013 , » […] « son fils ainé, Dalton, tombe d'une échelle alors qu'il se trouvait au grenier. Alors que Josh tente de le réveiller le lendemain matin, Dalton, plongé dans ce qui semble être un profond coma, reste sourd à ses appels et doit être hospitalisé…Devant l'incapacité des médecins à fournir un diagnostic certain, Josh et son épouse n'ont d'autres choix que de ramener leur fils chez eux et de l'installer dans une chambre » […] « Patrick Wilson ( VF : Alexis Victor ; VQ : Patrice Dubois ) : Josh Lambert Rose Byrne ( VF : Chantal Macé » […] « Lin Shaye ( VF : Anne Jolivet ; VQ : Madeleine Arsenault ) : Elise Rainier Leigh Whannell ( VF : Damien » […] « Elise Rainier Leigh Whannell ( VF : Damien Witecka ; VQ : Philippe » […] Passages complémentaires : « L'expertise du médium — nommé Élise — leur révèle la nature du mal qui frappe Dalton : le jeune garçon maîtrisant un pouvoir connu sous le nom de voyage astral a été attiré par une créature mauvaise lors »",
+        "consultedAt": "2026-10-30",
+        "revision": "240405376",
+        "retrievedSha256": "8b80c0a7c5d65e6343ae174fc4787b5d96b4a8fae300a12b2486489ffae4ffea"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-045"
+  },
+  {
+    "category": "crime",
+    "title": "Un surnom californien",
+    "prompt": "Sous quel surnom Richard Chase était-il connu ?",
+    "answer": "Le Vampire de Sacramento",
+    "clues": [
+      "Ses crimes ont été commis en Californie.",
+      "Le surnom associe un monstre de fiction au nom de la ville de Sacramento."
+    ],
+    "explanation": "Accepter « le Vampire de Sacramento » ou « Vampire of Sacramento ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Richard Chase — version 240725565",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240725565",
+        "section": "Introduction",
+        "quotes": [
+          "Richard Trenton Chase ( 23 mai 1950 – 26 décembre 1980 ) est un tueur en série américain qui tua six personnes en Californie . Il était surnommé le « Vampire de Sacramento » car il buvait le sang de ses victimes et se livrait à des actes de cannibalisme . Enfance"
+        ],
+        "evidence": "Introduction : « Richard Trenton Chase ( 23 mai 1950 – 26 décembre 1980 ) est un tueur en série américain qui tua six personnes en Californie . Il était surnommé le « Vampire de Sacramento » car il buvait le sang de ses victimes et se livrait à des actes de cannibalisme . Enfance »",
+        "consultedAt": "2026-10-30",
+        "revision": "240725565",
+        "retrievedSha256": "15da4d187ad8c8b638439fb1d3b1773d9604807f4859380b409b6b72e818d738"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-046"
+  },
+  {
+    "category": "cinema",
+    "title": "Le voyage en Suède",
+    "prompt": "Quel film de 2019 emmène Dani et ses amis dans une communauté suédoise aux rites inquiétants ?",
+    "answer": "Midsommar",
+    "clues": [
+      "Ari Aster réalise le film ; Florence Pugh incarne Dani.",
+      "Le séjour a lieu pendant une fête célébrant le solstice d’été."
+    ],
+    "explanation": "Accepter « Midsommar » ou « Midsommar : Solstice d’été ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Midsommar (film) — version 240068979",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240068979",
+        "section": "Introduction, Synopsis et Distribution",
+        "quotes": [
+          "Midsommar (homonymie) . Midsommar Logo du film. Données clés Titre québécois Midsommar : Solstice d'été Réalisation Ari Aster Scénario Ari Aster Acteurs principaux Florence Pugh Jack Reynor William Jackson Harper Will Poulter Sociétés de production B-Reel Films Parts & Labor",
+          "à participer au Midsommar , un festival célébrant le solstice d'été à Harga, le village natal de Pelle. Les célébrations n'auraient lieu qu'une fois tous les quatre-vingt-dix",
+          "Ari Aster Acteurs principaux Florence Pugh Jack Reynor William Jackson Harper Will Poulter Sociétés de production B-Reel Films Parts & Labor Pays de production",
+          "Florence Pugh ( VF : Kelly Marot ; VQ : Célia Gouin-Arsenault) : Dani Ardor Jack Reynor ( VF : Gauthier"
+        ],
+        "evidence": "Introduction, Synopsis et Distribution : « Midsommar (homonymie) . Midsommar Logo du film. Données clés Titre québécois Midsommar : Solstice d'été Réalisation Ari Aster Scénario Ari Aster Acteurs principaux Florence Pugh Jack Reynor William Jackson Harper Will Poulter Sociétés de production B-Reel Films Parts & Labor » […] « à participer au Midsommar , un festival célébrant le solstice d'été à Harga, le village natal de Pelle. Les célébrations n'auraient lieu qu'une fois tous les quatre-vingt-dix » […] « Ari Aster Acteurs principaux Florence Pugh Jack Reynor William Jackson Harper Will Poulter Sociétés de production B-Reel Films Parts & Labor Pays de production » […] Passages complémentaires : « Florence Pugh ( VF : Kelly Marot ; VQ : Célia Gouin-Arsenault) : Dani Ardor Jack Reynor ( VF : Gauthier »",
+        "consultedAt": "2026-10-30",
+        "revision": "240068979",
+        "retrievedSha256": "90115146c4029676705c2288f6c16309e46943482cb503bef861cf27c5e6dfee"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-047"
+  },
+  {
+    "category": "france",
+    "title": "Le petit garçon du Haut-Vernet",
+    "prompt": "Quel est le prénom du petit garçon disparu au Haut-Vernet en juillet 2023, dont des ossements sont retrouvés au printemps suivant ?",
+    "answer": "Émile",
+    "clues": [
+      "Il est âgé de deux ans et demi et séjourne chez ses grands-parents.",
+      "Le petit garçon porte le nom de famille Soleil."
+    ],
+    "explanation": "Accepter « Émile », « Emile » ou « Émile Soleil ». Les circonstances de la disparition ne sont pas résolues dans cette question.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Mort du petit Émile — version 239565434",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=239565434",
+        "section": "Introduction et disparition",
+        "quotes": [
+          "La mort du petit Émile désigne une affaire judiciaire concernant un garçonnet de deux ans et demi, Émile Soleil, disparu le 8 juillet 2023 dans la commune du Vernet , dans les Alpes-de-Haute-Provence ( France ), et dont des ossements n'ont été retrouvés qu'au printemps suivant. Les circonstances de sa disparition et de sa mort demeurent indéterminées, mais les éléments de l'enquête tendent à privilégier l'hypothèse de l'intervention d'un tiers. Victime [ modifier | modifier le code ] Émile Soleil,",
+          "la soirée du 7 juillet 2023 , Émile arrive avec ses grands-parents maternels — Philippe et Anne Vedovini — qui passent leurs vacances d'été dans une maison achetée au début des années 2000 dans le hameau du Haut-Vernet qui surplombe le bourg du Vernet , dans le massif des Trois-Évêchés . Ce jour-là,"
+        ],
+        "evidence": "Introduction et disparition : « La mort du petit Émile désigne une affaire judiciaire concernant un garçonnet de deux ans et demi, Émile Soleil, disparu le 8 juillet 2023 dans la commune du Vernet , dans les Alpes-de-Haute-Provence ( France ), et dont des ossements n'ont été retrouvés qu'au printemps suivant. Les circonstances de sa disparition et de sa mort demeurent indéterminées, mais les éléments de l'enquête tendent à privilégier l'hypothèse de l'intervention d'un tiers. Victime [ modifier | modifier le code ] Émile Soleil, » […] « la soirée du 7 juillet 2023 , Émile arrive avec ses grands-parents maternels — Philippe et Anne Vedovini — qui passent leurs vacances d'été dans une maison achetée au début des années 2000 dans le hameau du Haut-Vernet qui surplombe le bourg du Vernet , dans le massif des Trois-Évêchés . Ce jour-là, »",
+        "consultedAt": "2026-10-30",
+        "revision": "239565434",
+        "retrievedSha256": "fdc0e0457bdd1f401be958000a8f8570c3c600a113cd59b89493e1431b7a9572"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-048"
+  },
+  {
+    "category": "cinema",
+    "title": "Le réveil dans une ville vide",
+    "prompt": "Quel film commence avec un homme sortant du coma et découvrant Londres désertée après une épidémie ?",
+    "answer": "28 Jours plus tard",
+    "clues": [
+      "Danny Boyle réalise le film ; Cillian Murphy en tient le rôle principal.",
+      "La franchise se poursuit avec 28 Semaines plus tard, puis 28 Ans plus tard."
+    ],
+    "explanation": "Accepter « 28 Days Later ». Le premier film sort en 2002.",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — 28 Jours plus tard — version 240857699",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240857699",
+        "section": "Introduction et fiche de distribution",
+        "quotes": [
+          "Acteurs principaux Cillian Murphy Naomie Harris Brendan Gleeson Christopher Eccleston",
+          "28 Jours plus tard ( 28 Days Later ) est un film d'horreur et de science-fiction post-apocalyptique britannique réalisé par Danny Boyle , sorti en 2002 . Écrit par Alex Garland , le scénario est centré sur l'histoire d'un jeune Londonien sortant du coma, se réveillant seul à l'hôpital et retrouvant une ville désertée à la suite de la propagation d'un virus. Le film reçoit des critiques globalement positives et est un succès commercial. Il est le premier d'une série : 28 Semaines plus tard ( 28 Weeks Later ) est réalisée par Juan Carlos Fresnadillo et sort en 2007 . Un troisième film,",
+          "Il est le premier d'une série : 28 Semaines plus tard ( 28 Weeks Later ) est réalisée par Juan Carlos Fresnadillo et sort en 2007 . Un troisième film, 28 Ans plus tard , à nouveau réalisé par Danny Boyle, sort en 2025. Il sera le premier d'une nouvelle trilogie, qui se poursuivra avec 28 Ans plus tard : Le Temple des Morts , sorti en janvier 2026 . Synopsis ["
+        ],
+        "evidence": "Introduction et fiche de distribution : « Acteurs principaux Cillian Murphy Naomie Harris Brendan Gleeson Christopher Eccleston » […] « 28 Jours plus tard ( 28 Days Later ) est un film d'horreur et de science-fiction post-apocalyptique britannique réalisé par Danny Boyle , sorti en 2002 . Écrit par Alex Garland , le scénario est centré sur l'histoire d'un jeune Londonien sortant du coma, se réveillant seul à l'hôpital et retrouvant une ville désertée à la suite de la propagation d'un virus. Le film reçoit des critiques globalement positives et est un succès commercial. Il est le premier d'une série : 28 Semaines plus tard ( 28 Weeks Later ) est réalisée par Juan Carlos Fresnadillo et sort en 2007 . Un troisième film, » […] « Il est le premier d'une série : 28 Semaines plus tard ( 28 Weeks Later ) est réalisée par Juan Carlos Fresnadillo et sort en 2007 . Un troisième film, 28 Ans plus tard , à nouveau réalisé par Danny Boyle, sort en 2025. Il sera le premier d'une nouvelle trilogie, qui se poursuivra avec 28 Ans plus tard : Le Temple des Morts , sorti en janvier 2026 . Synopsis [ »",
+        "consultedAt": "2026-10-30",
+        "revision": "240857699",
+        "retrievedSha256": "0940141c6371475702d6c768fdd88a2ae0e970745a633582e246e3140733d556"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-049"
+  },
+  {
+    "category": "crime",
+    "title": "Les meurtres de la lande",
+    "prompt": "Quelle femme forme avec Ian Brady le duo condamné dans l’affaire des « meurtres de la lande » ?",
+    "answer": "Myra Hindley",
+    "clues": [
+      "L’affaire est liée au Grand Manchester et à Saddleworth Moor, dans les années 1960.",
+      "Son prénom est Myra ; elle est condamnée à la perpétuité en 1966."
+    ],
+    "explanation": "Accepter « Myra Hindley » ou « Hindley ».",
+    "sources": [
+      {
+        "title": "Wikipédia, contributeurs — Meurtres de la lande — version 240761491",
+        "url": "https://fr.wikipedia.org/w/index.php?oldid=240761491",
+        "section": "Infobox et Introduction",
+        "quotes": [
+          "Ville Grand Manchester Date De juillet 1963 à octobre 1965 Nombre de victimes 5 Jugement Statut",
+          "Les meurtres de la lande sont une affaire criminelle britannique des années 1960 . De juillet 1963 à octobre 1965 , Ian Brady et Myra Hindley assassinent cinq enfants et adolescents âgés de 10 à 17 ans. En octobre 1965 , la police découvre un corps dans la maison du couple, mais n'arrête que Brady. Quelques jours plus tard, la police arrête Hindley pour complicité. Le même mois, deux enfants sont trouvés dans des tombes creusées dans Saddleworth Moor , une lande au nord de l' Angleterre . En mai 1966 , Brady est condamné à l' emprisonnement à perpétuité pour trois meurtres ; Hindley est condamnée à la même peine, mais pour deux meurtres. En 1985,"
+        ],
+        "evidence": "Infobox et Introduction : « Ville Grand Manchester Date De juillet 1963 à octobre 1965 Nombre de victimes 5 Jugement Statut » […] « Les meurtres de la lande sont une affaire criminelle britannique des années 1960 . De juillet 1963 à octobre 1965 , Ian Brady et Myra Hindley assassinent cinq enfants et adolescents âgés de 10 à 17 ans. En octobre 1965 , la police découvre un corps dans la maison du couple, mais n'arrête que Brady. Quelques jours plus tard, la police arrête Hindley pour complicité. Le même mois, deux enfants sont trouvés dans des tombes creusées dans Saddleworth Moor , une lande au nord de l' Angleterre . En mai 1966 , Brady est condamné à l' emprisonnement à perpétuité pour trois meurtres ; Hindley est condamnée à la même peine, mais pour deux meurtres. En 1985, »",
+        "consultedAt": "2026-10-30",
+        "revision": "240761491",
+        "retrievedSha256": "545c03a8df832e0e5f2c984383675d390bee01804dd3e3c056c5cff2791bd5d7"
+      }
+    ],
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-30",
+    "bankVersion": 2,
+    "id": "e2-050"
+  }
+]

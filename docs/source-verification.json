@@ -1,0 +1,685 @@
+{
+  "method": "HTTP availability and literal quote matching; factual reading performed separately",
+  "questionBankSha256": "062548b6635370e23ae4c13fac36a96c1309f9b1b871eb258bfdd10dc62ad2bb",
+  "questions": 50,
+  "sources": 52,
+  "passed": true,
+  "results": [
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240310749",
+      "questions": [
+        "e2-001"
+      ],
+      "checkedAt": "2026-10-30T14:40:21.491275+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240310749",
+      "sha256": "bd236ea49f986a4a192ff10c14b2d82642dd15c71a78f9b6a72533a036dc3f52",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.britannica.com/biography/David-Berkowitz",
+      "questions": [
+        "e2-002"
+      ],
+      "checkedAt": "2026-10-30T14:40:21.492326+00:00",
+      "status": 200,
+      "finalUrl": "https://www.britannica.com/biography/David-Berkowitz",
+      "sha256": "8cbeed3f133d080eedd03f7996368db422b332bb6886432ba99ba5ec8dcab4b7",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240834936",
+      "questions": [
+        "e2-003"
+      ],
+      "checkedAt": "2026-10-30T14:40:21.492955+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240834936",
+      "sha256": "8442fa2909735c3efee6ba7c8618fa2ed45bdd765e60257247c092c36f1c15df",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240640346",
+      "questions": [
+        "e2-004"
+      ],
+      "checkedAt": "2026-10-30T14:40:21.493659+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240640346",
+      "sha256": "ef11cfce233a2a8671dc2d95f47ac97984602d58c23ac785778f1a44a761cc23",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240622966",
+      "questions": [
+        "e2-005"
+      ],
+      "checkedAt": "2026-10-30T14:40:22.004790+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240622966",
+      "sha256": "76f92fa88679e3e0023915e37f511b43d6ea3ec0ad009d17d851326fbd43424a",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.britannica.com/biography/Aileen-Wuornos",
+      "questions": [
+        "e2-006"
+      ],
+      "checkedAt": "2026-10-30T14:40:22.016678+00:00",
+      "status": 200,
+      "finalUrl": "https://www.britannica.com/biography/Aileen-Wuornos",
+      "sha256": "a2ae3391cc32f2b5ed1e3a48dfc8493c3da3ce98b62e513e04abf33725982c57",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240040100",
+      "questions": [
+        "e2-007"
+      ],
+      "checkedAt": "2026-10-30T14:40:22.179413+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240040100",
+      "sha256": "d9e5672397d69c2a453834f1a208db6eb02469b54ea3ba9bb26d39a575487c2d",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240094970",
+      "questions": [
+        "e2-008"
+      ],
+      "checkedAt": "2026-10-30T14:40:22.307112+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240094970",
+      "sha256": "b20251fa6b128470cbfef29959d4a935a5dbb7bb371855f8126dbe410c37ef9c",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240784823",
+      "questions": [
+        "e2-009"
+      ],
+      "checkedAt": "2026-10-30T14:40:22.613547+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240784823",
+      "sha256": "ae2cf57c7ef93ea9ecb21eae950894fbf7511b35ad641e900c58a91349f95162",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.britannica.com/biography/Gary-Ridgway",
+      "questions": [
+        "e2-010"
+      ],
+      "checkedAt": "2026-10-30T14:40:22.617672+00:00",
+      "status": 200,
+      "finalUrl": "https://www.britannica.com/biography/Gary-Ridgway",
+      "sha256": "72b4316e9e9131812a17043348d1696e75e2ed32643d52425a36a523a07c46cb",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240354431",
+      "questions": [
+        "e2-011"
+      ],
+      "checkedAt": "2026-10-30T14:40:22.626876+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240354431",
+      "sha256": "2aacafd80f9634d98de02335b0baa0109584115352af5bf2907037ce4e6b89fb",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240638930",
+      "questions": [
+        "e2-012"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.001678+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240638930",
+      "sha256": "79a0d08b7784691164c3215444aa98f1e6e26e761a83a3cf80045dba2e984b1a",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240852986",
+      "questions": [
+        "e2-013"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.115335+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240852986",
+      "sha256": "2dcbe27f60a751854df1784e1438f6877bf52e8a1048142ccf0e81adf6205e2c",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240850677",
+      "questions": [
+        "e2-014"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.146319+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240850677",
+      "sha256": "dd50047e9eca0a227483a058e8d6306671c11d7f59f4709b42c454748db76b6c",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.britannica.com/biography/Edmund-Kemper",
+      "questions": [
+        "e2-014"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.263768+00:00",
+      "status": 200,
+      "finalUrl": "https://www.britannica.com/biography/Edmund-Kemper",
+      "sha256": "b2f4536287508a3abbf902a82e007598855db6eaaa8d63877fd63d3b26bd4898",
+      "checkedQuotes": 1,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=239822272",
+      "questions": [
+        "e2-015"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.297988+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=239822272",
+      "sha256": "f41da96a95a296bac84ac3ae5271d5d9dfb787cccf3f3afa8b42610851761fc0",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240087156",
+      "questions": [
+        "e2-016"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.620442+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240087156",
+      "sha256": "f55322b8c56db2cc0d53bca22ace7d9fe8b17a3c162e763899dc43a17d04adc9",
+      "checkedQuotes": 1,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=237926836",
+      "questions": [
+        "e2-017"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.645299+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=237926836",
+      "sha256": "4cd93426e735aca8f6667d48c44b7bb9fef027df77b50e8fefd38fde4a91aa34",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240218395",
+      "questions": [
+        "e2-018"
+      ],
+      "checkedAt": "2026-10-30T14:40:23.934659+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240218395",
+      "sha256": "05487759f64b03ce2dced6b1184ea1d05e71ac42a80deb8168d41926045fee2c",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=229756651",
+      "questions": [
+        "e2-019"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.057525+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=229756651",
+      "sha256": "70da938710fa3297f4b1aed0081b628112180c30d5706fe505aa05d6867cb26b",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=239388591",
+      "questions": [
+        "e2-020"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.109611+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=239388591",
+      "sha256": "626f497c20563574542b4d961c2dc2108cde111528cb0e4633dac0b9c3a4467f",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=239694921",
+      "questions": [
+        "e2-021"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.246767+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=239694921",
+      "sha256": "3b25db51519eb1789d49c40a5b6d6f711082cebfc27601a495f70d75bf37f863",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=239104515",
+      "questions": [
+        "e2-022"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.390258+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=239104515",
+      "sha256": "3379c7d9bfa6af5b0dc079aae5b6151f752e0a571a255299c2569098b1c352ea",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240273889",
+      "questions": [
+        "e2-023"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.489613+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240273889",
+      "sha256": "de26d96161a9e8d1da300cabdd266394005a2f7f2c95d2809930d92041d7b1ea",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240158041",
+      "questions": [
+        "e2-024"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.769251+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240158041",
+      "sha256": "0ab13d2b7b6c10a8b6baa2ce8f9076e17bf4e4790fc0449cc58ec837d77ea3cc",
+      "checkedQuotes": 1,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=225078043",
+      "questions": [
+        "e2-025"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.805491+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=225078043",
+      "sha256": "ca6c440d9f34f88c46182443a549926fba0b5b71e088788c60ab50fe867097ac",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240057630",
+      "questions": [
+        "e2-026"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.854941+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240057630",
+      "sha256": "7c3f10be7d73aae02a8808856af2631c888d3dd2eebf0ca4d6f9540aefd5f67c",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=237806910",
+      "questions": [
+        "e2-027"
+      ],
+      "checkedAt": "2026-10-30T14:40:24.875244+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=237806910",
+      "sha256": "0cd3b56eb77eb2c2f2378d1074c8cdf463fc1abeb9efb5aebe6694769f411434",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240836661",
+      "questions": [
+        "e2-028"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.088400+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240836661",
+      "sha256": "68b9c9c7860865de6520aa234b86baeea6950ba46615619646059e34858507b8",
+      "checkedQuotes": 1,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=238822580",
+      "questions": [
+        "e2-029"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.138692+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=238822580",
+      "sha256": "0ac2561013cb9f3b321496b0e67e1d54b902cab3ced8f8bf40ac82d9ce631907",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=235652978",
+      "questions": [
+        "e2-030"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.168982+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=235652978",
+      "sha256": "bc0690de5762ea260335e8efd6e3cfacb86039d86d44eba155f827bd9d28b148",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240282347",
+      "questions": [
+        "e2-031"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.287490+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240282347",
+      "sha256": "f5074c2ca1084292793ab4bc68ee8695dca5131065a6ffb32303dc38c18053a0",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240127267",
+      "questions": [
+        "e2-032"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.391186+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240127267",
+      "sha256": "baae901fdf981f86249b7cd4a35d5311eded31d71093852292c75ca4ac789613",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240576905",
+      "questions": [
+        "e2-033"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.429392+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240576905",
+      "sha256": "ae27198b7201fb3197bf68c9433c74a70c54d0d12c8500765efc0524a2500077",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=238390900",
+      "questions": [
+        "e2-034"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.604087+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=238390900",
+      "sha256": "d017653d1b1520983f759fa7236fa4a818b55f96b2f553561e5d5a9916da34df",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240379734",
+      "questions": [
+        "e2-035"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.685722+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240379734",
+      "sha256": "4f9819c8065e209efc4a3bfc998531de830fffb9936787edba7bedb3a9f692d7",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240181805",
+      "questions": [
+        "e2-036"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.786615+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240181805",
+      "sha256": "1a8dbd7779396d489bda81b7ab8f6769b02aa0e250d087d9a8dd6ba5a613ba44",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240782377",
+      "questions": [
+        "e2-036"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.821307+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240782377",
+      "sha256": "7f1d06d426d50befdec2adaf99c9e81a14617f35f641b970a9ef037b3c3f6e65",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240808358",
+      "questions": [
+        "e2-037"
+      ],
+      "checkedAt": "2026-10-30T14:40:25.897406+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240808358",
+      "sha256": "afd431da9f0fea06eb29d9f0cbadd3bc4943184d8ec7091a4ff88210f5a257a4",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=231739672",
+      "questions": [
+        "e2-038"
+      ],
+      "checkedAt": "2026-10-30T14:40:26.148944+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=231739672",
+      "sha256": "9990f5f6434c9350e4f1c296cc7a2c7562f207934069e507b9cbebfe41faaf43",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240617945",
+      "questions": [
+        "e2-039"
+      ],
+      "checkedAt": "2026-10-30T14:40:26.229963+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240617945",
+      "sha256": "e0cd08f338eb44cd6f031488a760f5a5a9ac027d5ada5c589e9a209284676bd6",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240552648",
+      "questions": [
+        "e2-040"
+      ],
+      "checkedAt": "2026-10-30T14:40:26.353123+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240552648",
+      "sha256": "1fef9e0faa944ff1cff7bef0c234645a7f44f55b83c3360ea5cd8fdc334b6988",
+      "checkedQuotes": 1,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240541256",
+      "questions": [
+        "e2-041"
+      ],
+      "checkedAt": "2026-10-30T14:40:26.493647+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240541256",
+      "sha256": "0630b8abf9e8076214de08cc778e730c3276ca2b049d65565bdff7281d2f2ce3",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=239809571",
+      "questions": [
+        "e2-042"
+      ],
+      "checkedAt": "2026-10-30T14:40:26.573912+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=239809571",
+      "sha256": "99f6c4dc25a16df328980f51c2f47132e429cee3aa27e72c95e669138efcff57",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240624742",
+      "questions": [
+        "e2-043"
+      ],
+      "checkedAt": "2026-10-30T14:40:26.775455+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240624742",
+      "sha256": "539d01488f9bdc5364c89e7b4c8eda73c8f71990c6846dcc8f3588caa907295f",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240759028",
+      "questions": [
+        "e2-044"
+      ],
+      "checkedAt": "2026-10-30T14:40:26.913019+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240759028",
+      "sha256": "c4ae54d645cc16390904a2e35b1ebe2a7bcc4eeb8c2e91f970d1652e4f0a351f",
+      "checkedQuotes": 1,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240405376",
+      "questions": [
+        "e2-045"
+      ],
+      "checkedAt": "2026-10-30T14:40:27.180919+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240405376",
+      "sha256": "0e691b02e8cc42a1bbbc39dc9953cf23f9275875179087bbd1f7a389f90628c9",
+      "checkedQuotes": 6,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240725565",
+      "questions": [
+        "e2-046"
+      ],
+      "checkedAt": "2026-10-30T14:40:27.234564+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240725565",
+      "sha256": "843af82ec1e2aa5ece344103829e3e525b0e9f25c1035997ffd5bbedbcd079aa",
+      "checkedQuotes": 1,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240068979",
+      "questions": [
+        "e2-047"
+      ],
+      "checkedAt": "2026-10-30T14:40:27.298888+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240068979",
+      "sha256": "71c95787390740b62feddcb5e58d96a95eb9e2343324b9697f0fb3e1069d27a4",
+      "checkedQuotes": 4,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=239565434",
+      "questions": [
+        "e2-048"
+      ],
+      "checkedAt": "2026-10-30T14:40:27.445231+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=239565434",
+      "sha256": "8c61ef80813ee17b294ba13b975d23cc11c08db92168abf5a87ec5686e1c41e2",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240857699",
+      "questions": [
+        "e2-049"
+      ],
+      "checkedAt": "2026-10-30T14:40:27.522470+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240857699",
+      "sha256": "e1627ae8a9705ea5b4fbcc49585346897766f7f09b5563c4ac54b17962fec300",
+      "checkedQuotes": 3,
+      "missingQuotes": [],
+      "passed": true
+    },
+    {
+      "url": "https://fr.wikipedia.org/w/index.php?oldid=240761491",
+      "questions": [
+        "e2-050"
+      ],
+      "checkedAt": "2026-10-30T14:40:27.526201+00:00",
+      "status": 200,
+      "finalUrl": "https://fr.wikipedia.org/w/index.php?oldid=240761491",
+      "sha256": "ea1ecda1ac143a5b571424fe1624e3476d15a21ea875cd5ceb54f5ea2b7a75c0",
+      "checkedQuotes": 2,
+      "missingQuotes": [],
+      "passed": true
+    }
+  ]
+}

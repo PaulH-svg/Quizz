@@ -1,0 +1,4 @@
+Minuit — Édition 02
+Version 0.2.0
+50 nouvelles questions : 25 films/séries, 13 tueurs en série, 12 faits divers français.
+Thème annoncé avant chaque question.
