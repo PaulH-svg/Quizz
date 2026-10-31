@@ -1,4 +1,4 @@
 Minuit — Halloween + Warhammer Fantasy
-Version 0.3.0
+Version 0.3.1
 50 questions Halloween et 10 questions Warhammer Fantasy.
 Parties indépendantes, habillages dédiés, régie et projection synchronisées.

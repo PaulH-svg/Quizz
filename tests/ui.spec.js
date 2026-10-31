@@ -51,3 +51,28 @@ test('edition switching synchronizes theme, clues, answers and independent score
  await page.setViewportSize({width:390,height:844});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();await expect(page.getByLabel('Édition du quiz')).toBeVisible();await page.screenshot({path:'/workspace/Quizz/work/warhammer-mobile.png',fullPage:true});
  await page.setViewportSize({width:1440,height:1000});await page.locator('[data-tab="overview"]').click();await page.screenshot({path:'/workspace/Quizz/work/warhammer-desktop.png',fullPage:true});await projection.close();
 });
+
+test('projection ignores conflicting stale regie broadcasts across several heartbeats',async({page,context})=>{
+ await page.goto('/');
+ const oldState=await page.evaluate(()=>JSON.parse(localStorage.getItem('minuit.quiz.v1'))||null);
+ const stale=oldState||initialState();
+ await page.getByLabel('Édition du quiz').selectOption('warhammer');
+ const pop=context.waitForEvent('page');await page.getByRole('button',{name:'Ouvrir la projection',exact:false}).click();const screen=await pop;await screen.waitForLoadState();
+ await expect(screen.locator('html')).toHaveAttribute('data-edition','warhammer');
+ // Reproduce a second regie running the previous sync code and answering hello
+ // with Halloween while the actual saved party is Warhammer.
+ await page.evaluate(stale=>{
+  window.staleChannel=new BroadcastChannel('minuit-sync');
+  window.staleChannel.onmessage=e=>{if(e.data.type==='hello')window.staleChannel.postMessage({type:'state',state:stale});};
+  window.staleTimer=setInterval(()=>window.staleChannel.postMessage({type:'state',state:stale}),150);
+ },stale);
+ const editions=await screen.evaluate(()=>new Promise(resolve=>{
+  const seen=[document.documentElement.dataset.edition];
+  const observer=new MutationObserver(()=>seen.push(document.documentElement.dataset.edition));
+  observer.observe(document.documentElement,{attributes:true,attributeFilter:['data-edition']});
+  setTimeout(()=>{observer.disconnect();resolve(seen);},6500);
+ }));
+ expect(editions.every(id=>id==='warhammer')).toBeTruthy();
+ await page.getByLabel('Édition du quiz').selectOption('halloween');await expect(screen.locator('html')).toHaveAttribute('data-edition','halloween');
+ await page.evaluate(()=>{clearInterval(window.staleTimer);window.staleChannel.close();});await screen.close();
+});

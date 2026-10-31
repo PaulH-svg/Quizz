@@ -25,12 +25,23 @@ function commit(){
  try{localStorage.setItem(STORE,JSON.stringify(state));channel?.postMessage({type:'state',state});}catch{toast('Stockage indisponible. Exportez votre partie pour la conserver.');}
  render();
 }
+// Storage is the single authority. A regie left open in another tab may still
+// broadcast an old snapshot; never let that snapshot override the saved edition.
+function refreshFromStorage(){
+ try{
+  const raw=localStorage.getItem(STORE);if(!raw||raw===JSON.stringify(state))return;
+  const saved=validateState(JSON.parse(raw));state=saved;render();
+ }catch{toast('Sauvegarde externe invalide ignorée.');}
+}
 channel?.addEventListener('message',e=>{
- if(e.data?.type==='hello'){linked=Date.now();if(!projection)channel.postMessage({type:'state',state});updateConnection();}
- if(e.data?.type==='state'&&projection){try{state=validateState(e.data.state);render();}catch{}}
+ if(e.data?.type==='hello'){linked=Date.now();updateConnection();}
+ if(e.data?.type==='state')refreshFromStorage();
 });
-window.addEventListener('storage',e=>{if(e.key===STORE&&e.newValue){try{state=validateState(JSON.parse(e.newValue));render();}catch{toast('Sauvegarde externe invalide ignorée.');}}});
-if(projection){channel?.postMessage({type:'hello'});setInterval(()=>channel?.postMessage({type:'hello'}),2000);}
+window.addEventListener('storage',e=>{if(e.key===STORE)refreshFromStorage();});
+if(projection){
+ const heartbeat=()=>{refreshFromStorage();channel?.postMessage({type:'hello'});};
+ heartbeat();setInterval(heartbeat,2000);
+}
 function updateConnection(){const el=$('#connection');if(el)el.innerHTML=`<i class="dot ${Date.now()-linked<5000?'green':''}"></i> ${Date.now()-linked<5000?'Projection connectée':'Projection déconnectée'}`;}
 if(!projection)setInterval(updateConnection,2000);
 function toast(message){let el=$('#toast');if(!el){el=document.createElement('div');el.id='toast';el.setAttribute('role','status');document.body.append(el);}el.textContent=message;el.classList.add('visible');clearTimeout(toast.timer);toast.timer=setTimeout(()=>el.classList.remove('visible'),4500);}
