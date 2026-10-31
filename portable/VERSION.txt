@@ -1,4 +1,4 @@
-Minuit — Édition 02
-Version 0.2.0
-50 nouvelles questions : 25 films/séries, 13 tueurs en série, 12 faits divers français.
-Thème annoncé avant chaque question.
+Minuit — Halloween + Warhammer Fantasy
+Version 0.3.0
+50 questions Halloween et 10 questions Warhammer Fantasy.
+Parties indépendantes, habillages dédiés, régie et projection synchronisées.

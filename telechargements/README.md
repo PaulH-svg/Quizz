@@ -1,11 +1,9 @@
-# Minuit — Édition 02
+# Télécharger Minuit — Halloween et Warhammer Fantasy
 
-[**Télécharger Minuit-portable-edition-2.zip**](Minuit-portable-edition-2.zip)
+[**Télécharger le ZIP multi-éditions**](https://github.com/PaulH-svg/Quizz/raw/refs/heads/codex/minuit-portable/telechargements/Minuit-portable-multi-editions.zip)
 
-50 nouvelles questions : **25 films/séries d’horreur, 13 tueurs en série, 12 faits divers français**. Les thèmes sont mélangés et annoncés avant chaque question.
+Version 0.3.0 : 50 questions Halloween, 10 questions Warhammer Fantasy précisément sourcées, sélecteur, parties et scores indépendants, habillages dédiés, régie et projection synchronisées.
 
-Sur GitHub, ouvrir le ZIP puis cliquer sur **Download raw file**. Décompresser entièrement, installer [Node.js LTS](https://nodejs.org), puis double-cliquer sur `Lancer Minuit.bat` sous Windows. Le ZIP inclut les instructions Mac/Linux. Aucun `npm install` n’est nécessaire.
+Extraire tout le ZIP, installer Node.js LTS une fois, puis ouvrir le lanceur adapté à Windows, Mac ou Linux. Aucun npm install n’est nécessaire. Le guide et les dossiers documentaires sont inclus. Les références externes nécessitent Internet.
 
-**Si vous avez déjà testé l’édition 01 :** arrêter l’ancien lanceur avant de démarrer celui du nouveau dossier. Actualiser le navigateur avec Ctrl+F5. Les équipes et joueurs sont conservés ; les scores repartent à zéro et l’ancienne partie est archivée et exportable.
-
-Le nom de fichier générique [Minuit-portable.zip](Minuit-portable.zip) désigne également cette nouvelle édition.
+Le fichier `.sha256` permet de vérifier l’intégrité du téléchargement. `Minuit-portable.zip` est un alias du même ZIP ; l’ancienne édition 02 reste disponible dans son archive dédiée.

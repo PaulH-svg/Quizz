@@ -1,0 +1,272 @@
+[
+  {
+    "id": "wh01",
+    "category": "realms",
+    "title": "Le berceau des Hauts Elfes",
+    "prompt": "Quelle île est la patrie des Hauts Elfes ?",
+    "answer": "Ulthuan",
+    "clues": [
+      "C’est une patrie insulaire et magique.",
+      "Ses habitants dominaient les mers avant la fondation de l’Empire."
+    ],
+    "explanation": "Accepter Ulthuan.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — The High Elves of Elthin Arvan — 2025-02-11",
+        "url": "https://www.warhammer-community.com/en-gb/articles/u9lmibri/old-world-almanack-the-high-elves-of-elthin-arvan/",
+        "section": "Introduction, premier paragraphe",
+        "quotes": [
+          "magical island home of Ulthuan"
+        ],
+        "evidence": "Introduction, premier paragraphe : Le premier paragraphe situe explicitement la patrie insulaire des Hauts Elfes. Repère original : « magical island home of Ulthuan ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh02",
+    "category": "legends",
+    "title": "Le premier roi",
+    "prompt": "Qui est le premier roi de Bretonnie ?",
+    "answer": "Gilles le Breton",
+    "clues": [
+      "Il combat aux côtés de compagnons liés par serment.",
+      "Il est le premier à boire au calice de la Dame."
+    ],
+    "explanation": "Accepter Gilles le Breton.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — Discover Bretonnia, a Land of Chivalry and Honour — 2023-12-27",
+        "url": "https://www.warhammer-community.com/en-gb/articles/1iAtL8DL/old-world-almanack-discover-bretonnia-a-land-of-chivalry-and-honour/",
+        "section": "Bretonnian History, paragraphes 1 et 2",
+        "quotes": [
+          "Gilles le Breton"
+        ],
+        "evidence": "Bretonnian History, paragraphes 1 et 2 : Cette section présente le fondateur et son lien avec le Graal. Repère original : « Gilles le Breton ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh03",
+    "category": "ancient",
+    "title": "Le conquérant de Khemri",
+    "prompt": "Quel souverain unifie les royaumes de Nehekhara depuis Khemri ?",
+    "answer": "Settra",
+    "clues": [
+      "Ce roi recherche l’immortalité.",
+      "Il ordonne la construction de sa grande pyramide."
+    ],
+    "explanation": "Accepter Settra ou Settra l’Impérissable.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — The Noble History of the Tomb Kings of Khemri — 2023-12-29",
+        "url": "https://www.warhammer-community.com/en-gb/articles/LiiiU2fz/old-world-almanack-the-noble-history-of-the-tomb-kings-of-khemri/",
+        "section": "Introduction et The Mortuary Cult",
+        "quotes": [
+          "Settra ascended to the throne"
+        ],
+        "evidence": "Introduction et The Mortuary Cult : L’introduction décrit l’unification ; la section suivante explique sa quête d’immortalité. Repère original : « Settra ascended to the throne ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh04",
+    "category": "realms",
+    "title": "Un royaume sous la montagne",
+    "prompt": "Quel nom désigne l’ensemble du royaume nain ?",
+    "answer": "Karaz Ankor",
+    "clues": [
+      "Il englobe les forteresses naines.",
+      "Son nom commence par Karaz."
+    ],
+    "explanation": "Accepter Karaz Ankor.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — The Lore of the Dwarfen Mountain Holds — 2024-07-18",
+        "url": "https://www.warhammer-community.com/en-gb/articles/fTYbodkH/old-world-almanack-the-lore-of-the-dwarfen-mountain-holds/",
+        "section": "Introduction, premier paragraphe",
+        "quotes": [
+          "Karaz Ankor"
+        ],
+        "evidence": "Introduction, premier paragraphe : L’introduction définit ce nom comme le royaume nain dans son ensemble. Repère original : « Karaz Ankor ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh05",
+    "category": "legends",
+    "title": "Au bout de la quête",
+    "prompt": "Quel mystérieux chevalier défie les quêteurs bretonniens dans les brumes ?",
+    "answer": "Le Chevalier de Sinople",
+    "clues": [
+      "Il protège la Dame.",
+      "La source anglaise le nomme Green Knight."
+    ],
+    "explanation": "Accepter Chevalier de Sinople, Chevalier Vert ou Green Knight. Son identité reste mystérieuse.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — Discover Bretonnia, a Land of Chivalry and Honour — 2023-12-27",
+        "url": "https://www.warhammer-community.com/en-gb/articles/1iAtL8DL/old-world-almanack-discover-bretonnia-a-land-of-chivalry-and-honour/",
+        "section": "The Green Knight, deux paragraphes",
+        "quotes": [
+          "Green Knight"
+        ],
+        "evidence": "The Green Knight, deux paragraphes : La section décrit ses apparitions et ses duels, sans trancher son identité. Repère original : « Green Knight ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh06",
+    "category": "ancient",
+    "title": "Le rituel des morts",
+    "prompt": "Quel prêtre lance le grand rituel qui réveille les anciens monarques de Nehekhara ?",
+    "answer": "Nagash",
+    "clues": [
+      "Le rituel intervient après la mort de Settra.",
+      "Les souverains reviennent liés à leurs dépouilles."
+    ],
+    "explanation": "Accepter Nagash.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — The Noble History of the Tomb Kings of Khemri — 2023-12-29",
+        "url": "https://www.warhammer-community.com/en-gb/articles/LiiiU2fz/old-world-almanack-the-noble-history-of-the-tomb-kings-of-khemri/",
+        "section": "The Mortuary Cult, paragraphe commençant par When the traitorous priest",
+        "quotes": [
+          "the traitorous priest Nagash"
+        ],
+        "evidence": "The Mortuary Cult, paragraphe commençant par When the traitorous priest : Le passage sur le rituel l’attribue explicitement à Nagash. Repère original : « the traitorous priest Nagash ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh07",
+    "category": "realms",
+    "title": "Le domaine des Elfes Sylvains",
+    "prompt": "Dans quel royaume forestier vivent les Elfes Sylvains voisins de la Bretonnie ?",
+    "answer": "Athel Loren",
+    "clues": [
+      "La forêt borde le flanc oriental de la Bretonnie.",
+      "Elle échappe en pratique à l’autorité du roi humain."
+    ],
+    "explanation": "Accepter Athel Loren ou la forêt de Loren.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — Discover Bretonnia, a Land of Chivalry and Honour — 2023-12-27",
+        "url": "https://www.warhammer-community.com/en-gb/articles/1iAtL8DL/old-world-almanack-discover-bretonnia-a-land-of-chivalry-and-honour/",
+        "section": "Athel Loren and the Wood Elves, premier paragraphe",
+        "quotes": [
+          "hidden realm of Athel Loren"
+        ],
+        "evidence": "Athel Loren and the Wood Elves, premier paragraphe : La section situe la forêt et ses habitants. Repère original : « hidden realm of Athel Loren ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh08",
+    "category": "legends",
+    "title": "Avant le règne de Thorgrim",
+    "prompt": "Depuis quelle forteresse Alrik Alriksson règne-t-il comme Haut Roi nain à l’époque de The Old World ?",
+    "answer": "Karaz-a-Karak",
+    "clues": [
+      "La question concerne l’époque antérieure à la Grande Guerre contre le Chaos.",
+      "Ne pas confondre cette forteresse avec Karak Kadrin."
+    ],
+    "explanation": "Accepter Karaz-a-Karak. Le cadre chronologique évite de confondre Alrik avec son successeur Thorgrim.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — The Lore of the Dwarfen Mountain Holds — 2024-07-18",
+        "url": "https://www.warhammer-community.com/en-gb/articles/fTYbodkH/old-world-almanack-the-lore-of-the-dwarfen-mountain-holds/",
+        "section": "Entretien JTY, paragraphe commençant par « It’s quite a hopeful time period »",
+        "quotes": [
+          "ruling out of Karaz-a-Karak"
+        ],
+        "evidence": "Entretien JTY, paragraphe commençant par « It’s quite a hopeful time period » : JTY situe le siège du Haut Roi et évoque ensuite la succession de Thorgrim. Repère original : « ruling out of Karaz-a-Karak ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh09",
+    "category": "ancient",
+    "title": "Le port du Westerland",
+    "prompt": "Quel grand port enrichit le Westerland à l’époque décrite dans The Old World ?",
+    "answer": "Marienburg",
+    "clues": [
+      "Ses marchands tirent leur richesse du commerce maritime.",
+      "La province est dirigée par Elspeth Magritta VI."
+    ],
+    "explanation": "Accepter Marienburg.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — Explore the war torn lands of the World-that-Was — 2023-01-11",
+        "url": "https://www.warhammer-community.com/en-gb/articles/IYqmh2f4/old-world-development-diary-explore-the-war-torn-lands-of-the-world-that-was/",
+        "section": "The Barony of Westerland",
+        "quotes": [
+          "Marienburg"
+        ],
+        "evidence": "The Barony of Westerland : La section relie la richesse du Westerland au trafic de ses ports. Repère original : « Marienburg ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "wh10",
+    "category": "realms",
+    "title": "Une guerre entre anciens alliés",
+    "prompt": "Quelle guerre oppose les Hauts Elfes aux Nains après leur ancienne amitié ?",
+    "answer": "La Guerre de la Barbe",
+    "clues": [
+      "Elle oppose deux peuples déjà anciens avant les royaumes humains.",
+      "Son nom anglais est War of the Beard."
+    ],
+    "explanation": "Accepter Guerre de la Barbe ou Guerre de la Vengeance.",
+    "mode": "text",
+    "verified": true,
+    "verifiedAt": "2026-10-31",
+    "sources": [
+      {
+        "title": "Games Workshop — Warhammer Community — The High Elves of Elthin Arvan — 2025-02-11",
+        "url": "https://www.warhammer-community.com/en-gb/articles/u9lmibri/old-world-almanack-the-high-elves-of-elthin-arvan/",
+        "section": "Introduction, premier paragraphe",
+        "quotes": [
+          "War of the Beard"
+        ],
+        "evidence": "Introduction, premier paragraphe : L’introduction résume la rupture entre les deux peuples et la défaite elfique. Repère original : « War of the Beard ».",
+        "consultedAt": "2026-10-31"
+      }
+    ]
+  }
+]

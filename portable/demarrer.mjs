@@ -35,7 +35,7 @@ server.on('error', error => {
   process.exitCode = 1;
 });
 server.listen(port, '127.0.0.1', () => {
-  console.log(`\n  MINUIT — ÉDITION 02 — 50 questions\n\n  Ouvrez ${address} dans votre navigateur.\n  Gardez cette fenêtre ouverte pendant la soirée.\n  Pour arrêter : Ctrl+C ou fermez cette fenêtre.\n`);
+  console.log(`\n  MINUIT — HALLOWEEN + WARHAMMER FANTASY — 60 questions\n\n  Ouvrez ${address} dans votre navigateur.\n  Gardez cette fenêtre ouverte pendant la soirée.\n  Pour arrêter : Ctrl+C ou fermez cette fenêtre.\n`);
   if (!process.argv.includes('--sans-navigateur')) {
     const [command, args] = process.platform === 'win32'
       ? ['cmd.exe', ['/d', '/c', 'start', '', address]]

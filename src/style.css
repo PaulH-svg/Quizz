@@ -7,3 +7,19 @@
 [hidden]{display:none!important}.btn svg,.nav-item svg{width:14px;height:14px;display:block;flex-shrink:0}.nav-item svg{width:17px;height:17px}.mobile-backups{display:none}.row-arrow svg,.universe-bottom svg{width:14px;height:14px}.topbar .btn>span{display:inline-flex}.hero{isolation:isolate}@media(max-width:640px){.nav-item{width:25%;white-space:normal;text-align:center;justify-content:center;padding:12px 4px;font-size:8px;min-width:0;line-height:1.5}.nav-item>span:first-child{display:none}.shell footer{flex-wrap:wrap;gap:15px}.mobile-backups{display:flex;width:100%;gap:18px}.mobile-backups .text-btn{font-size:9px}.moon-art{max-width:100%;overflow:hidden}}
 .sources>div+div{margin-top:15px}.sources small{display:block;color:#a494b0;font-size:9px;margin-top:6px}.extra-sources{margin-top:18px;color:#c4afd2;font-size:11px}.extra-sources summary{cursor:pointer}.projection .sources small{font-size:11px}
 .project-theme{text-align:center;max-width:950px;margin:auto}.project-theme .mini-label{color:#aa97b7}.theme-emblem{font-size:76px;color:var(--cat);margin:25px 0 15px;line-height:1}.project-theme h2{font-size:32px;line-height:1.35;color:var(--cat);font-weight:500}.project-theme p{font-size:14px;line-height:1.8;color:#baa8c7;margin-top:22px}.projection .theme-emblem{font-size:130px;margin:45px 0 30px}.projection .project-theme h2{font-size:clamp(35px,5vw,82px)}.projection .project-theme p{font-size:24px;margin-top:32px}.backup-actions{flex-wrap:wrap}.notice>.text-btn{flex-shrink:0;align-self:center}@media(max-width:640px){.notice{flex-wrap:wrap}.projection .theme-emblem{font-size:90px}.projection .project-theme p{font-size:18px}}
+
+
+.edition-picker{font-size:10px;color:var(--muted);display:flex;align-items:center;gap:8px;flex-shrink:0}.edition-picker select{max-width:220px;background:var(--panel);color:inherit;border:1px solid var(--line);border-radius:6px;padding:8px}.breadcrumb-wrap{margin-right:auto}
+:root[data-edition="warhammer"]{--orange:#dbb76c;--purple:#a6c4ac;--panel:#17201e;--line:#38443b;--muted:#9baa9d;background:#101815;color:#ece8d9}
+[data-edition="warhammer"] h1,[data-edition="warhammer"] h2,[data-edition="warhammer"] h3{font-family:Georgia,serif;letter-spacing:.2px}
+[data-edition="warhammer"] .sidebar{background:#111b18}
+[data-edition="warhammer"] .nav-item.active{background:#2e3527;border-color:#64714b;color:#f1d391}
+[data-edition="warhammer"] .hero{background:radial-gradient(ellipse at 70% 30%,#44513b,#17241f 70%);border-color:#667052}
+[data-edition="warhammer"] .moon-art:after{content:'⚔';position:absolute;inset:35px 20px auto;text-align:center;font-size:180px;color:#d6b677;text-shadow:0 8px 30px #0009}
+[data-edition="warhammer"] .moon-disc,[data-edition="warhammer"] .pine,[data-edition="warhammer"] .hill,[data-edition="warhammer"] .orbit{display:none}
+[data-edition="warhammer"] .preview,[data-edition="warhammer"] .projection{background:radial-gradient(ellipse at 50% 25%,#344834,#101b17 80%)}
+[data-edition="warhammer"] .universe{background:linear-gradient(140deg,#26352a,#1b2420);border-color:#546047}
+[data-edition="warhammer"] .project-lobby h2 em,[data-edition="warhammer"] .answer h3,[data-edition="warhammer"] .hero h2 span{color:#e5c47e}
+[data-edition="warhammer"] .source-card{background:#263127}
+@media(max-width:1200px){.breadcrumb-wrap{display:none}.topbar{gap:10px}.edition-picker select{max-width:190px}}
+@media(max-width:640px){.topbar{height:auto;min-height:70px;flex-wrap:wrap;padding-top:10px;padding-bottom:10px}.edition-picker{font-size:9px}.edition-picker select{max-width:180px}.topbar-right{margin-left:auto}.topbar .btn{font-size:9px;padding:8px}.edition-picker select{min-height:36px}}

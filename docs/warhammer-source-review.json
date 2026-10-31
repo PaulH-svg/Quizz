@@ -1,0 +1,53 @@
+{
+  "method": "Lecture documentaire des cinq articles officiels via navigateur ; repères textuels et sections relus. Aucun contrôle HTTP automatique local.",
+  "consultedAt": "2026-10-31",
+  "questions": 10,
+  "questionBankSha256": "2a6aa80c98a0f46c273f57b7fd42181a9e786c13c8883a5dd64bf8b9afcfc5ea",
+  "sources": [
+    {
+      "url": "https://www.warhammer-community.com/en-gb/articles/1iAtL8DL/old-world-almanack-discover-bretonnia-a-land-of-chivalry-and-honour/",
+      "title": "Discover Bretonnia, a Land of Chivalry and Honour",
+      "publishedAt": "2023-12-27",
+      "questions": [
+        "wh02",
+        "wh05",
+        "wh07"
+      ]
+    },
+    {
+      "url": "https://www.warhammer-community.com/en-gb/articles/fTYbodkH/old-world-almanack-the-lore-of-the-dwarfen-mountain-holds/",
+      "title": "The Lore of the Dwarfen Mountain Holds",
+      "publishedAt": "2024-07-18",
+      "questions": [
+        "wh04",
+        "wh08"
+      ]
+    },
+    {
+      "url": "https://www.warhammer-community.com/en-gb/articles/IYqmh2f4/old-world-development-diary-explore-the-war-torn-lands-of-the-world-that-was/",
+      "title": "Explore the war torn lands of the World-that-Was",
+      "publishedAt": "2023-01-11",
+      "questions": [
+        "wh09"
+      ]
+    },
+    {
+      "url": "https://www.warhammer-community.com/en-gb/articles/LiiiU2fz/old-world-almanack-the-noble-history-of-the-tomb-kings-of-khemri/",
+      "title": "The Noble History of the Tomb Kings of Khemri",
+      "publishedAt": "2023-12-29",
+      "questions": [
+        "wh03",
+        "wh06"
+      ]
+    },
+    {
+      "url": "https://www.warhammer-community.com/en-gb/articles/u9lmibri/old-world-almanack-the-high-elves-of-elthin-arvan/",
+      "title": "The High Elves of Elthin Arvan",
+      "publishedAt": "2025-02-11",
+      "questions": [
+        "wh01",
+        "wh10"
+      ]
+    }
+  ]
+}

@@ -1,9 +1,13 @@
 import bundledQuestions from './questions.json' with { type: 'json' };
+import warhammerQuestions from './warhammer.json' with { type: 'json' };
 export const STORE = 'minuit.quiz.v1';
 export const categories = {
   cinema: { name: 'Films & séries d’horreur', icon: '✦', color: '#c5b5ff', description: 'Cinéma, séries & frissons' },
   crime: { name: 'Tueurs en série', icon: '◈', color: '#e6a883', description: 'Enquêtes & histoire criminelle' },
   france: { name: 'Faits divers français', icon: '⌕', color: '#a9c9bd', description: 'Archives & affaires françaises' },
+  realms: {name:'Royaumes & peuples',icon:'⚜',color:'#dfbd78',description:'Bretonnie, Elfes et Nains'},
+  legends: {name:'Héros & légendes',icon:'⚔',color:'#c89383',description:'Serments et personnages'},
+  ancient: {name:'Empires anciens',icon:'◈',color:'#9fbea9',description:'Nehekhara et cités impériales'},
 };
 export const BANK_VERSION = 2;
 export const initialQuestions = bundledQuestions;
@@ -43,7 +47,7 @@ export function award(state,teamId,delta,questionId=null){
  if(questionId && state.ledger.some(x=>x.questionId===questionId&&x.teamId===teamId&&x.kind==='answer')) return false;
  state.ledger.push({id:crypto.randomUUID(),teamId,delta,questionId,kind:questionId?'answer':'manual',at:new Date().toISOString()});return true;
 }
-export function validateState(s){
+function validateGame(s){
  if(!s||s.version!==1||!Array.isArray(s.teams)||!Array.isArray(s.players)||!Array.isArray(s.questions)||!Array.isArray(s.ledger)||!s.session)throw Error('Format de sauvegarde incompatible.');
  if(s.teams.length>100||s.players.length>500||s.questions.length>300||s.ledger.length>20000)throw Error('Sauvegarde trop volumineuse.');
  const str=x=>typeof x==='string';const ids=xs=>xs.every(x=>x&&str(x.id)&&/^[a-zA-Z0-9_-]{1,80}$/.test(x.id))&&new Set(xs.map(x=>x.id)).size===xs.length;
@@ -54,5 +58,38 @@ export function validateState(s){
  if(!s.ledger.every(x=>s.teams.some(t=>t.id===x.teamId)&&Number.isInteger(x.delta)&&Math.abs(x.delta)<=100&&['manual','answer'].includes(x.kind)&&str(x.at)&&(x.questionId===null||s.questions.some(q=>q.id===x.questionId))))throw Error('Historique invalide.');
  const p=s.session;if(!['lobby','theme','question','scores','end'].includes(p.stage)||!Number.isInteger(p.clue)||p.clue<0||p.clue>2||typeof p.revealed!=='boolean'||!Array.isArray(p.visited)||!p.visited.every(id=>s.questions.some(q=>q.id===id))||(p.questionId!==null&&!s.questions.some(q=>q.id===p.questionId)))throw Error('Partie invalide.');
  if(['theme','question'].includes(p.stage)&&!playable(current(s)))throw Error('La question active n’est pas vérifiée.');
+ return s;
+}
+
+
+export const editions = {
+ halloween: {name:'Halloween · Édition 02',label:'ÉDITION HALLOWEEN',tagline:'LE QUIZ DE L’ÉTRANGE',symbol:'☾',categories:['cinema','crime','france']},
+ warhammer: {name:'Warhammer Fantasy',label:'WARHAMMER FANTASY',tagline:'LES CHRONIQUES DU VIEUX MONDE',symbol:'⚔',categories:['realms','legends','ancient']},
+};
+export function editionId(s){return s.editionId || 'halloween';}
+export function editionCategories(s){return Object.fromEntries(editions[editionId(s)].categories.map(id=>[id,categories[id]]));}
+function gameSnapshot(s){const copy=structuredClone(s);delete copy.editionId;delete copy.savedEditions;return copy;}
+export function switchEdition(s,id){
+ if(!Object.hasOwn(editions,id))throw Error('Édition inconnue.');
+ const old=editionId(s);if(id===old)return false;
+ const saved=structuredClone(s.savedEditions||{});
+ saved[old]=gameSnapshot(s);
+ let target=saved[id];
+ if(!target){target=initialState();target.teams=structuredClone(s.teams);target.players=structuredClone(s.players);if(id==='warhammer')target.questions=structuredClone(warhammerQuestions);}
+ delete saved[id];
+ validateGame(target);
+ for(const key of Object.keys(s))delete s[key];
+ Object.assign(s,target,{editionId:id,savedEditions:saved});return true;
+}
+export function validateState(s){
+ validateGame(s);
+ if(s.editionId!==undefined&&!Object.hasOwn(editions,s.editionId))throw Error('Édition inconnue.');
+ if(s.savedEditions!==undefined){
+  if(!s.savedEditions||typeof s.savedEditions!=='object'||Array.isArray(s.savedEditions)||Object.keys(s.savedEditions).length>1)throw Error('Archives d’éditions invalides.');
+  for(const [id,game] of Object.entries(s.savedEditions)){
+   if(!Object.hasOwn(editions,id)||id===editionId(s)||game.savedEditions!==undefined||game.editionId!==undefined)throw Error('Archive d’édition invalide.');
+   validateGame(game);
+  }
+ }
  return s;
 }

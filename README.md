@@ -6,7 +6,7 @@ Première version d’un quiz de soirée pour adultes, sans images choquantes : 
 
 Télécharger puis extraire entièrement `releases/Minuit-portable.zip`. Installer [Node.js LTS](https://nodejs.org) une seule fois, puis ouvrir `Lancer Minuit.bat` sous Windows. Sur Mac, exécuter `sh "Lancer Minuit.command"` depuis le dossier extrait ; sous Linux, `sh "Lancer Minuit.sh"`. Le lanceur ouvre le navigateur et doit rester ouvert pendant la partie. Le guide `LIRE-MOI.txt` du ZIP détaille l’utilisation des deux écrans.
 
-Le dossier portable inclut l’application compilée, ses polices et les 50 questions. Aucune installation npm n’est requise pour l’utiliser. Les références externes nécessitent Internet. Le stockage est propre au navigateur et à l’adresse utilisée : exporter/importer pour transférer une partie existante.
+Le dossier portable inclut l’application compilée, ses polices, les 50 questions Halloween et 10 questions Warhammer Fantasy. Aucune installation npm n’est requise pour l’utiliser. Les références externes nécessitent Internet. Le stockage est propre au navigateur et à l’adresse utilisée : exporter/importer pour transférer une partie existante.
 
 Pour reconstruire le ZIP depuis le dépôt (Node.js de développement et Python 3 requis) :
 
@@ -14,6 +14,16 @@ Pour reconstruire le ZIP depuis le dépôt (Node.js de développement et Python 
 npm ci
 npm run package:portable
 ```
+
+## Choisir son édition
+
+Le sélecteur **Édition** est disponible en haut de la régie, sur ordinateur et mobile. Il propose **Halloween · Édition 02** (50 questions) et **Warhammer Fantasy** (10 questions). Chaque univers possède ses couleurs, sa typographie, ses emblèmes et ses catégories, appliqués aussi à la projection.
+
+La première ouverture d’une édition reprend les équipes et joueurs de l’édition active, avec des scores à zéro. Ensuite, chaque édition conserve indépendamment ses participants, questions personnalisées, historique de points, question active, étape thème/question, indices, révélation et questions visitées. Un changement d’édition restaure immédiatement cette partie sur les deux écrans. Les remises à zéro et suppressions concernent uniquement l’édition active. L’export JSON sauvegarde les deux éditions ; l’import les restaure ensemble. Les sauvegardes de l’édition 02 déjà utilisées restent intactes.
+
+Les 10 questions Warhammer Fantasy concernent le **Vieux Monde**, documenté par cinq articles officiels de Games Workshop sur **The Old World**. Les faits dépendant d’une époque sont datés dans l’énoncé. Chaque fiche fournit le lien exact, l’organisme, la date de publication, la section, un court repère original et la date de consultation. Voir le [dossier des questions](docs/warhammer-questions.md) et la [revue documentaire](docs/warhammer-source-review.json), liée à l’empreinte SHA-256 de la banque. Ces sources ont été lues via le navigateur documentaire le 31 octobre 2026 ; le rapport distingue cette lecture du contrôle HTTP automatique de la banque Halloween.
+
+Télécharger le ZIP depuis [le dossier GitHub](https://github.com/PaulH-svg/Quizz/tree/codex/minuit-portable/telechargements). Les références nécessitent Internet ; le jeu et ses habillages fonctionnent localement.
 
 ## Démarrer
 

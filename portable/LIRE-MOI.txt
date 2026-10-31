@@ -1,4 +1,4 @@
-MINUIT — ÉDITION 02 — PREMIER LANCEMENT
+MINUIT — HALLOWEEN ET WARHAMMER FANTASY — PREMIER LANCEMENT
 
 1. Installez Node.js LTS depuis https://nodejs.org (une seule fois).
 2. Extrayez entièrement le fichier ZIP. Ne lancez pas les fichiers depuis le ZIP.
@@ -49,3 +49,10 @@ Gardez la même adresse http://127.0.0.1:4317 et le même navigateur.
 Les équipes et joueurs sont conservés. Les scores sont remis à zéro.
 L’ancienne partie reste disponible via « Exporter l’ancienne partie ».
 La répartition est : 25 films/séries, 13 tueurs en série, 12 faits divers français.
+
+
+CHOISIR SON UNIVERS
+
+Le menu Édition en haut de la régie propose Halloween (50 questions) et Warhammer Fantasy (10 questions sur le Vieux Monde). Le changement est aussi appliqué à la projection.
+À sa première ouverture, une édition copie les participants et démarre à zéro. Ensuite, elle conserve sa propre progression, ses questions, ses participants et ses scores. Revenir à une édition reprend la partie. Exporter sauvegarde les deux éditions ensemble.
+Les dossiers sources contiennent les références des deux banques.
